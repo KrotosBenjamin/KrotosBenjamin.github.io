@@ -53,10 +53,11 @@ underrepresented minorities.
 
 #### Neurological research in African Americans to reduce health disparities (K99)
 
-| **Project Title** | Comprehensive Computational Analysis of Genetic and Regulatory Differences Between Individuals With African and European Ancestries Across Four Brain Regions |
-| Funding NIH Institute/Center | National Institute on Minority Health and Health Disparities                                    |
-| Grant ID                     | [K99MD0169640](https://reporter.nih.gov/search/fZ-vbKVe5UCpRs4Cy1JD8Q/project-details/10351433) |
-| [MOSAIC](https://www.nigms.nih.gov/training/careerdev/Pages/MOSAIC.aspx) Scientific Society | [The Association of American Medical Colleges](https://www.aamc.org/) (AAMC) |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Project Title**            | Comprehensive Computational Analysis of Genetic and Regulatory Differences Between Individuals With African and European Ancestries Across Four Brain Regions |
+| Funding NIH Institute/Center | National Institute on Minority Health and Health Disparities                                                                                                  |
+| Grant ID                     | [K99MD0169640](https://reporter.nih.gov/search/fZ-vbKVe5UCpRs4Cy1JD8Q/project-details/10351433)                                                               |
+| [MOSAIC](https://www.nigms.nih.gov/training/careerdev/Pages/MOSAIC.aspx) Scientific Society | [The Association of American Medical Colleges](https://www.aamc.org/) (AAMC)                   |
 
 In neuroscience and genomics, individuals with recent African ancestry (AA) account for less than 5% of large-scale
 research cohorts for brain disorders but are 20% more likely to experience a major mental health crisis. Furthermore,
