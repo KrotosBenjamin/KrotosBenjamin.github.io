@@ -37,7 +37,7 @@ underrepresented minorities.
 ## Education
 <div style="margin-left: auto;
             margin-right: auto;
-            width: 95%">
+            width: 100%">
 
 | Institute / University                              | Location            | Degree/Field                                  | Completion Year |
 |-----------------------------------------------------|---------------------|:---------------------------------------------:|:---------------:|
@@ -53,6 +53,7 @@ underrepresented minorities.
 
 #### Neurological research in African Americans to reduce health disparities (K99)
 
+| Description                  | Information                                                                                                                                                   |
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Project Title**            | Comprehensive Computational Analysis of Genetic and Regulatory Differences Between Individuals With African and European Ancestries Across Four Brain Regions |
 | Funding NIH Institute/Center | National Institute on Minority Health and Health Disparities                                                                                                  |
