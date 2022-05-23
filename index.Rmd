@@ -49,16 +49,16 @@ underrepresented minorities.
 
 </div> \
 
-
 ## Research Interests
 
 #### Neurological research in African Americans to reduce health disparities (K99)
 
-**Project Title**:            Comprehensive Computational Analysis of Genetic and Regulatory Differences Between Individuals With African and European Ancestries Across Four Brain Regions\
-Funding NIH Institute/Center: National Institute on Minority Health and Health Disparities\
-Grant ID:                     [K99MD0169640](https://reporter.nih.gov/search/fZ-vbKVe5UCpRs4Cy1JD8Q/project-details/10351433)\
-[MOSAIC](https://www.nigms.nih.gov/training/careerdev/Pages/MOSAIC.aspx) Scientific Society: [The Association of American Medical Colleges](https://www.aamc.org/) (AAMC)\
+**Project**: Comprehensive Computational Analysis of Genetic and Regulatory Differences Between Individuals With
+African and European Ancestries Across Four Brain Regions. Funding from National Institute on Minority Health and
+Health Disparities ( [K99MD0169640](https://reporter.nih.gov/search/fZ-vbKVe5UCpRs4Cy1JD8Q/project-details/10351433) ).
 
+[MOSAIC](https://www.nigms.nih.gov/training/careerdev/Pages/MOSAIC.aspx) Scientific Society:
+[The Association of American Medical Colleges](https://www.aamc.org/) (AAMC).\
 
 In neuroscience and genomics, individuals with recent African ancestry (AA) account for less than 5% of large-scale
 research cohorts for brain disorders but are 20% more likely to experience a major mental health crisis. Furthermore,
@@ -100,6 +100,64 @@ Authors: Kynon Jade Benjamin, Apuã Paquola, and Tarun Katipalli
 
 #### Collaborations
 
+**Project**: Angiotensin II receptors in the human lung\
+*Rationale*: The renin-angiotensin system is one of the most well characterized integrative pathways in humans and is known
+to contribute to a variety of common disorders such as hypertension, chronic renal disease, and heart failure. The wide
+availability of agents targeting this pathway has led to an expansion of its clinical spectrum to lung disorders. Despite
+this widespread interest, specific localization of this receptor family in the vertebrate lung is limited. One reason is
+due to the general imprecision of the available antibody reagents.\
+**Goal**: Use publicly available single-cell and bulk RNA-sequencing to identify and characterize patterns of angiotensin II
+receptor expression in the lung at different ages.
 
 ## Select Publications
 
+**Benjamin, KJM**, Feltrin, AS, Barbosa, AR, Jaffe, AE, Collado-Torres, L, Burke, EE, Shin, JH, Ulrich, WS, Deep-Soboslay,
+A, Tao, R, the BrainSeq Consortium, Hyde, TM, Kleinman, JE, Erwin, JA, Weinberger, DR, and Apuã CM Paquola (2020).
+``Caudate nucleus transcriptome implicates decreased presynaptic dopamine autoregulation as the dopamine risk factor for
+schizophrenia''. DOI: https://doi.org/10.1101/2020.11.18.20230540.
+
+Sawada, T, **Benjamin, KJM**, Brandtjen, AC, Tietze, E, Allen, SJ, Paquola, ACM, Kleinman, JE, Hyde, TM, and Jennifer A
+Erwin. ``Generation of four postmortem dura-derived iPS cell lines from four control individuals with genotypic and
+brain-region-specific transcrptomic data available through the BrainSEQ consortium''. \textit{Stem Cell Research}. 2020.
+PMID: 32446240.
+
+## Past Funding
+
+Grant ID: T32 MH015330 }{Ross}{07/01/1978-06/30/2025}\
+Role: Postdoctoral Fellow
+{This Interdisciplinary Training Program in Psychiatry and
+  Neuroscience provides postdoctoral research training in areas
+  relevant to the neurobiological bases of mental disorders. The close
+interaction with the Lieber Institute provides additional training
+opportunities with large-scale postmortem genetic and regulatory studies.}
+
+
+\grantinfo{CVM Advanced Developmental Training Travel Award}{Benjamin}{05/01/2015-08/31/2015}
+{Texas A\&M University College of Veterinary Medicine \& Biomedical Sciences}
+{This is a travel award to attend the Cold Spring Harbor Laboratory
+  \textit{Drosophila} Neurobiology Course (\$2500).}
+{Role: PI}
+
+\grantinfo{Great Lakes National STEM Scholarship}{Benjamin}{07/01/2014}
+{Great Lakes}
+{This is a scholarship program for individuals in the STEM (science,
+  technology, engineering, and mathematics) open to high school
+  students, college students, and graduate students (\$2500).}
+{Role: PI}
+
+\bigskip
+
+\grantinfo{CVM Graduate Student Research Trainee Grant}{Benjamin}{05/01/2014}
+{Texas A\&M University College of Veterinary Medicine \& Biomedical Sciences}
+{This is a graduate student research trainee grant for research and
+  supplies to generate preliminary data (\$5000).}
+{Role: PI}
+
+\bigskip
+
+\grantinfo{WSGI Graduate Traineeship}{Benjamin}{09/01/2013-08/31/2014}
+{Texas A\&M Institute for Genome Sciences and Society (WSGI)}
+{This is a competitive graduate traineeship that supports half of
+  salary for computational analysis of 50 idiopathic Angelman Syndrome
+patients.}
+{Role: PI}
