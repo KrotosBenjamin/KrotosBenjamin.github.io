@@ -37,7 +37,7 @@ underrepresented minorities.
 ## Education
 <div style="margin-left: auto;
             margin-right: auto;
-            width: 30%">
+            width: 5%">
 
 | Institute / University                              | Location            | Degree/Field                                  | Completion Year |
 |-----------------------------------------------------|---------------------|:---------------------------------------------:|:---------------:|
