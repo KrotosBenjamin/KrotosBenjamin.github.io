@@ -35,27 +35,24 @@ Throughout his research career, Dr. Benjamin's experiences have reinforced the *
 underrepresented minorities.
 
 ## Education
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 30%">
 
-**Lieber Institute for Brain Development and Johns Hopkins University School of Medicine** | Baltimore, MD
+| Institute / University                              | Location            | Degree/Field                                  | Completion Year |
+|-----------------------------------------------------|---------------------|:---------------------------------------------:|:---------------:|
+| Lieber Institute for Brain Development              | Baltimore, MD       | Postdoctoral Fellow in Computational Genetics | Current         |
+| Johns Hopkins University School of Medicine         | Baltimore, MD       | Postdoctoral Fellow in Computational Genetics | Current         |
+| Texas A&M University                                | College Station, TX | Ph.D. in Genetics                             | August 2017     |
+| Rensselaer Polytechnic Institute                    | Troy, NY            | B.S. in Biomedical Engineering                | May 2012        |
+| Indiana University, Purdue University, Indianapolis | Indianapolis, IN    | Biomedical Engineering (transferred)          | May 2010        |
 
-Postdoctoral fellow in computational genetics and psychiatry | Current
+</div>
 
-**Texas A&M University** | College Station, TX
 
-Ph.D. in Genetics | August 2012 - August 2017
+## Research Interests
 
-**Rensselaer Polytechnic Institute** | Troy, NY
 
-B.S. in Biomedical Engineering | August 2010 - May 2012
 
-**Indiana University, Purdue University, Indianapolis** | Indianapolis, IN
+## Select Publications
 
-Biomedical Engineering | August 2008 - May 2010
-
-## Computational Experience
-
-**Johns Hopkins University School of Medicine** | Postdoctoral Fellow | January 2018 - Present
-
-**Lieber Institute for Brain Development** | Postdoctoral Fellow | October 2017 - Present
-
-## Publications
