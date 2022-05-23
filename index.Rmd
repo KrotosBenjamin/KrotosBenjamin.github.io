@@ -37,7 +37,7 @@ underrepresented minorities.
 ## Education
 <div style="margin-left: auto;
             margin-right: auto;
-            width: 90%">
+            width: 95%">
 
 | Institute / University                              | Location            | Degree/Field                                  | Completion Year |
 |-----------------------------------------------------|---------------------|:---------------------------------------------:|:---------------:|
@@ -58,7 +58,34 @@ underrepresented minorities.
 | Grant ID                     | [K99MD0169640](https://reporter.nih.gov/search/fZ-vbKVe5UCpRs4Cy1JD8Q/project-details/10351433) |
 | [MOSAIC](https://www.nigms.nih.gov/training/careerdev/Pages/MOSAIC.aspx) Scientific Society | [The Association of American Medical Colleges](https://www.aamc.org/) (AAMC) |
 
+In neuroscience and genomics, individuals with recent African ancestry (AA) account for less than 5% of large-scale
+research cohorts for brain disorders but are 20% more likely to experience a major mental health crisis. Furthermore,
+divergent responses to antipsychotics between AA and European ancestry (EA) have been linked to genetic differences.
+Understanding these genetic and/or regulatory differences between AA and EA in the human brain, is essential to the
+development of effective neurotherapeutics and potentially could decrease health disparities for neurological disorders.
 
+1. Identify and characterize ancestry-related expression differences in postmortem brain from AA and EA individuals.\
+*Rationale*: Preliminary results revealed significant transcriptional changes across the four brain regions in neurotypical
+controls with admixed AA associated with genetic ancestry. **Hypothesis**: Genetic variations influence ancestry-related
+transcriptional changes via alternative isoform usage. 1) Differently expressed (DE) genomic features (genes, transcripts,
+exons, and junctions) associated with genetic ancestry will be identified and characterized within admixed AA. 2) eQTL
+analysis will be preformed to identify genetic variants interacting with genetic ancestry and expression; and 3) The
+contribution of these genetic variants on ancestry-related expression differences will be determined.\
+2. Identify and characterize of ancestry-related epigenetic differences in the brain\
+*Rationale*: Transgenerational stress has been shown to affect health outcomes. Due to past policies and practices,
+individuals of AA may be differentially exposed to extreme stresses across generations, which are identified as potential
+risk factors for common disorders. **Hypothesis**: Epigenetic differences drive ancestry-related expression differences in the
+brain. 1) Differentially methylated regions (DMRs) and genetic variation associated with DNAm between ancestries will
+be identified and characterized using BrainSeq Consortium publicly available expression, genetic, and DNA methylation
+for the caudate nucleus (n=400) and dorsolateral prefrontal cortex (n=378). 2) The contribution of these DMRs and
+DNAm on ancestry-related expression differences will be determined.\
+3. Evaluate ancestry-related genetic and epigenetic correlations with complex traits in the post-mortem brain\
+*Rationale*: The integration of genomic information with complex traits has been used to improve our understanding of
+disease mechanism and prioritized potential therapeutic targets. Genetic differences have been linked to divergent
+responses to antipsychotics, suggesting genetic background is important to understanding individual disease susceptibility.
+**Hypothesis**: Epigenetic differences drive ancestry-specific complex trait associations in the brain. 1) Causal variants
+impacting complex trains with ancestry-related expression and DNAm will be identified and characterized. 2) Transfer
+learning will be applied to improve causal variant detection for AA.
 
 ### Sofware development
 
