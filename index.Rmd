@@ -51,7 +51,7 @@ underrepresented minorities.
 
 ## Research Interests
 
-### Neurological research in African Americans to reduce health disparities (K99)
+#### Neurological research in African Americans to reduce health disparities (K99)
 
 | **Project Title** | Comprehensive Computational Analysis of Genetic and Regulatory Differences Between Individuals With African and European Ancestries Across Four Brain Regions |
 | Funding NIH Institute/Center | National Institute on Minority Health and Health Disparities                                    |
@@ -71,7 +71,7 @@ transcriptional changes via alternative isoform usage. 1) Differently expressed 
 exons, and junctions) associated with genetic ancestry will be identified and characterized within admixed AA. 2) eQTL
 analysis will be preformed to identify genetic variants interacting with genetic ancestry and expression; and 3) The
 contribution of these genetic variants on ancestry-related expression differences will be determined.\
-2. Identify and characterize of ancestry-related epigenetic differences in the brain\
+2. Identify and characterize of ancestry-related epigenetic differences in the brain.\
 *Rationale*: Transgenerational stress has been shown to affect health outcomes. Due to past policies and practices,
 individuals of AA may be differentially exposed to extreme stresses across generations, which are identified as potential
 risk factors for common disorders. **Hypothesis**: Epigenetic differences drive ancestry-related expression differences in the
@@ -79,7 +79,7 @@ brain. 1) Differentially methylated regions (DMRs) and genetic variation associa
 be identified and characterized using BrainSeq Consortium publicly available expression, genetic, and DNA methylation
 for the caudate nucleus (n=400) and dorsolateral prefrontal cortex (n=378). 2) The contribution of these DMRs and
 DNAm on ancestry-related expression differences will be determined.\
-3. Evaluate ancestry-related genetic and epigenetic correlations with complex traits in the post-mortem brain\
+3. Evaluate ancestry-related genetic and epigenetic correlations with complex traits in the post-mortem brain.\
 *Rationale*: The integration of genomic information with complex traits has been used to improve our understanding of
 disease mechanism and prioritized potential therapeutic targets. Genetic differences have been linked to divergent
 responses to antipsychotics, suggesting genetic background is important to understanding individual disease susceptibility.
@@ -87,10 +87,17 @@ responses to antipsychotics, suggesting genetic background is important to under
 impacting complex trains with ancestry-related expression and DNAm will be identified and characterized. 2) Transfer
 learning will be applied to improve causal variant detection for AA.
 
-### Sofware development
+#### Sofware development
 
+[dRFEtools](https://pypi.org/project/drfetools/)\
+Technology advances have generated larger ‘OMICs datasets with applications for machine learning. Even so, sample
+availability results in smaller sample sizes compared to features. Dynamic recursive feature elimination (RFE) provides
+a flexible feature elimination framework to tackle this problem. Here, we developed dRFEtools that implements dynamic RFE,
+and show that it reduces computational time with high accuracy compared to RFE. Additionally, we demonstrate its application
+to identify biologically relevant information from genomic data using the BrainSeq Consortium. dRFEtools provides an
+interpretable and flexible tool to gain biological insights from ‘OMICs data using machine learning.
 
-### Collaborations
+#### Collaborations
 
 
 ## Select Publications
