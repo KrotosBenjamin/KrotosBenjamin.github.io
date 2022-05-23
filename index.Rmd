@@ -89,15 +89,14 @@ responses to antipsychotics, suggesting genetic background is important to under
 impacting complex trains with ancestry-related expression and DNAm will be identified and characterized. 2) Transfer
 learning will be applied to improve causal variant detection for AA.
 
-#### Sofware development
+#### Software development
 
-[dRFEtools](https://pypi.org/project/drfetools/)\
+[dRFEtools](https://pypi.org/project/drfetools/): dynamic Recursive Feature Elimination\
 Technology advances have generated larger ‘OMICs datasets with applications for machine learning. Even so, sample
 availability results in smaller sample sizes compared to features. Dynamic recursive feature elimination (RFE) provides
-a flexible feature elimination framework to tackle this problem. Here, we developed dRFEtools that implements dynamic RFE,
-and show that it reduces computational time with high accuracy compared to RFE. Additionally, we demonstrate its application
-to identify biologically relevant information from genomic data using the BrainSeq Consortium. dRFEtools provides an
-interpretable and flexible tool to gain biological insights from ‘OMICs data using machine learning.
+a flexible feature elimination framework to tackle this problem. dRFEtools provides an interpretable and flexible tool
+to gain biological insights from ‘OMICs data using machine learning.\
+Authors: Kynon Jade Benjamin, Apuã Paquola, and Tarun Katipalli
 
 #### Collaborations
 
