@@ -115,8 +115,8 @@ receptor expression in the lung at different ages.
 
 **Benjamin, KJM**, Feltrin, AS, Barbosa, AR, Jaffe, AE, Collado-Torres, L, Burke, EE, Shin, JH, Ulrich, WS, Deep-Soboslay,
 A, Tao, R, the BrainSeq Consortium, Hyde, TM, Kleinman, JE, Erwin, JA, Weinberger, DR, and Apuã CM Paquola (2020).
-``Caudate nucleus transcriptome implicates decreased presynaptic dopamine autoregulation as the dopamine risk factor for
-schizophrenia''. DOI: https://doi.org/10.1101/2020.11.18.20230540.
+``Genetic and environmental regulation of caudate nucleus transcriptome: insight into schizophrenia risk and the dopamine
+system''. DOI: https://doi.org/10.1101/2020.11.18.20230540.
 
 Sawada, T, **Benjamin, KJM**, Brandtjen, AC, Tietze, E, Allen, SJ, Paquola, ACM, Kleinman, JE, Hyde, TM, and Jennifer A
 Erwin. ``Generation of four postmortem dura-derived iPS cell lines from four control individuals with genotypic and
