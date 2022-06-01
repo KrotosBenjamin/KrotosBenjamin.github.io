@@ -3,7 +3,7 @@ title: "Kynon JM Benjamin"
 image: "headshot_kjmb.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/in/kjade-benjamin13"
+    url: "https://linkedin.com/in/kjbenjamin90"
   - label: Twitter
     url: "https://twitter.com/kjbenjamin90"
   - label: GitHub
