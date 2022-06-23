@@ -30,7 +30,7 @@ postmortem brain and brain (cerebral and striatal) organoids.
 The **primary goal** of Dr. Benjamin's research is to improve therapeutics for under-research communities (i.e., personalized medicine)
 via investigating ancestry differences for neurological disorders in relevant tissues. To this end, he *uses and develops computational*
 *tools* to examine the role of ancestry in the brain. In addition to this, Dr. Benjamin has established collaborations to use
-computational tools to address hypthesize driven question with publically available single-cell and bulk tissues.
+computational tools to address hypothesize driven question with publically available single-cell and bulk tissues.
 
 Throughout his research career, Dr. Benjamin's experiences have reinforced the **critical need for diversity and creating inclusive**
 **spaces**. As such, he has worked to provide mentorship and representation as well as advocate for opportunities for other
@@ -113,14 +113,14 @@ receptor expression in the lung at different ages.
 
 ## Select Publications
 
-**Benjamin, KJM**, Feltrin, AS, Barbosa, AR, Jaffe, AE, Collado-Torres, L, Burke, EE, Shin, JH, Ulrich, WS, Deep-Soboslay,
-A, Tao, R, the BrainSeq Consortium, Hyde, TM, Kleinman, JE, Erwin, JA, Weinberger, DR, and Apuã CM Paquola (2020).
-``Genetic and environmental regulation of caudate nucleus transcriptome: insight into schizophrenia risk and the dopamine
-system''. DOI: https://doi.org/10.1101/2020.11.18.20230540.
-
+**Benjamin, KJM**, Feltrin, AS, Barbosa, AR, Jaffe, AE, Stolz, JM, Collado-Torres, L, Huuki, LA, Chen, Q, Burke, EE, Arora, R,
+Shin, JH, Ulrich, WS, Deep-Soboslay, A, Tao, R, the BrainSeq Consortium, Hyde, TM, Kleinman, JE, Erwin, JA, Weinberger, DR, 
+and Apuã CM Paquola (2020). ``Genetic and environmental regulation of caudate nucleus transcriptome in schizophrenia''. 
+*Nature Neuroscience*. 2022. **Accepted**. DOI: https://doi.org/10.1101/2020.11.18.20230540.
+  
 Sawada, T, **Benjamin, KJM**, Brandtjen, AC, Tietze, E, Allen, SJ, Paquola, ACM, Kleinman, JE, Hyde, TM, and Jennifer A
 Erwin. ``Generation of four postmortem dura-derived iPS cell lines from four control individuals with genotypic and
-brain-region-specific transcrptomic data available through the BrainSEQ consortium''. \textit{Stem Cell Research}. 2020.
+brain-region-specific transcrptomic data available through the BrainSEQ consortium''. *Stem Cell Research*. 2020.
 PMID: 32446240.
 
 ## Past Funding
