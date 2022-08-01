@@ -98,7 +98,8 @@ Technology advances have generated larger ‘OMICs datasets with applications fo
 availability results in smaller sample sizes compared to features. Dynamic recursive feature elimination (RFE) provides
 a flexible feature elimination framework to tackle this problem. dRFEtools provides an interpretable and flexible tool
 to gain biological insights from ‘OMICs data using machine learning.\
-Authors: Kynon Jade Benjamin, Apuã Paquola, and Tarun Katipalli
+Authors: Kynon Jade Benjamin, Apuã Paquola, and Tarun Katipalli\
+Pre-print DOI: https://doi.org/10.1101/2022.07.27.501227.
 
 #### Collaborations
 
