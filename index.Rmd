@@ -99,7 +99,7 @@ availability results in smaller sample sizes compared to features. Dynamic recur
 a flexible feature elimination framework to tackle this problem. dRFEtools provides an interpretable and flexible tool
 to gain biological insights from ‘OMICs data using machine learning.\
 Authors: Kynon Jade Benjamin, Apuã Paquola, and Tarun Katipalli\
-Pre-print DOI: https://doi.org/10.1101/2022.07.27.501227.
+Pre-print DOI: [https://doi.org/10.1101/2022.07.27.501227](https://doi.org/10.1101/2022.07.27.501227).
 
 #### Collaborations
 
@@ -118,16 +118,17 @@ receptor expression in the lung at different ages.
 Barbosa, AR, Radulescu, E, Pergola, G, Shin, JH, Ulrich, WS, Deep-Soboslay, A, Tao, R, the BrainSeq Consortium,
 Hyde, TM, Kleinman, JE, Erwin, JA, Weinberger, DR, and Apuã CM Paquola. ``Analysis of the caudate nucleus transcriptome
 in individuals with schizophrenia highlights effects of antipsychotics and novel risk genes''. *Nature Neuroscience*.
-2022. **In Press**. DOI: https://doi.org/10.1101/2020.11.18.20230540.
+2022. **In Press**. DOI: [https://doi.org/10.1101/2020.11.18.20230540](https://doi.org/10.1101/2020.11.18.20230540).
 
 **Benjamin, KJM<sup>+</sup>**, Arora, R<sup>+</sup>, D'Ignazio, L, Hyde, TM, Kleinman, JE, Weinberger, DR, Paquola, ACM,
 and Jennifer A Erwin. ``Transcriptional and genetic sex differences for schizophrenia across the dorsolateral
-prefrontal cortex, hippocampus, and caudate nucleus''. [preprint]. 2022. DOI: https://doi.org/10.1101/2022.09.30.22280452.
+prefrontal cortex, hippocampus, and caudate nucleus''. [preprint]. 2022.
+DOI: [https://doi.org/10.1101/2022.09.30.22280452](https://doi.org/10.1101/2022.09.30.22280452).
 
 Sawada, T, **Benjamin, KJM**, Brandtjen, AC, Tietze, E, Allen, SJ, Paquola, ACM, Kleinman, JE, Hyde, TM, and Jennifer A
 Erwin. ``Generation of four postmortem dura-derived iPS cell lines from four control individuals with genotypic and
 brain-region-specific transcrptomic data available through the BrainSEQ consortium''. *Stem Cell Research*. 2020.
-PMID: 32446240.
+PMID: [32446240](https://doi.org/10.1016/j.scr.2020.101806).
 
 ## Past Funding
 
