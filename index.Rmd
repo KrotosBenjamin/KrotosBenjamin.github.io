@@ -19,18 +19,18 @@ output:
 ## Bio
 
 Born and raised in a large extended family from Indianapolis, Indiana, Kynon Jade Benjamin is proud to be the first doctor in his family.
-Dr. Benjamin earned his GED with the support of his family before moving on to Indiana University–Purdue University Indianapolis (IUPUI).
+Dr. Benjamin earned his GED with the support of his mother before moving on to Indiana University–Purdue University Indianapolis (IUPUI).
 At IUPUI, Dr. Benjamin completed his work study at a neuroscience research laboratory, which started his scientific research journey.
 In his predoctoral studies, Dr. Benjamin designed and implemented drug delivery and drug development assays as well as developed
 bioinformatic pipelines for differential expression analysis for Angelman syndrome - a neurodevelopmental disorder. In his subsequent
 postdoctoral fellowship at the Lieber Institute for Brain Development and Johns Hopkins University School of Medicine, he developed
 computational pipelines for large-scale transcriptional (bulk and single-cell), genetic, and functional associations analyses in
-postmortem brain and brain (cerebral and striatal) organoids.
+postmortem brain and brain (i.e., cerebral and striatal) organoids.
 
 The **primary goal** of Dr. Benjamin's research is to improve therapeutics for under-research communities (i.e., personalized medicine)
-via investigating ancestry differences for neurological disorders in relevant tissues. To this end, he *uses and develops computational*
-*tools* to examine the role of ancestry in the brain. In addition to this, Dr. Benjamin has established collaborations to use
-computational tools to address hypothesize driven question with publically available single-cell and bulk tissues.
+via investigating the influence of genetic ancestry on neurological disorders in relevant tissues. To this end, he *uses and develops*
+*computational tools* to examine the role of genetic ancestry in the brain. In addition to this, Dr. Benjamin has established
+collaborations to use computational tools to address hypothesize driven question with publically available single-cell and bulk tissues.
 
 Throughout his research career, Dr. Benjamin's experiences have reinforced the **critical need for diversity and creating inclusive**
 **spaces**. As such, he has worked to provide mentorship and representation as well as advocate for opportunities for other
@@ -68,27 +68,27 @@ divergent responses to antipsychotics between AA and European ancestry (EA) have
 Understanding these genetic and/or regulatory differences between AA and EA in the human brain, is essential to the
 development of effective neurotherapeutics and potentially could decrease health disparities for neurological disorders.
 
-1. Identify and characterize ancestry-related expression differences in postmortem brain from AA and EA individuals.\
+1. Identify and characterize ancestry-associated expression differences in postmortem brain from AA and EA individuals.\
 *Rationale*: Preliminary results revealed significant transcriptional changes across the four brain regions in neurotypical
-controls with admixed AA associated with genetic ancestry. **Hypothesis**: Genetic variations influence ancestry-related
+controls with admixed AA associated with genetic ancestry. **Hypothesis**: Genetic variations influence ancestry-associated
 transcriptional changes via alternative isoform usage. 1) Differently expressed (DE) genomic features (genes, transcripts,
 exons, and junctions) associated with genetic ancestry will be identified and characterized within admixed AA. 2) eQTL
 analysis will be preformed to identify genetic variants interacting with genetic ancestry and expression; and 3) The
-contribution of these genetic variants on ancestry-related expression differences will be determined.\
-2. Identify and characterize of ancestry-related epigenetic differences in the brain.\
+contribution of these genetic variants on ancestry-associated expression differences will be determined.\
+2. Identify and characterize of ancestry-associated epigenetic differences in the brain.\
 *Rationale*: Transgenerational stress has been shown to affect health outcomes. Due to past policies and practices,
 individuals of AA may be differentially exposed to extreme stresses across generations, which are identified as potential
-risk factors for common disorders. **Hypothesis**: Epigenetic differences drive ancestry-related expression differences in the
+risk factors for common disorders. **Hypothesis**: Epigenetic differences drive ancestry-associated expression differences in the
 brain. 1) Differentially methylated regions (DMRs) and genetic variation associated with DNAm between ancestries will
 be identified and characterized using BrainSeq Consortium publicly available expression, genetic, and DNA methylation
 for the caudate nucleus (n=400) and dorsolateral prefrontal cortex (n=378). 2) The contribution of these DMRs and
-DNAm on ancestry-related expression differences will be determined.\
-3. Evaluate ancestry-related genetic and epigenetic correlations with complex traits in the post-mortem brain.\
+DNAm on ancestry-associated expression differences will be determined.\
+3. Evaluate ancestry-associated genetic and epigenetic correlations with complex traits in the postmortem brain.\
 *Rationale*: The integration of genomic information with complex traits has been used to improve our understanding of
 disease mechanism and prioritized potential therapeutic targets. Genetic differences have been linked to divergent
 responses to antipsychotics, suggesting genetic background is important to understanding individual disease susceptibility.
 **Hypothesis**: Epigenetic differences drive ancestry-specific complex trait associations in the brain. 1) Causal variants
-impacting complex trains with ancestry-related expression and DNAm will be identified and characterized. 2) Transfer
+impacting complex trains with ancestry-associated expression and DNAm will be identified and characterized. 2) Transfer
 learning will be applied to improve causal variant detection for AA.
 
 #### Software development
@@ -118,7 +118,7 @@ receptor expression in the lung at different ages.
 Barbosa, AR, Radulescu, E, Pergola, G, Shin, JH, Ulrich, WS, Deep-Soboslay, A, Tao, R, the BrainSeq Consortium,
 Hyde, TM, Kleinman, JE, Erwin, JA, Weinberger, DR, and Apuã CM Paquola. ``Analysis of the caudate nucleus transcriptome
 in individuals with schizophrenia highlights effects of antipsychotics and novel risk genes''. *Nature Neuroscience*.
-2022. **In Press**. DOI: [https://doi.org/10.1101/2020.11.18.20230540](https://doi.org/10.1101/2020.11.18.20230540).
+2022. DOI: [https://www.nature.com/articles/s41593-022-01182-7](https://www.nature.com/articles/s41593-022-01182-7).
 
 **Benjamin, KJM<sup>+</sup>**, Arora, R<sup>+</sup>, D'Ignazio, L, Hyde, TM, Kleinman, JE, Weinberger, DR, Paquola, ACM,
 and Jennifer A Erwin. ``Transcriptional and genetic sex differences for schizophrenia across the dorsolateral
@@ -160,3 +160,8 @@ Funding Source: Texas A&M Institute for Genome Sciences and Society (WSGI)\
 Role: PI\
 This is a competitive graduate traineeship that supports half of salary for computational analysis of 50 idiopathic
 Angelman Syndrome patients.
+
+## Additional Information
+
+[CV](./resume_cv.pdf)\
+[NCBI Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/kynon%20jade.benjamin.1/bibliography/public/)
