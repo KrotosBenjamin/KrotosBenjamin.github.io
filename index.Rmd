@@ -91,6 +91,14 @@ responses to antipsychotics, suggesting genetic background is important to under
 impacting complex trains with ancestry-associated expression and DNAm will be identified and characterized. 2) Transfer
 learning will be applied to improve causal variant detection for AA.
 
+**Additional information**:\
+[AANRI](https://aaneuroscienceresearch.com/)\
+**Benjamin, KJM**, Chen, Q, Eagles, NJ, Huuki-Myers, LA, Collado-Torres, L, Stolz, JM, 
+Shin, JH, Paquola, ACM, Hyde, TM, Kleinman, JE, Jaffe, AE, 
+Han, S, and Daniel R Weinberger. ``Genetic and environmental contributions to ancestry differences in gene expression
+in the human brain''. [preprint]. 2023.
+DOI: [https://doi.org/10.1101/2023.03.28.534458](https://doi.org/10.1101/2023.03.28.534458).
+
 #### Software development
 
 [dRFEtools](https://pypi.org/project/drfetools/): dynamic Recursive Feature Elimination\
