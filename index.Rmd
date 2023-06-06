@@ -95,7 +95,7 @@ learning will be applied to improve causal variant detection for AA.
 Shin, JH, Paquola, ACM, Hyde, TM, Kleinman, JE, Jaffe, AE, 
 Han, S, and Daniel R Weinberger. ``Genetic and environmental contributions to ancestry differences in gene expression
 in the human brain''. [preprint]. 2023.
-DOI: [https://doi.org/10.1101/2023.03.28.534458](https://doi.org/10.1101/2023.03.28.534458).
+DOI: [https://doi.org/10.21203/rs.3.rs-2922172/v1](https://doi.org/10.21203/rs.3.rs-2922172/v1).
 
 #### Software development
 
