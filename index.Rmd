@@ -124,7 +124,7 @@ receptor expression in the lung at different ages.
 Barbosa, AR, Radulescu, E, Pergola, G, Shin, JH, Ulrich, WS, Deep-Soboslay, A, Tao, R, the BrainSeq Consortium,
 Hyde, TM, Kleinman, JE, Erwin, JA, Weinberger, DR, and Apuã CM Paquola. ``Analysis of the caudate nucleus transcriptome
 in individuals with schizophrenia highlights effects of antipsychotics and novel risk genes''. *Nature Neuroscience*.
-2022. DOI: [https://www.nature.com/articles/s41593-022-01182-7](https://www.nature.com/articles/s41593-022-01182-7).
+2022. PMID: [36319771](https://www.nature.com/articles/s41593-022-01182-7).
 
 **Benjamin, KJM<sup>+</sup>**, Arora, R<sup>+</sup>, D'Ignazio, L, Hyde, TM, Kleinman, JE, Weinberger, DR, Paquola, ACM,
 and Jennifer A Erwin. ``Transcriptional and genetic sex differences for schizophrenia across the dorsolateral
