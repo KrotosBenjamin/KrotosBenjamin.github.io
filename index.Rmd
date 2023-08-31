@@ -105,7 +105,7 @@ availability results in smaller sample sizes compared to features. Dynamic recur
 a flexible feature elimination framework to tackle this problem. dRFEtools provides an interpretable and flexible tool
 to gain biological insights from ‘OMICs data using machine learning.\
 Authors: Kynon Jade Benjamin, Apuã Paquola, and Tarun Katipalli\
-Accepted DOI: [https://doi.org/10.1093/bioinformatics/btad513](https://doi.org/10.1093/bioinformatics/btad513).
+PMID: [37632789](https://doi.org/10.1093/bioinformatics/btad513).
 
 #### Collaborations
 
