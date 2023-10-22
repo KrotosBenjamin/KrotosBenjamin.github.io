@@ -1,0 +1,16 @@
+---
+layout: single
+is_post: true
+title:  "ASHG 2023"
+date:   2023-10-22 12:01:41 -0400
+categories: poster update
+toc: true
+---
+
+Dr. Benjamin will be at ASHG 2023!
+Come by his poster on Saturday, November 4th (PB3063).
+
+He will also be a moderator for Session 129 -
+Deep thoughts on brain genomics on Sunday, November 5th.
+
+<img src="https://www.ashg.org/wp-content/uploads/2023/09/Graphic-ASHG2023-1200x628-ImPresenting.png" alt="presenting" width="100%"/>
