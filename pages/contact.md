@@ -1,5 +1,6 @@
 ---
 layout: single
+title: ""
 permalink: /contact/
 toc: true
 author_profile: true

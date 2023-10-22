@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /research-program/
+title: ""
 toc: true
 author_profile: true
 ---

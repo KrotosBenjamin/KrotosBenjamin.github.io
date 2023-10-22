@@ -1,5 +1,6 @@
 ---
 layout: single
+title: ""
 permalink: /funding/
 toc: true
 author_profile: true
