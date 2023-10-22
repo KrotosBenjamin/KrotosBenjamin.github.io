@@ -1,0 +1,15 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research-program/
+  - title: "Funding"
+    url: /funding/
+  - title: "Publications"
+    url: /publications/
+  - title: "About"
+    url: /about/
+  - title: "Contact Us"
+    url: /contact/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
