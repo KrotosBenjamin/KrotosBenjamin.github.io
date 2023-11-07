@@ -16,13 +16,14 @@ PMID: [37632789](https://doi.org/10.1093/bioinformatics/btad513).
 [PDF]({{site.url}}/assets/papers/BenjaminKJM_2023_drfetools.pdf).
 
 Sawada, T, Barbosa, A, Araujo, B, McCord, AE, D'Ignazio, L,
-**Benjamin, KJM**, Feltrin, A, Arora, R, Brandtjen, A,
-Kleinman, JE, Hyde, TM, Weinberger, DR, Paquola, ACM, and
-Jennifer A Erwin. "Ventral forebrain organoids derived from
-individuals with schizophrenia recapitulate perturbed striatal
-gene expression dynamics of the donors' brains".
-*American Journal of Psychiatry*. 2023. *In press*.
-DOI: [https://doi.org/10.1101/2022.05.26.493589](https://doi.org/10.1101/2022.05.26.493589).
+**Benjamin, KJM**, Sheehan, B, Zabolocki, M, Feltrin, A, Arora, R,
+Brandtjen, A, Bardy, C, Kleinman, JE, Hyde, TM, Weinberger, DR,
+Paquola, ACM, and Jennifer A Erwin. "Recapitulation of perturbed striatal
+gene expression dynamics of donor's brains with ventral forebrain
+organoids derived from the same individuals with schizophrenia".
+*American Journal of Psychiatry*. 2023.
+PMID: [37915216](https://doi.org/10.1101/2022.05.26.493589).
+<!-- [PDF]({{site.url}}/assets/papers/SawadaT.striatal_organoids.pdf). -->
 
 **Benjamin, KJM**, Chen, Q, Eagles, NJ, Huuki-Myers, LA,
 Collado-Torres, L, Stolz, JM, Shin, JH, Paquola, ACM, Hyde, TM,
