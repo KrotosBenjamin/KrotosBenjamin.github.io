@@ -7,9 +7,9 @@ author_profile: true
 ---
 
 ## On-going funding
-Grant: [K99 MD0169640](https://reporter.nih.gov/search/fZ-vbKVe5UCpRs4Cy1JD8Q/project-details/10351433)\
+Grant: [K99/R00 MD0169640](https://reporter.nih.gov/search/fZ-vbKVe5UCpRs4Cy1JD8Q/project-details/10351433)\
 Funding Source: NIH/NIMHD\
-Date(s): 12/01/2021-12/31/2023\
+Date(s): 12/01/2021-12/31/2026\
 Role: PI\
 This is a transitional award to perform a comprehensive computational analysis
 of genetic and regulatory differences between individuals with African and
