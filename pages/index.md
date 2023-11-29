@@ -8,9 +8,10 @@ author_profile: true
 permalink: /
 ---
 
-At _H_eath _E_quity for _A_dvancing _R_esearch and _T_echnology
-using _Ge_nomic _N_euroscience (HEART-GeN) lab, our goal is to
-improve treatments for brain disorders with health disparities.
+At <ins>H</ins>eath <ins>E</ins>quity for <ins>A</ins>dvancing
+<ins>R</ins>esearch and <ins>T</ins>echnology using
+<ins>Ge</ins>nomic <ins>N</ins>euroscience (HEART-GeN) lab, our
+goal is to improve treatments for brain disorders with health disparities.
 While 99.99\% of our genome is shared across global ancestral population,
 the very small fraction unique to a specific ancestral population
 can effect how genes turn on or off. We use this human variation
