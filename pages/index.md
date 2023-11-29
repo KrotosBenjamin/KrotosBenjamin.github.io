@@ -8,11 +8,11 @@ author_profile: true
 permalink: /
 ---
 
-At <ins>H</ins>eath <ins>E</ins>quity for <ins>A</ins>dvancing
+At the <ins>H</ins>eath <ins>E</ins>quity for <ins>A</ins>dvancing
 <ins>R</ins>esearch and <ins>T</ins>echnology using
 <ins>Ge</ins>nomic <ins>N</ins>euroscience (HEART-GeN) lab, our
 goal is to improve treatments for brain disorders with health disparities.
-While 99.99\% of our genome is shared across global ancestral population,
+While 99.99% of our genome is shared across global ancestral population,
 the very small fraction unique to a specific ancestral population
 can effect how genes turn on or off. We use this human variation
 to find these genes that may play a role in explain health
