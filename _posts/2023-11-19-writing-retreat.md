@@ -6,7 +6,6 @@ description: Dr. Benjamin learned a lot about writing at the Cold Spring Harbor 
 date:   2023-12-03 11:30 -0400
 categories: workshops
 toc: false
-permalink: pretty
 ---
 
 Dr. Benjamin learned a lot about writing and met some amazing people at the
