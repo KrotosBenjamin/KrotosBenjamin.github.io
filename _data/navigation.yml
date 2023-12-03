@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /
   - title: "Research"
-    url: /research-program/
+    url: /heart-gen-research-program/
   - title: "Funding"
     url: /heart-gen-funding/
   - title: "Publications"
