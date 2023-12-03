@@ -2,11 +2,11 @@ main:
   - title: "Home"
     url: /
   - title: "Research"
-    url: /research-program/
-  - title: "Funding"
-    url: /heart-gen-funding/
+    url: /heart-gen-research/
   - title: "Publications"
     url: /heart-gen-publications/
+  - title: "Funding"
+    url: /heart-gen-funding/
   - title: "About"
     url: /about-heart-gen/
   - title: "Contact Us"
