@@ -7,7 +7,7 @@ toc: true
 author_profile: true
 ---
 
-## Bio
+## Dr. Benjamin's Bio
 
 Born and raised in a large extended family from Indianapolis, Indiana,
 Dr. Kynon Jade Benjamin is proud to be the first doctor in his family.
