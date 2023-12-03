@@ -4,6 +4,7 @@
 
 layout: home
 title: ""
+description: Dr. Benjamin will be at ASHG 2023 in Washington, DC.
 author_profile: true
 permalink: /
 ---
