@@ -1,7 +1,8 @@
 ---
 layout: single
 permalink: /research-program/
-title: ""
+title: "HEART-GeN Research Program"
+description: The HEART-GeN lab areas of research. Dr. Kynon Benjamin leads the HEART-GeN group in three main areas of neuroscience research: (1) genetic ancestry in the brain, (2) schizophrenia, and (3) software development. The group also is open to collaborations.
 toc: true
 author_profile: true
 ---
