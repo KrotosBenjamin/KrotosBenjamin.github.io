@@ -41,6 +41,7 @@ plugins:
   - jekyll-paginate
   - jekyll-include-cache
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Site Author
 author:
