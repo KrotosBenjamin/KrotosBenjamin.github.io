@@ -3,7 +3,7 @@ layout: single
 is_post: true
 title:  "HEART-GeN Lab at ASHG 2023"
 description: Dr. Benjamin will be at ASHG 2023 in Washington, DC.
-date:   2023-10-22 12:01:41 -0400
+date:   2023-12-03 12:38 -0400
 categories: conferences
 toc: false
 ---
@@ -15,3 +15,7 @@ He will also be a moderator for Session 129 -
 Deep thoughts on brain genomics on Sunday, November 5th.
 
 <img src="https://www.ashg.org/wp-content/uploads/2023/09/Graphic-ASHG2023-1200x628-ImPresenting.png" alt="presenting" width="100%"/>
+
+Thanks for coming to Dr. Benjamin's poster!
+
+![ASHG 2023 poster]({{site.url}}/assets/images/ASHG2023_poster.jpg)
