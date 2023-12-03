@@ -4,7 +4,7 @@
 
 layout: home
 title: ""
-description: Dr. Benjamin will be at ASHG 2023 in Washington, DC.
+description: The HEART-GeN lab's, lead by Dr. Kynon J Benjamin, primary goal is to improving neurotherapeutics for underrepresented communities. This page gives background for Dr. Benjamin.
 author_profile: true
 permalink: /
 ---
