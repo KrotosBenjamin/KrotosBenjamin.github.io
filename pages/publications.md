@@ -1,7 +1,8 @@
 ---
 layout: single
-title: ""
-permalink: /publications/
+title: "HEART-GeN lab publications and pre-prints"
+description: The HEART-GeN lab's publications are listed. Key publications from Dr. Kynon J Benjamin's HEART-GeN group are available for download. Links to all publications are included.
+permalink: /heart-gen-publications/
 toc: true
 author_profile: true
 ---

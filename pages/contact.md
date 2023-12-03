@@ -1,7 +1,8 @@
 ---
 layout: single
-title: ""
-permalink: /contact/
+title: "Contact the HEART-GeN group for opportunities"
+description: The contact Dr. Kynon J Benjamin and the HEART-GeN lab for opportunities.
+permalink: /contact-heart-gen/
 toc: true
 author_profile: true
 ---

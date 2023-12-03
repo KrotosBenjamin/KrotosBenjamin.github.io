@@ -4,12 +4,12 @@ main:
   - title: "Research"
     url: /research-program/
   - title: "Funding"
-    url: /funding/
+    url: /heart-gen-funding/
   - title: "Publications"
-    url: /publications/
+    url: /heart-gen-publications/
   - title: "About"
     url: /about-heart-gen/
   - title: "Contact Us"
-    url: /contact/
+    url: /contact-heart-gen/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/

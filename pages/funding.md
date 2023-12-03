@@ -1,7 +1,8 @@
 ---
 layout: single
-title: ""
-permalink: /funding/
+title: "Current and past funding for the HEART-GeN group"
+description: The HEART-GeN lab primary funding source is the NIH. Dr. Kynon J Benjamin has been funded from the NIMH and the NIMHD.
+permalink: /heart-gen-funding/
 toc: true
 author_profile: true
 ---
