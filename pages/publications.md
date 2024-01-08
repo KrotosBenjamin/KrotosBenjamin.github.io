@@ -9,6 +9,25 @@ author_profile: true
 
 ## Publications and Pre-prints
 
+### 2024
+
+**Benjamin, KJM<sup>+</sup>**, Arora, R<sup>+</sup>, Feltrin, AS, Pertea, G,
+Giles, H, Stolz, JM, D'Ignazio, L, Collado-Torres, L, Shin, JH, Hyde, TM,
+Kleinman, JE, Weinberger, DR, Paquola, ACM, and Jennifer A Erwin.
+"How sex affects transcriptional associations with schizophrenia across
+the dorsolateral prefrontal cortex, hippocampus, and caudate nucleus".
+*Nature Communications (Accepted)*. 2024.
+DOI: [https://doi.org/10.1101/2022.09.30.22280452](https://doi.org/10.1101/2022.09.30.22280452).
+<!-- [PDF]({{site.url}}/assets/papers/BenjaminKJM_sexNsz.v2.pdf). -->
+
+**Benjamin, KJM**, Chen, Q, Eagles, NJ, Huuki-Myers, LA,
+Collado-Torres, L, Stolz, JM, Shin, JH, Paquola, ACM, Hyde, TM,
+Kleinman, JE, Jaffe, AE, Han, S, and Daniel R Weinberger.
+"Genetic and environmental contributions to ancestry differences
+in gene expression in the human brain". *Nature Neuroscience (Accepted)*. 2024.
+PMID: [37034760](https://doi.org/10.1101/2023.03.28.534458).
+<!-- [PDF]({{site.url}}/assets/papers/BenjaminKJM.genetic_ancestry.pdf). -->
+
 ### 2023
 
 **Benjamin, KJM**, Katipalli, T and Apuã CM Paquola. "dRFEtools:
@@ -25,14 +44,6 @@ organoids derived from the same individuals with schizophrenia".
 *American Journal of Psychiatry*. 2023.
 PMID: [37915216](https://doi.org/10.1176/appi.ajp.20220723).
 <!-- [PDF]({{site.url}}/assets/papers/SawadaT.striatal_organoids.pdf). -->
-
-**Benjamin, KJM**, Chen, Q, Eagles, NJ, Huuki-Myers, LA,
-Collado-Torres, L, Stolz, JM, Shin, JH, Paquola, ACM, Hyde, TM,
-Kleinman, JE, Jaffe, AE, Han, S, and Daniel R Weinberger.
-"Genetic and environmental contributions to ancestry differences
-in gene expression in the human brain". *bioRxiv*. 2023.
-PMID: [37034760](https://doi.org/10.1101/2023.03.28.534458).
-<!-- [PDF]({{site.url}}/assets/papers/BenjaminKJM.genetic_ancestry.pdf). -->
 
 ### 2022
 
@@ -54,15 +65,6 @@ has implications for adult neostriatum vulnerability in X-linked
 Dystonia Parkinsonism". *eNeuro*. 2022.
 PMID: [35868859](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9428949/).
 
-**Benjamin, KJM<sup>+</sup>**, Arora, R<sup>+</sup>, Feltrin, AS, Pertea, G,
-Giles, H, Stolz, JM, D'Ignazio, L, Collado-Torres, L, Shin, JH, Hyde, TM,
-Kleinman, JE, Weinberger, DR, Paquola, ACM, and Jennifer A Erwin.
-"How sex affects transcriptional associations with schizophrenia across
-the dorsolateral prefrontal cortex, hippocampus, and caudate nucleus".
-*medRxiv*. 2022.
-DOI: [https://doi.org/10.1101/2022.09.30.22280452](https://doi.org/10.1101/2022.09.30.22280452).
-<!-- [PDF]({{site.url}}/assets/papers/BenjaminKJM_sexNsz.v2.pdf). -->
-
 ### 2020
 
 Sawada, T, **Benjamin, KJM**, Brandtjen, AC, Tietze, E, Allen, SJ,
@@ -81,6 +83,6 @@ Single-Cell Analyses of Discordant Twins-Derived Cerebral
 Organoids". *Molecular Psychiatry*. 2020.
 PMID: [32764691](https://www.nature.com/articles/s41380-020-0844-z).
 
-## Full Bibiliography
+## Full Bibliography
 
 [NCBI Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/kynon%20jade.benjamin.1/bibliography/public/)
