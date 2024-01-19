@@ -38,9 +38,9 @@ underrepresented minorities.
 The **primary goal** of our research is to improve therapeutics for
 under-research communities (i.e., personalized medicine) by
 investigating the influence of genetic ancestry on neurological
-disorders in relevant tissues. To this end, we *uses and develops*
+disorders in relevant tissues. To this end, we *use and develop*
 *computational tools* to examine the role of genetic ancestry in the
-brain. In addition to this, we has established collaborations to use
+brain. In addition to this, we have established collaborations to use
 computational tools to address hypothesize driven question with
 publically available single-cell and bulk tissues.
 
