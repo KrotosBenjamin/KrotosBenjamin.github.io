@@ -527,7 +527,7 @@ control, searchability, and accessibility from multiple devices.
 Our lab uses [Open Source Framework](https://osf.io/dashboard) (OSF) as
 our ELN system. This is a free, open source, platform that connects to
 GitHub and reference management system (Zotero). Getting access and
-training is part of [*On-boarding*](#Getting Started in the HEART-GeN Lab).
+training is part of [*On-boarding*](#getting-started-in-the-heart-gen-lab).
 
 ### Document All Procedures and Protocols
 
@@ -817,7 +817,7 @@ min). It may also include job talks and general science communication.
 
 Before any major presentations, team members will be expected to
 practice with Dr. Benjamin during a [*one-on-one
-meeting*](#One-on-One Individual Meetings),
+meeting*](#one-on-One Individual Meetings),
 followed by at least one group practice during the weekly [*team
 meetings*](#Team Meetings).
 
