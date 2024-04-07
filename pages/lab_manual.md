@@ -527,8 +527,7 @@ control, searchability, and accessibility from multiple devices.
 Our lab uses [Open Source Framework](https://osf.io/dashboard) (OSF) as
 our ELN system. This is a free, open source, platform that connects to
 GitHub and reference management system (Zotero). Getting access and
-training is part of [*On-boarding*]{.spurious-link
-target="Getting Started in the HEART-GeN Lab"}.
+training is part of [*On-boarding*](#Getting Started in the HEART-GeN Lab).
 
 ### Document All Procedures and Protocols
 
