@@ -116,20 +116,19 @@ deliverables.
 
 A project deliverable may include:
 
--   Paper
-    -   Data acquisition
-    -   Data preparation
-    -   Data analysis
-    -   Writing and/or Editing
--   Software
-    -   Development
-    -   Annotation
-    -   Release
-    -   Maintenance
--   Resource / Dataset
-    -   Development
-    -   Maintenance
-    -   Release
+| **Deliverable** | **Item** |
+| :---: | --- |
+| **Manuscript** | Data acquisition |
+| | Data acquisition |
+| | Data analysis |
+| | Writing and/or editing |
+| **Software** | Development |
+| | Annotation |
+| | Release |
+| | Maintenance |
+| **Resource/Dataset** | Development |
+| | Maintenance |
+| | Release |
 
 ### As-Needed Meetings
 
