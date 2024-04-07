@@ -608,7 +608,7 @@ of your training.
 In our lab, we hold transparency, integrity, and collaboration as core
 values in data collection, management, and sharing. The following
 describe the expectations of all team members for [*data
-management*]{.spurious-link target="Data Management"}. By adhering to
+management*](#Data Management). By adhering to
 the following expectations, we ensure responsible data management
 practices that contribute to the advancement of our research and foster
 a collaborative environment within the lab. If you have any questions or
@@ -619,8 +619,7 @@ with the Dr. Benjamin.
 
 **Documentation:** Team members are expected to record all aspects of
 their data collection process, including methodologies, equipment, and
-data cleaning steps ([*Record-Keeping*]{.spurious-link
-target="Record-Keeping"}).
+data cleaning steps ([*Record-Keeping*](#Record-Keeping)).
 
 **Metadata, File Naming, and Organization:** Team members must create
 comprehensive metadata, including descriptions of data sources,
@@ -669,8 +668,7 @@ particularly with the Dr. Benjamin, is essential for fostering
 collaboration and ensuring research integrity. All team members are
 expected to share their data with the Dr. Benjamin regularly and
 proactively, providing updates on progress, challenges, and findings
-(see [*Meetings in the Lab*]{.spurious-link
-target="Meetings in the Lab"}).
+(see [*Meetings in the Lab*](#Meetings in the Lab)).
 
 **Data Use Agreements (DUAs):** For collaboration outside the lab, DUAs
 should be established outlining permitted uses and attribution
@@ -819,9 +817,9 @@ min). It may also include job talks and general science communication.
 
 Before any major presentations, team members will be expected to
 practice with Dr. Benjamin during a [*one-on-one
-meeting*]{.spurious-link target="One-on-One Individual Meetings"},
+meeting*](#One-on-One Individual Meetings),
 followed by at least one group practice during the weekly [*team
-meetings*]{.spurious-link target="Team Meetings"}.
+meetings*](#Team Meetings).
 
 1.  Scientific Presentation Resources
 
@@ -1026,10 +1024,10 @@ Here are the expectations regarding various aspects of lab conduct.
 1.  Professionalism and Collaboration
 
     **Respectful Communication:** Treat all members of the group with
-    respect, courtesy, and inclusivity. Engage in constructive criticism
-    and maintain a professional tone in all communications. This means
-    to avoid discriminatory or offensive language, behavior, or jokes
-    that may create a hostile or unwelcoming environment.
+    respect, courtesy, and inclusivity. Engage in constructive
+    criticism and maintain a professional tone in all communications.
+    This means to avoid discriminatory or offensive language, behavior,
+    or jokes that may create a hostile or unwelcoming environment.
 
     **Open Communication and Transparency:** Share ideas, data, and
     progress updates openly with the group. Promote transparency in
@@ -1049,7 +1047,7 @@ Here are the expectations regarding various aspects of lab conduct.
 
     **Responsible Data Management:** Adhere to best practices for data
     collection, management, and documentation as outlined in our lab
-    [*data management plan*]{.spurious-link target="Data"}. Protect
+    [*data management plan*](#Data). Protect
     sensitive or confidential information from unauthorized access,
     disclosure, or misuse, maintaining data security and privacy at all
     times.
@@ -1058,16 +1056,14 @@ Here are the expectations regarding various aspects of lab conduct.
     fellow researchers and document your code clearly to ensure
     reproducibility.
 
-    **Responsible Authorship:** [*Authorship*]{.spurious-link
-    target="Authorship"} will be determined by significant contributions
-    to the research project. All contributors should be appropriately
-    acknowledged.
+    **Responsible Authorship:** [*Authorship*](#Authorship) will be
+    determined by significant contributions to the research project.
+    All contributors should be appropriately acknowledged.
 
     **Honest Research Practices:** Conduct research with honesty and
     integrity. Report any observed instances of research misconduct,
     such as fabrication, falsification, or plagiarism
-    ([*Honesty and Objectivity*]{.spurious-link
-    target="Honesty and Objectivity"}).
+    ([*Honesty and Objectivity*](#Honesty and Objectivity)).
 
 3.  Responsible Use of Resources
 
@@ -1075,10 +1071,10 @@ Here are the expectations regarding various aspects of lab conduct.
     resources responsibly and efficiently. Avoid wasteful practices and
     be mindful of shared resources.
 
-    **Software Licensing:\*** Comply with software copyrights and
+    **Software Licensing:** Comply with software copyrights and
     licenses. Use software only for its intended purpose.
 
-    **Open Source Contribution:\*** Contribute to open-source software
+    **Open Source Contribution:** Contribute to open-source software
     projects where relevant and appropriate.
 
 4.  Reporting Concerns
@@ -1104,8 +1100,7 @@ Here are the expectations regarding various aspects of lab conduct.
     **Compliance with Regulations:** All research activities will be
     conducted in accordance with institutional policies and regulations,
     including those related to data privacy, ethical research practices,
-    and [*responsible conduct of research (RCR)*]{.spurious-link
-    target="Responsible Conduct of Research"}.
+    and [*responsible conduct of research (RCR)*](#Responsible Conduct of Research).
 
 7.  Resources
 
@@ -1113,8 +1108,7 @@ Here are the expectations regarding various aspects of lab conduct.
     -   Graduate student codes of conduct
     -   Employee codes of conduct
     -   Research integrity policies
-    -   [*Responsible Conduct of Research*]{.spurious-link
-        target="Responsible Conduct of Research"}
+    -   [*Responsible Conduct of Research*](#Responsible Conduct of Research)
 
 ### Performance Reviews
 
@@ -1130,8 +1124,7 @@ performance reviews.
 
     **Frequency:** We conduct formal reviews at least annually, often
     coinciding with a trainees thesis committee meetings and/or annual
-    [*Individual Development Plans*]{.spurious-link
-    target="Individual Development Plans"}. This is adjusted for each
+    [*Individual Development Plans*](#Individual Development Plans). This is adjusted for each
     trainee based on their Mentoring Agreement.
 
     **Format:** Reviews will involve a discussion based on your IDP
@@ -1158,7 +1151,7 @@ performance reviews.
 
     **Summer trainees:** For trainees who are with the lab for a summer,
     Dr. Benjamin will conduct a review during the exit interview (see
-    [*Leaving the Lab*]{.spurious-link target="Leaving the Lab"}). This
+    [*Leaving the Lab*](#Leaving the Lab)). This
     informal review tracks research progress, scientific communication
     and writing skills, and trainee-specific professional development
     goals.
@@ -1200,8 +1193,7 @@ performance reviews.
 
     In addition the above performance reviews, team members will get
     weekly regular input and feedback on their work and progress during
-    [*One-on-One Individual Meetings*]{.spurious-link
-    target="One-on-One Individual Meetings"}. Furthermore, reviews are
+    [*One-on-One Individual Meetings*](#One-on-One Individual Meetings). Furthermore, reviews are
     additional opportunities to discuss training needs and opportunities
     for skill development.
 
@@ -1525,9 +1517,9 @@ practices that govern our conduct within this laboratory.
 We strive to report data accurately and objectively, avoiding bias or
 the manipulation of results. We are committed to providing truthful
 representation of our research findings (i.e., avoid
-[*falsification*]{.spurious-link target="Falsification"},
-[*fabrication*]{.spurious-link target="Fabrication"}, or
-[*plagiarism*]{.spurious-link target="Plagiarism"}).
+[*falsification*](#Falsification),
+[*fabrication*](#Fabrication), or
+[*plagiarism*](#Plagiarism)).
 
 1.  Falsification
 
@@ -1553,8 +1545,7 @@ representation of our research findings (i.e., avoid
     constitutes a form of fabrication.
 
     To avoid fabrication, our lab keeps documentation of all raw and
-    processed datasets (see **[*Data Management*]{.spurious-link
-    target="Data Management"}**). During lab code review sessions, all
+    processed datasets (see **[Data Management](#Data Management)**). During lab code review sessions, all
     team members will review the methods underlying the data. This will
     help prevent accidental data fabrication due to code errors.
 
@@ -1572,8 +1563,7 @@ representation of our research findings (i.e., avoid
 
     To help with this, our lab uses Zotero as a citation manager.
     Getting access to the citation manager is part of
-    [*On-boarding*]{.spurious-link
-    target="Getting Started in the HEART-GeN Lab"}.
+    [*On-boarding*](#Getting Started in the HEART-GeN Lab).
 
 ### Data Management
 
