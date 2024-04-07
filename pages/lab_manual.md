@@ -1038,10 +1038,10 @@ Here are the expectations regarding various aspects of lab conduct.
     **Collaboration and Teamwork:** Work collaboratively with team
     members to achieve common goals. Be open to sharing expertise and
     assisting others. Communicate openly and honestly with team members
-    and collaborators, providing timely updates on progress, challenges,
-    and results. Listen actively and respectfully to others\'
-    viewpoints, seeking to understand diverse perspectives and foster
-    constructive dialogue.
+    and collaborators, providing timely updates on progress,
+    challenges, and results. Listen actively and respectfully to
+    others\' viewpoints, seeking to understand diverse perspectives and
+    foster constructive dialogue.
 
 2.  Research Integrity and Reproducibility
 
