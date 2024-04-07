@@ -119,7 +119,7 @@ A project deliverable may include:
 | **Deliverable** | **Item** |
 | :---: | --- |
 | **Manuscript** | Data acquisition |
-| | Data acquisition |
+| | Data preparation |
 | | Data analysis |
 | | Writing and/or editing |
 | **Software** | Development |
