@@ -323,7 +323,7 @@ institutional compliance. This is listed in order of importance.
 -   Human subjects
 -   Patient privacy
 
-### Linux and `bash`{.verbatim}
+### Linux and `bash`
 
 -   [Linux
     essentials](https://faculty.ucr.edu/~tgirke/Documents/UNIX/linux_manual.html)
@@ -332,16 +332,16 @@ institutional compliance. This is listed in order of importance.
 -   [Linux file
     permissions](http://windowsbulletin.com/filepermissions/)
 -   [Shell
-    (`bash`{.verbatim})](https://eriqande.github.io/eca-bioinf-handbook/shell-programming.html)
--   [`sed`{.verbatim} and
-    `awk`{.verbatim}](https://eriqande.github.io/eca-bioinf-handbook/sed-awk-and-regular-expressions.html)
+    (`bash`)](https://eriqande.github.io/eca-bioinf-handbook/shell-programming.html)
+-   [`sed` and
+    `awk`](https://eriqande.github.io/eca-bioinf-handbook/sed-awk-and-regular-expressions.html)
 
 ### Version Control
 
 -   [About version
     control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 -   [About
-    `git`{.verbatim}](https://docs.github.com/en/get-started/using-git/about-git)
+    `git`](https://docs.github.com/en/get-started/using-git/about-git)
 -   [git to know git: an 8 minute introduction LIBD rstats blog post by
     Amy
     Peterson](http://research.libd.org/rstatsclub/post/git-to-know-git/#.XXfvXpNKi50)
@@ -630,7 +630,7 @@ clear, consistent, and descriptive to facilitate easy identification and
 retrieval of data. Organize data into logical folders and subfolders
 based on projects, experiments, or datasets.
 
-**Version Control:** Adopt version control systems like `Git`{.verbatim}
+**Version Control:** Adopt version control systems like `Git`
 for managing code scripts, analysis pipelines, and documentation. Team
 members are required to commit code updates regularly, provide
 informative commit messages, and maintain separate branches for
@@ -692,18 +692,18 @@ archiving platform and procedures for their datasets.
 ### Data Management Tools and Practices
 
 **Electronic vs. Physical Documents:** Whenever possible, team members
-should prioritize electronic documentation (e.g., `OSF`{.verbatim}) over
+should prioritize electronic documentation (e.g., `OSF`) over
 physical documents to facilitate accessibility, sharing, and version
 control. Physical documents should be digitized and uploaded to
-`OSF`{.verbatim}.
+`OSF`.
 
 **Data Visualization Tools:** Data visualization tools enable our team
 to explore, analyze, and communicate research findings effectively.
-Visualization software such as `matplotlib`{.verbatim}
-(`Python`{.verbatim}) or `ggplot2`{.verbatim} (`R`{.verbatim}) can be
+Visualization software such as `matplotlib`
+(`Python`) or `ggplot2` (`R`) can be
 used to create informative graphs, charts, and interactive dashboards
-(`plotly`{.verbatim} or `shiny`{.verbatim}) for presenting data
-insights. Our use of ELNs and `jupyter`{.verbatim} means that
+(`plotly` or `shiny`) for presenting data
+insights. Our use of ELNs and `jupyter` means that
 visualization is built within our notebooks.
 
 **Collaboration and Communication Tools:** Collaboration and
@@ -711,7 +711,7 @@ communication tools such as Slack or Zoom facilitate real-time
 communication and project coordination among team members. In addition
 to these tools, we use GitHub issues to monitor project milestones,
 including project coordination, management, and communication. Team
-members should use these tools in addition to `OSF`{.verbatim} to
+members should use these tools in addition to `OSF` to
 streamline collaboration, exchange ideas, and coordinate research
 activities effectively.
 
