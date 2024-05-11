@@ -16,7 +16,8 @@ Giles, H, Stolz, JM, D'Ignazio, L, Collado-Torres, L, Shin, JH, Hyde, TM,
 Kleinman, JE, Weinberger, DR, Paquola, ACM, and Jennifer A Erwin.
 "Sex affects transcriptional associations with schizophrenia across
 the dorsolateral prefrontal cortex, hippocampus, and caudate nucleus".
-*Nature Communications*. 2024. PMID: [38730231](https://rdcu.be/dHAKy).
+*Nature Communications*. 2024.
+PMID: [38730231](https://www.nature.com/articles/s41467-024-48048-z).
 [PDF]({{site.url}}/assets/papers/Benjamin_et_al-2024-Nature_Communications.pdf).
 
 **Benjamin, KJM**, Chen, Q, Eagles, NJ, Huuki-Myers, LA,
