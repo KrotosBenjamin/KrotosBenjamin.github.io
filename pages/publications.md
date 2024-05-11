@@ -14,18 +14,19 @@ author_profile: true
 **Benjamin, KJM<sup>+</sup>**, Arora, R<sup>+</sup>, Feltrin, AS, Pertea, G,
 Giles, H, Stolz, JM, D'Ignazio, L, Collado-Torres, L, Shin, JH, Hyde, TM,
 Kleinman, JE, Weinberger, DR, Paquola, ACM, and Jennifer A Erwin.
-"How sex affects transcriptional associations with schizophrenia across
+"Sex affects transcriptional associations with schizophrenia across
 the dorsolateral prefrontal cortex, hippocampus, and caudate nucleus".
-*Nature Communications (Accepted)*. 2024.
-DOI: [https://doi.org/10.1101/2022.09.30.22280452](https://doi.org/10.1101/2022.09.30.22280452).
-<!-- [PDF]({{site.url}}/assets/papers/BenjaminKJM_sexNsz.v2.pdf). -->
+*Nature Communications*. 2024. PMID: [38730231](https://rdcu.be/dHAKy).
+[PDF]({{site.url}}/assets/papers/Benjamin_et_al-2024-Nature_Communications.pdf).
 
 **Benjamin, KJM**, Chen, Q, Eagles, NJ, Huuki-Myers, LA,
 Collado-Torres, L, Stolz, JM, Shin, JH, Paquola, ACM, Hyde, TM,
 Kleinman, JE, Jaffe, AE, Han, S, and Daniel R Weinberger.
-"Genetic and environmental contributions to ancestry differences
-in gene expression in the human brain". *Nature Neuroscience (Accepted)*. 2024.
-PMID: [37034760](https://doi.org/10.1101/2023.03.28.534458).
+"Analysis of gene expression in the postmortem brain of neurotypical
+Black Americans reveals contributions of genetic ancestry".
+*In Press* at *Nature Neuroscience*. 2024.
+PMID: [37034760](https://pubmed.ncbi.nlm.nih.gov/37034760/).
+<!-- (https://www.nature.com/articles/s41593-024-01636-0). -->
 <!-- [PDF]({{site.url}}/assets/papers/BenjaminKJM.genetic_ancestry.pdf). -->
 
 ### 2023
