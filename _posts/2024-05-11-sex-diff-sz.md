@@ -18,11 +18,9 @@ comprehensive computational approach to understanding sex differences
 in the brain and the potential impact on schizophrenia and
 schizophrenia risk.
 
-This work is published in **Nature Communications**
+This work is [published]({{site.url}}/assets/papers/Benjamin_et_al-2024-Nature_Communications.pdf) in **Nature Communications**
 (PMID: [38730231](https://www.nature.com/articles/s41467-024-48048-z))!
 
 ![Sex_IN_SZ]({{site.url}}/assets/images/sex_diff_overview.png)
-
-![Manuscript]({{site.url}}/assets/papers/Benjamin_et_al-2024-Nature_Communications.pdf)
 
 ![NC]({{site.url}}/assets/images/nature-communications.svg)
