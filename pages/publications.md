@@ -30,6 +30,16 @@ PMID: [37034760](https://pubmed.ncbi.nlm.nih.gov/37034760/).
 <!-- (https://www.nature.com/articles/s41593-024-01636-0). -->
 <!-- [PDF]({{site.url}}/assets/papers/BenjaminKJM.genetic_ancestry.pdf). -->
 
+Tietze, E, Barbosa, AR, Araujo, BHS, Euclydes, V, Cho, HJ, Lee,
+YK, Feltrin, A, Spiegelberg, B, Lorenzetti, A, van de Leemput, J, Di
+Carlo, P, Sawada, T, Ursini, G, **Benjamin, KJ**, Brentani, H,
+Kleinman, JE, Hyde, TM, Weinberger, DR, McKay, R, Shin, JH, Paquola,
+ACM, and Jennifer A Erwin. "Human archetypal pluripotent stem cell
+differentiates into trophoblast stem cells via endogenous BMP5/7
+induction without transitioning through a naive state".
+*Scientific Reports*. 2024.
+PMID: [38332235](https://pubmed.ncbi.nlm.nih.gov/38332235/).
+
 ### 2023
 
 **Benjamin, KJM**, Katipalli, T and Apuã CM Paquola. "dRFEtools:
