@@ -11,6 +11,15 @@ author_profile: true
 
 ### 2024
 
+**Benjamin, KJM**, Chen, Q, Eagles, NJ, Huuki-Myers, LA,
+Collado-Torres, L, Stolz, JM, Shin, JH, Paquola, ACM, Hyde, TM,
+Kleinman, JE, Jaffe, AE, Han, S, and Daniel R Weinberger.
+"Analysis of gene expression in the postmortem brain of neurotypical
+Black Americans reveals contributions of genetic ancestry".
+*Nature Neuroscience*. 2024.
+PMID: [37034760](https://www.nature.com/articles/s41593-024-01636-0).
+[PDF]({{site.url}}/assets/papers/Benjamin_et_al-2024-Nature_Neuroscience.pdf).
+
 **Benjamin, KJM<sup>+</sup>**, Arora, R<sup>+</sup>, Feltrin, AS, Pertea, G,
 Giles, H, Stolz, JM, D'Ignazio, L, Collado-Torres, L, Shin, JH, Hyde, TM,
 Kleinman, JE, Weinberger, DR, Paquola, ACM, and Jennifer A Erwin.
@@ -19,16 +28,6 @@ the dorsolateral prefrontal cortex, hippocampus, and caudate nucleus".
 *Nature Communications*. 2024.
 PMID: [38730231](https://www.nature.com/articles/s41467-024-48048-z).
 [PDF]({{site.url}}/assets/papers/Benjamin_et_al-2024-Nature_Communications.pdf).
-
-**Benjamin, KJM**, Chen, Q, Eagles, NJ, Huuki-Myers, LA,
-Collado-Torres, L, Stolz, JM, Shin, JH, Paquola, ACM, Hyde, TM,
-Kleinman, JE, Jaffe, AE, Han, S, and Daniel R Weinberger.
-"Analysis of gene expression in the postmortem brain of neurotypical
-Black Americans reveals contributions of genetic ancestry".
-*In Press* at *Nature Neuroscience*. 2024.
-PMID: [37034760](https://pubmed.ncbi.nlm.nih.gov/37034760/).
-<!-- (https://www.nature.com/articles/s41593-024-01636-0). -->
-<!-- [PDF]({{site.url}}/assets/papers/BenjaminKJM.genetic_ancestry.pdf). -->
 
 Tietze, E, Barbosa, AR, Araujo, BHS, Euclydes, V, Cho, HJ, Lee,
 YK, Feltrin, A, Spiegelberg, B, Lorenzetti, A, van de Leemput, J, Di
