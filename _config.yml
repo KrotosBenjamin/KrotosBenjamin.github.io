@@ -29,6 +29,16 @@ baseurl    : ""
 url        : "https://krotosbenjamin.github.io"
 repository : "KrotosBenjamin/KrotosBenjamin.github.io"
 
+# Handling Reading
+encoding     : "utf-8"
+markdown_ext : "markdown,mkdown,mkdn,mkd,md"
+
+# Filtering Content
+future      : true
+show_drafts : null
+unpublished : false
+limit_posts : 10
+
 # Build settings
 markdown              : kramdown
 # theme                 : minimal-mistakes-jekyll
@@ -42,6 +52,13 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-sitemap
+
+# Outputting
+timezone   : America/New_York
+
+# Markdown Processors
+kramdown:
+  toc_levels : [1, 2, 3, 4]
 
 # Site Author
 author:
