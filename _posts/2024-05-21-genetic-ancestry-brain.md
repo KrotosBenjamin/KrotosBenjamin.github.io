@@ -3,7 +3,7 @@ layout: single
 is_post: true
 title:  "Latest work! Genetic ancestry in the brain"
 description: Dr. Benjamin latest work examining genetic ancestry in the brain -- Nature Neuroscience.
-date:   2024-05-21 15:00 -0400
+date:   2024-05-24 15:30 -0400
 categories: general
 toc: false
 tags: paper research
