@@ -1,7 +1,7 @@
 ---
 layout: single
 is_post: true
-title: "Celebrating Dr. Benjamin’s Participation in the AAMC Minority Faculty Leadership Development Seminar"
+title: "Celebrating Dr. Benjamin’s Participation in the AAMC MinFac"
 description: Dr. Benjamin attended the AAMC MinFac, 2024.
 date:   2024-06-16 18:00 -0400
 categories: workshops
