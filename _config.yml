@@ -37,7 +37,7 @@ markdown_ext : "markdown,mkdown,mkdn,mkd,md"
 future      : true
 show_drafts : null
 unpublished : false
-limit_posts : 10
+limit_posts : 5
 
 # Build settings
 markdown              : kramdown
