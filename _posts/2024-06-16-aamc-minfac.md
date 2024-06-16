@@ -1,7 +1,7 @@
 ---
 layout: single
 is_post: true
-title: "Celebrating Dr. Kynon Jade Benjamin’s Participation in the AAMC Minority Faculty Leadership Development Seminar"
+title: "Celebrating Dr. Benjamin’s Participation in the AAMC Minority Faculty Leadership Development Seminar"
 description: Dr. Benjamin attended the AAMC MinFac, 2024.
 date:   2024-06-16 18:00 -0400
 categories: workshops
@@ -10,7 +10,7 @@ tags: aamc diversity
 excerpt_separator: <!--more-->
 ---
 
-We are thrilled to share that Dr. Kynon Jade Benjamin recently attended the
+We are thrilled to share that Dr. Benjamin recently attended the
 prestigious Association of American Medical Colleges (AAMC)
 Minority Faculty Leadership Development Seminar
 (MinFac) from June 12th to June 15th.
