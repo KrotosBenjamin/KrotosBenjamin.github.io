@@ -17,7 +17,7 @@ Kleinman, JE, Jaffe, AE, Han, S, and Daniel R Weinberger.
 "Analysis of gene expression in the postmortem brain of neurotypical
 Black Americans reveals contributions of genetic ancestry".
 *Nature Neuroscience*. 2024.
-PMID: [37034760](https://www.nature.com/articles/s41593-024-01636-0).
+PMID: [38769152](https://www.nature.com/articles/s41593-024-01636-0).
 [PDF]({{site.url}}/assets/papers/Benjamin_et_al-2024-Nature_Neuroscience.pdf).
 
 **Benjamin, KJM<sup>+</sup>**, Arora, R<sup>+</sup>, Feltrin, AS, Pertea, G,
