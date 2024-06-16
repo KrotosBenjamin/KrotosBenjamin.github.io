@@ -34,7 +34,7 @@ encoding     : "utf-8"
 markdown_ext : "markdown,mkdown,mkdn,mkd,md"
 
 # Filtering Content
-future      : true
+future      : false
 show_drafts : null
 unpublished : false
 limit_posts : 5
