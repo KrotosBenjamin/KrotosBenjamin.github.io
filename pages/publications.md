@@ -20,7 +20,7 @@ Kleinman, JE, Weinberger, DR, Paquola, ACM, and Jennifer A Erwin.
 of HERV-K in the neurotypcial human brain". *medRxiv*. 2024.
 PMID: [38797538](https://www.medrxiv.org/content/10.1101/2024.05.17.24307184v1).
 
-## Published
+## Publications
 
 ### 2024
 
