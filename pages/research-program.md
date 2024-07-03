@@ -37,6 +37,7 @@ potentially could decrease health disparities for neurological disorders.
 
 ![annri overview]({{site.url}}/assets/images/aanri_overview_v3.png)
 
+<iframe src="https://www.npr.org/player/embed/1198910344/1255066262" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
 ### Schizophrenia
 #### Caudate nucleus and schizophrenia
