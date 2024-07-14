@@ -5,8 +5,8 @@ main:
     url: /heart-gen-research/
   - title: "Publications"
     url: /heart-gen-publications/
-  - title: "Teaching"
-    url: /heart-gen-teaching/
+  # - title: "Teaching"
+  #   url: /heart-gen-teaching/
   - title: "Funding"
     url: /heart-gen-funding/
   - title: "About"

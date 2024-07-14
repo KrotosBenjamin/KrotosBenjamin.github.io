@@ -88,7 +88,6 @@ author:
 #
 include:
   - pages
-  - _presentations
 
 # exclude:
 #   - .sass-cache/
@@ -123,7 +122,3 @@ defaults:
       is_post: false
       layout: default
       author_profile: true
-
-collections:
-  presentations:
-    output: true
