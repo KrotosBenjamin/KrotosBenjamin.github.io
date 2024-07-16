@@ -28,6 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl    : ""
 url        : "https://krotosbenjamin.github.io"
 repository : "KrotosBenjamin/KrotosBenjamin.github.io"
+logo       : "assets/images/favicon-558x558.png"
 
 # Handling Reading
 encoding     : "utf-8"
@@ -52,6 +53,9 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-sitemap
+
+favicon:
+  source: assets/images/favicon-558x558.png
 
 # Outputting
 timezone   : America/New_York
@@ -116,9 +120,9 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       is_post: false
-      layout: default
+      layout: single
       author_profile: true

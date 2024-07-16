@@ -38,3 +38,4 @@ gem "webrick", "~> 1.8"
 gem "jekyll-seo-tag"
 gem "pathutil"
 gem "json"
+gem 'jekyll-favicon', '~> 1.1.0', group: :jekyll_plugins
