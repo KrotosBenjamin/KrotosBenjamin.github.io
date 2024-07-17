@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 locale     : "en-US"
+timezone   : America/New_York
 title      : HEART-GeN Lab
 subtitle   : A computational biology group
 
@@ -54,11 +55,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-favicon:
-  source: assets/images/favicon-558x558.png
-
 # Outputting
-timezone   : America/New_York
 
 # Markdown Processors
 kramdown:
@@ -105,13 +102,11 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-enable_copy_code_button: true
-
 # Defaults
 defaults:
   # _posts
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
       layout: post
@@ -130,9 +125,11 @@ defaults:
       layout: single
       author_profile: true
 
-
+# Customization
 analytics:
   provider: "google-gtag"
   google:
     tracking_id: "G-ZY1QJT4PN9"
     anonymize_ip: false
+
+enable_copy_code_button: true
