@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl    : ""
 url        : "https://krotosbenjamin.github.io"
 repository : "KrotosBenjamin/KrotosBenjamin.github.io"
-logo       : "assets/images/favicon-558x558.png"
+logo       : "assets/images/temp_logo.png"
 
 # Handling Reading
 encoding     : "utf-8"
@@ -67,7 +67,7 @@ kramdown:
 # Site Author
 author:
   name       : "Kynon JM Benjamin"
-  avatar     : "assets/images/bio-photo.jpg"
+  avatar     : "assets/images/headshot-causal.jpg"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -105,6 +105,8 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+enable_copy_code_button: true
+
 # Defaults
 defaults:
   # _posts
@@ -118,6 +120,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: ""
@@ -126,3 +129,10 @@ defaults:
       is_post: false
       layout: single
       author_profile: true
+
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-ZY1QJT4PN9"
+    anonymize_ip: false
