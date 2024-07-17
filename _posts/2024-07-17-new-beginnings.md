@@ -3,7 +3,7 @@ layout: single
 is_post: true
 title: "Exciting News for the HEART-GeN Lab!"
 description: Dr. Benjamin will be starting at Northwestern University.
-date:   2024-07-17 09:00 -0400
+date:   2024-07-17 09:00
 categories: updates
 toc: false
 tags: announcement
