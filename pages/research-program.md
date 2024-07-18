@@ -58,16 +58,34 @@ large-scale transcriptome analyses for sex differences in schizophrenia.
 
 ### Software development
 
+#### RFMix-reader: Accelerated reading and processing for local ancestry studies
+
+Local ancestry inference is crucial for understanding population history and
+disease genetics, especially for eQTL studies in admixed populations. While
+RFMix is widely used, handling its output for large datasets is challenging due
+to high memory and processing demands. To address this, `RFMix-reader`
+efficiently processes large local ancestry datasets, leveraging GPUs for speed
+and minimizing memory usage, enabling deeper insights into human health and
+health disparities.
+
+PyPI: <https://pypi.org/project/rfmix-reader/>
+
+Documentation: <http://rfmix-reader.readthedocs.io/>
+
+![rfmix-reader]({{site.url}}/assets/images/read_rfmix.flowchart.png)
+
 #### dRFEtools: dynamic recursive feature elimination for omics
 
 Technology advances have generated larger ‘OMICs datasets with applications
 for machine learning. Even so, sample availability results in smaller sample
 sizes compared to features. Dynamic recursive feature elimination (RFE)
 provides a flexible feature elimination framework to tackle this problem.
-*dRFEtools* provides an interpretable and flexible tool to gain biological
+`dRFEtools` provides an interpretable and flexible tool to gain biological
 insights from ‘OMICs data using machine learning.
 
-PyPI: [dRFEtools](https://pypi.org/project/drfetools/)
+PyPI: <https://pypi.org/project/drfetools/>
+
+Documentation: <http://drfetools.readthedocs.io/>
 
 ![dRFEtools overview]({{site.url}}/assets/images/Fig1.dRFEtool_overview.v2.png)
 
@@ -75,14 +93,10 @@ PyPI: [dRFEtools](https://pypi.org/project/drfetools/)
 
 #### Angiotensin II receptors in the human lung
 
-**Rationale**: The renin-angiotensin system is one of the most well characterized
-integrative pathways in humans and is known to contribute to a variety of common
-disorders such as hypertension, chronic renal disease, and heart failure. The
-wide availability of agents targeting this pathway has led to an expansion of
-its clinical spectrum to lung disorders. Despite this widespread interest,
-specific localization of this receptor family in the vertebrate lung is limited.
-One reason is due to the general imprecision of the available antibody
-reagents.\
-**Goal**: Use publicly available single-cell and bulk RNA-sequencing to identify
-and characterize patterns of angiotensin II receptor expression in the lung at
-different ages.
+Understanding the precise distribution and function of angiotensin receptors
+within the lung is crucial for developing effective treatments for lung diseases
+like COPD and IPF. Here, our goal is to provide a foundational framework by
+mapping the expression patterns of *AGTR1* and *AGTR2* across different lung cell
+types and identifying their involvement in specific disease states. Our findings
+will offer new insights into the complex role of the renin-angiotensin system in
+lung health and disease, paving the way for targeted therapeutic interventions.
