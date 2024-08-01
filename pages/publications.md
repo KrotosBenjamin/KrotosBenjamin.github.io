@@ -11,7 +11,7 @@ author_profile: true
 
 **Kynon JM Benjamin**. "RFMix-reader: Accelerated reading and processing for
 local ancestry studies." *bioRxiv*. 2024.
-DOI: <https://doi.org/10.1101/2024.07.13.603370>.
+PMID: [39071265](https://www.biorxiv.org/content/10.1101/2024.07.13.603370v2).
 
 **Benjamin, KJM**, Sauler, M, Poonyagariyagorn, H, and Enid R Neptune.
 "Cell type-specific expression of angiotensin receptors in the human lung
