@@ -11,7 +11,7 @@ main:
     url: /heart-gen-funding/
   - title: "About"
     url: /about-heart-gen/
-  - title: "Contact Us"
-    url: /contact-heart-gen/
+  - title: "Join Us"
+    url: /join-heart-gen/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
