@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Join the HEART-GeN group for opportunities"
+title: "Join the HEART-GeN research group"
 description: The contact/join Dr. Kynon J Benjamin and the HEART-GeN lab for opportunities.
 permalink: /join-heart-gen/
 toc: true
