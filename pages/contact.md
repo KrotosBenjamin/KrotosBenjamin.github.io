@@ -17,11 +17,11 @@ part of groundbreaking discoveries that are shaping the future of neuroscience.
 
 We are seeking highly motivated individuals to join our team at various levels,
 including:
- * **Postdoctoral Fellows**
- * **Graduate Students**
- * **Post-Baccalaureate Students**
- * **Undergraduate Students**
- * **High School Students**
+ * Postdoctoral Fellows
+ * Graduate Students
+ * Post-Baccalaureate Students
+ * Undergraduate Students
+ * High School Students
 
 **Why Join the HEART-GeN Lab?**
 
