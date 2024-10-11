@@ -27,8 +27,8 @@ name       : "Kynon JM Benjamin"
 description: >- # this means to ignore newlines until "baseurl:"
   Improving neurotherapeutics for underrepresented communities.
 baseurl    : ""
-url        : "https://heart-gen.github.io"
-repository : "heart-gen/heart-gen.github.io"
+url        : "https://KrotosBenjamin.github.io"
+repository : "KrotosBenjamin/KrotosBenjamin.github.io"
 logo       : "assets/images/temp_logo.png"
 
 # Handling Reading
