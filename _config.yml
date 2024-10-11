@@ -39,7 +39,7 @@ markdown_ext : "markdown,mkdown,mkdn,mkd,md"
 future      : false
 show_drafts : null
 unpublished : false
-limit_posts : 5
+limit_posts : 6
 
 # Build settings
 markdown              : kramdown
@@ -54,8 +54,16 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate-v2
 
 # Outputting
+pagination:
+  enabled: true
+  per_page: 6
+  sort_reverse: true
+  indexpage: page-1
+  permalink: page-:num
+  extension: json
 
 # Markdown Processors
 kramdown:
