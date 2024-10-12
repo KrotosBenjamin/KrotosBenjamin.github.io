@@ -15,6 +15,14 @@ At the <ins>H</ins>ealth <ins>E</ins>quity for <ins>A</ins>dvancing
 goal is to improve treatments for brain disorders with health disparities.
 While 99.99% of our genome is shared across global ancestral population,
 the very small fraction unique to a specific ancestral population
-can effect how genes turn on or off. We use this human variation
+can affect how genes turn on or off. We use this human variation
 to find these genes that may play a role in explain health
 disparities for brain disorders.
+
+<section id="blog-posts">
+  <h2>Latest Blog Posts</h2>
+  <div id="post-container">
+    <!-- Posts will be loaded here -->
+  </div>
+  <div id="loading-spinner" style="display: none;">Loading...</div>
+</section>
