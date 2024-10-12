@@ -36,6 +36,6 @@ research?
 
 Feel free to use the contact form—we would love to hear from you!
 
-<!-- <button name="button" onclick="mailto:jbenja13@jhmi.edu">Email</button> -->
+<!-- <button name="button" onclick="mailto:kynon.benjamin@northwestern.edu">Email</button> -->
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdz7Bxdz7KY3oWcwE1PtK92ZGZWTTfSlkvDizZLUdU7q5eCWA/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScMLzTgwabaVAff4HUgzsA-z2L3Uz7xvLsBz8PTE420RSwbsw/viewform?embedded=true" width="640" height="721" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
