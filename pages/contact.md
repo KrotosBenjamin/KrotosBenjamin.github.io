@@ -36,6 +36,10 @@ research?
 
 Feel free to use the contact form—we would love to hear from you!
 
+**Attention!** We have recently updated our Google Form due to previous issues with 
+receiving inquiries. If you did not receive a response, please try submitting your 
+inquiry again. Thank you for your understanding!
+
 <!-- <button name="button" onclick="mailto:kynon.benjamin@northwestern.edu">Email</button> -->
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScMLzTgwabaVAff4HUgzsA-z2L3Uz7xvLsBz8PTE420RSwbsw/viewform?embedded=true" width="640" height="721" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
