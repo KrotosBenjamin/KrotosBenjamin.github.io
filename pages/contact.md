@@ -17,9 +17,17 @@ part of groundbreaking discoveries that are shaping the future of neuroscience.
 
 We are seeking highly motivated individuals to join our team at various levels,
 including:
- * Postdoctoral Fellows
- * Graduate Students
- * Post-Baccalaureate Students
+ * Postdoctoral Fellows:
+   * Open position: [Bioinformatics](https://postdocs.northwestern.edu/announcements/positions-at-northwestern/2024/postdoctoral-research-opportunity-genomic-neuroscience-and-health-equity.html)
+   * [NURTURE Postdoctoral Scholars Program](https://nurture.northwestern.edu/open-positions/postdocs.html)
+   * [F99/K00](https://grants.nih.gov/funding/nih-guide-for-grants-and-contracts#/?query=F99/K00&type=active,notices,activenosis&foa=all&parent_orgs=all&orgs=all&ac=F99/K00&ct=all&pfoa=all&fields=all&spons=true)
+ * Graduate Students:
+   * [NUIN](https://nuin.northwestern.edu/index.html) PhD program
+   * [DGP](https://www.feinberg.northwestern.edu/sites/dgp/index.html) PhD program
+   * [MSTP](https://www.feinberg.northwestern.edu/sites/mstp/index.html) MD/PhD program
+ * Post-Baccalaureate Students:
+   * [NUIN](https://www.nuin.northwestern.edu/postbaccalaureate/index.html)
+   * [General](https://sps.northwestern.edu/post-baccalaureate/)
  * Undergraduate Students
  * High School Students
 
