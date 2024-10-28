@@ -13,8 +13,8 @@ At the <ins>H</ins>ealth <ins>E</ins>quity for <ins>A</ins>dvancing
 <ins>R</ins>esearch and <ins>T</ins>echnology using
 <ins>Ge</ins>nomic <ins>N</ins>euroscience (HEART-GeN) lab, our
 goal is to improve treatments for brain disorders with health disparities.
-While 99.99% of our genome is shared across global ancestral population,
+While 99.99% of our genome is shared across global ancestral populations,
 the very small fraction unique to a specific ancestral population
 can affect how genes turn on or off. We use this human variation
-to find these genes that may play a role in explain health
+to find these genes that may play a role in explaining health
 disparities for brain disorders.
