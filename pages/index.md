@@ -11,7 +11,7 @@ permalink: /
 
 At the <ins>H</ins>ealth <ins>E</ins>quity for <ins>A</ins>dvancing
 <ins>R</ins>esearch and <ins>T</ins>echnology using
-<ins>Ge</ins>nomic <ins>N</ins>euroscience (HEART-GeN) lab, our
+<ins>Ge</ins>nomic <ins>N</ins>euroscience (HEART-GeN) research group, our
 goal is to improve treatments for brain disorders with health disparities.
 While 99.99% of our genome is shared across global ancestral populations,
 the very small fraction unique to a specific ancestral population
