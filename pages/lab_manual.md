@@ -196,12 +196,10 @@ strong foundation takes time and everyone learns at different rates.
 
 ### HR information
 
-*Some things that might be included: parking information, location of*
-*restrooms (gender neutral), policies about food in the lab, etc.*
-*Where people can put their lunch, personal items, etc. Note where/how
-to get* *their identification badge, keys, required paperwork, web-based
-systems (e.g.,* *HR systems or compliance system) or other essential
-tools. Indicate how to* *access the lab calendar, website, etc.*
+-   Department/University: You will be with Rachel Rodriguez who will give
+    the Department/University onboarding.
+-   Lab specific: You will recieve several emails from either Dr. Benjamin
+    or the lab manager inviting you to Slack and the lab calender.
 
 ### Lab culture
 
@@ -213,11 +211,10 @@ respectful for your fellow team members.
 
 ### First-day tasks
 
--   Computer setup
--   High-Performance Computing (HPC) cluster access
--   Lab-specific software access
 -   Joining Slack
 -   Read lab manual
+-   High-Performance Computing (HPC) cluster access
+-   Lab-specific software access
 -   Goals meeting with Dr. Benjamin
 
 ### First two weeks tasks
@@ -233,8 +230,8 @@ respectful for your fellow team members.
     -   [GitHub](https://github.com/)
     -   [Biorender](https://www.biorender.com/)
     -   [Zotero](https://www.zotero.org/)
-    -   [Overleaf](https://www.overleaf.com/)
-    -   [Open Source Framework](https://osf.io/dashboard) (OSF)
+    -   [LabArchives](https://www.labarchives.com/)
+-   Computer setup
 
 **Note:** If you do not have a GitHub, we will work together to create
 one for you.
@@ -315,6 +312,12 @@ not directly relate to your assigned project.
 This basic training includes programming, record-keeping, and
 institutional compliance. This is listed in order of importance.
 
+Upcoming workshops at Northwestern:
+[workshops](https://planitpurple.northwestern.edu/calendar/4661).
+
+Northwestern also has access to
+[LinkedIn Learning](https://hr.northwestern.edu/talent-development/development/online-learning/lynda.com.html).
+
 ### Compliance training
 
 -   Harassment training
@@ -324,44 +327,34 @@ institutional compliance. This is listed in order of importance.
 
 ### Linux and `bash`
 
--   [Linux
-    essentials](https://faculty.ucr.edu/~tgirke/Documents/UNIX/linux_manual.html)
+-   [Linux essentials](https://faculty.ucr.edu/~tgirke/Documents/UNIX/linux_manual.html)
 -   [The Unix Workbench](https://seankross.com/the-unix-workbench/) by
     [Sean Kross](http://seankross.com/)
--   [Linux file
-    permissions](http://windowsbulletin.com/filepermissions/)
--   [Shell
-    (`bash`)](https://eriqande.github.io/eca-bioinf-handbook/shell-programming.html)
--   [`sed` and
-    `awk`](https://eriqande.github.io/eca-bioinf-handbook/sed-awk-and-regular-expressions.html)
+-   [Linux file permissions](http://windowsbulletin.com/filepermissions/)
+-   [Shell (`bash`)](https://eriqande.github.io/eca-bioinf-handbook/shell-programming.html)
+-   [`sed` and `awk`](https://eriqande.github.io/eca-bioinf-handbook/sed-awk-and-regular-expressions.html)
 
 ### Version Control
 
--   [About version
-    control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
--   [About
-    `git`](https://docs.github.com/en/get-started/using-git/about-git)
+-   [About version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+-   [About `git`](https://docs.github.com/en/get-started/using-git/about-git)
 -   [git to know git: an 8 minute introduction LIBD rstats blog post by
-    Amy
-    Peterson](http://research.libd.org/rstatsclub/post/git-to-know-git/#.XXfvXpNKi50)
--   [Version Control with
-    Git](https://swcarpentry.github.io/git-novice/index.html)
--   [Commit together with
-    co-authors](https://github.blog/2018-01-29-commit-together-with-co-authors/)
--   [Closing issues using
-    keywords](https://help.github.com/en/articles/closing-issues-using-keywords)
--   [Merging a pull
-    request](https://help.github.com/en/articles/merging-a-pull-request)
+    Amy Peterson](http://research.libd.org/rstatsclub/post/git-to-know-git/#.XXfvXpNKi50)
+-   [Version Control with Git](https://swcarpentry.github.io/git-novice/index.html)
+-   [Commit together with co-authors](https://github.blog/2018-01-29-commit-together-with-co-authors/)
+-   [Closing issues using keywords](https://help.github.com/en/articles/closing-issues-using-keywords)
+-   [Merging a pull request](https://help.github.com/en/articles/merging-a-pull-request)
 -   [Syncing a fork](https://help.github.com/en/articles/syncing-a-fork)
+-   [General Guides](https://sites.northwestern.edu/researchcomputing/resource-guides/resource-guide-git-and-github/)
 
 ### Text editors
 
+-   [Visual Studio Code](https://code.visualstudio.com/)
 -   [Markdown](https://www.markdownguide.org/)
 -   [Org Mode with Emacs](https://orgmode.org/)
 -   [GNU Emacs](https://www.gnu.org/software/emacs/tour/)
 -   [LaTeX](https://latex-tutorial.com/tutorials/)
--   [Learning LaTeX in 30
-    minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+-   [Learning LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
 ### Quarto
 
@@ -369,67 +362,55 @@ institutional compliance. This is listed in order of importance.
 -   [Guides](https://quarto.org/docs/guide/)
     -   [Presentations](https://quarto.org/docs/presentations/)
     -   [Publishing basics](https://quarto.org/docs/publishing/)
-    -   [All
-        formats](https://quarto.org/docs/output-formats/all-formats.html)
+    -   [All formats](https://quarto.org/docs/output-formats/all-formats.html)
 -   JupyterLab
     -   [Guide](https://quarto.org/docs/tools/jupyter-lab.html)
     -   [Extension](https://quarto.org/docs/tools/jupyter-lab-extension.html)
 -   [Gallery](https://quarto.org/docs/gallery/)
     -   [Article](https://github.com/quarto-dev/quarto-gallery/blob/main/page-layout/tufte.qmd)
-    -   [Presentation:
-        Beamer](https://github.com/quarto-dev/quarto-gallery/blob/main/presentations/beamer/beamer.qmd)
-    -   [Presentation:
-        RevealJS](https://github.com/quarto-dev/quarto-web/blob/main/docs/presentations/revealjs/demo/index.qmd)
+    -   [Presentation: Beamer](https://github.com/quarto-dev/quarto-gallery/blob/main/presentations/beamer/beamer.qmd)
+    -   [Presentation: RevealJS](https://github.com/quarto-dev/quarto-web/blob/main/docs/presentations/revealjs/demo/index.qmd)
     -   [Website](https://github.com/fastai/course22/)
-    -   [Python
-        book](https://github.com/wesm/pydata-book?tab=readme-ov-file)
+    -   [Python book](https://github.com/wesm/pydata-book?tab=readme-ov-file)
 
-### Open Source Framework
+### LabArchives
 
--   *youtube video on how to use*
--   [Getting started
-    (OSF)](https://help.osf.io/article/342-getting-started-on-the-osf)
--   [Creating an OFS
-    account](https://help.osf.io/article/271-create-an-osf-account)
+-   [YouTube Videos](https://www.youtube.com/labarchives)
+-   [Getting started LabArchives](https://www.labarchives.com/guides/quick-start-eln)
+-   [LabArchives at Northwestern](https://www.it.northwestern.edu/departments/it-services-support/research/data-storage/documenting-research.html)
 -   [Markdown syntax](https://daringfireball.net/projects/markdown/)
--   [Wiki OSF
-    Projects](https://help.osf.io/article/389-wiki?_gl=1*18bvorb*_ga*MTMyMzEzNjk1Mi4xNzExMTQzMzQ5*_ga_YE9BMGGWX8*MTcxMTgzODgwMC44LjEuMTcxMTg0MDY4NS42MC4wLjA.)
--   [Project Files (OSF)](https://help.osf.io/article/387-project-files)
--   [Security and
-    Privacy](https://help.osf.io/article/391-security-and-privacy)
--   [Add-ons, Storage, and API
-    Integration](https://help.osf.io/article/555-add-ons-storage-api-integration-faq-s)
+-   [Computational Research Example](https://help.labarchives.com/hc/en-us/articles/11785531801492-How-can-I-work-with-code-in-LabArchives)
 
 ### Python programming
 
 -   [Google\'s Python Class](https://developers.google.com/edu/python/)
 -   [Python on kaggle](https://www.kaggle.com/learn/python)
--   [JupyterLab
-    Documentation](https://jupyterlab.readthedocs.io/en/latest/)
-    -   [Get
-        started](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
+-   [JupyterLab Documentation](https://jupyterlab.readthedocs.io/en/latest/)
+    -   [Get started](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
     -   [Example](https://python.land/data-science/jupyter-notebook)
-    -   [Video: Lab vs
-        notebook](https://www.youtube.com/watch?v=p01wt-WB84c)
+    -   [Video: Lab vs notebook](https://www.youtube.com/watch?v=p01wt-WB84c)
 -   [Polars for dataframes](https://pola.rs/)
--   [Intro to machine
-    learning](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)
+-   [Intro to machine learning](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)
+-   [CUDA with Rapids](https://rapids.ai/)
+-   [General Guides](https://sites.northwestern.edu/researchcomputing/resource-guides/resource-guide-python/)
 
 ### R programming
 
--   [R/Bioconductor Data Science
-    bootcamps](https://lcolladotor.github.io/bioc_team_ds/rbioconductor-data-science-bootcamps.html#rbioconductor-data-science-bootcamps)
--   [Getting Started with R and
-    RStudio](https://www.dataquest.io/blog/tutorial-getting-started-with-r-and-rstudio/)
--   [R Reference
-    Card](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
+-   [R/Bioconductor Data Science bootcamps](https://lcolladotor.github.io/bioc_team_ds/rbioconductor-data-science-bootcamps.html#rbioconductor-data-science-bootcamps)
+-   [Getting Started with R and RStudio](https://www.dataquest.io/blog/tutorial-getting-started-with-r-and-rstudio/)
+-   [R Reference Card](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
 -   [Posit Cheatsheets](https://rstudio.github.io/cheatsheets/)
+-   [General Guides](https://sites.northwestern.edu/researchcomputing/resource-guides/resource-guide-r/)
 
-### HPC cluster environment
+### HPC cluster environment: QUEST
 
--   Working on remote servers
--   High performance computing clusters
--   Jupyter-lab HPC specific instructions
+-   [QUEST](https://www.it.northwestern.edu/departments/it-services-support/research/computing/quest/)
+    -    [General Access](https://www.it.northwestern.edu/departments/it-services-support/research/computing/quest/general-access-allocation-types.html)
+    -    [Genomics Compute Cluster](https://www.it.northwestern.edu/departments/it-services-support/research/computing/quest/genomics-compute-cluster.html)
+    -    [Connecting to Jupyter and Rstudio](https://www.it.northwestern.edu/departments/it-services-support/research/computing/quest/quest-analytics-nodes.html)
+    -    [User Guide](https://services.northwestern.edu/TDClient/30/Portal/KB/ArticleDet?ID=505)
+    -    [QUEST Videos](https://services.northwestern.edu/TDClient/30/Portal/KB/ArticleDet?ID=2004)
+-   [SLURM](https://slurm.schedmd.com/quickstart.html)
 
 # Working in the HEART-GeN Lab
 
@@ -523,10 +504,10 @@ Our group uses ELNs. This facilitates efficient data entry,
 organization, and collaboration. ELNs offer advantages such as version
 control, searchability, and accessibility from multiple devices.
 
-Our lab uses [Open Source Framework](https://osf.io/dashboard) (OSF) as
-our ELN system. This is a free, open source, platform that connects to
-GitHub and reference management system (Zotero). Getting access and
-training is part of [*On-boarding*](#getting-started-in-the-heart-gen-lab).
+Our lab uses [LabArchives](https://www.labarchives.com/) as our ELN
+system. Northwestern has an enterprise licence that so that all lab
+members can have a free account. Getting access and training is part of
+[*On-boarding*](#getting-started-in-the-heart-gen-lab).
 
 ### Document All Procedures and Protocols
 
@@ -688,10 +669,10 @@ archiving platform and procedures for their datasets.
 ### Data Management Tools and Practices
 
 **Electronic vs. Physical Documents:** Whenever possible, team members
-should prioritize electronic documentation (e.g., `OSF`) over
+should prioritize electronic documentation (e.g., `LabArchives`) over
 physical documents to facilitate accessibility, sharing, and version
 control. Physical documents should be digitized and uploaded to
-`OSF`.
+`LabArchives`.
 
 **Data Visualization Tools:** Data visualization tools enable our team
 to explore, analyze, and communicate research findings effectively.
@@ -707,7 +688,7 @@ communication tools such as Slack or Zoom facilitate real-time
 communication and project coordination among team members. In addition
 to these tools, we use GitHub issues to monitor project milestones,
 including project coordination, management, and communication. Team
-members should use these tools in addition to `OSF` to
+members should use these tools in addition to `LabArchives` to
 streamline collaboration, exchange ideas, and coordinate research
 activities effectively.
 
@@ -794,17 +775,11 @@ organized as part of our annual retreat.
 
 2.  Grant Writing
 
-    -   [NIH
-        applications](https://grants.nih.gov/grants/how-to-apply-application-guide/format-and-write/write-your-application.htm)
+    -   [NIH applications](https://grants.nih.gov/grants/how-to-apply-application-guide/format-and-write/write-your-application.htm)
     -   [NIH Grant Tutorials](https://www.nlm.nih.gov/ep/Tutorial.html)
-    -   [Grant
-        Proposal](https://www.biorender.com/learn/top-tips-for-a-winning-grant-proposal)
-        (Video)
-    -   [Grant
-        figures](https://www.biorender.com/learn/better-grant-figures)
-        (Video)
-    -   [NIH Boot
-        Camp](https://www.publichealth.columbia.edu/academics/non-degree-special-programs/professional-non-degree-programs/skills-health-research-professionals-sharp-training/nih-grant-writing)
+    -   [Grant Proposal](https://www.biorender.com/learn/top-tips-for-a-winning-grant-proposal)
+    -   [Grant figures](https://www.biorender.com/learn/better-grant-figures)
+    -   [NIH Boot Camp](https://www.publichealth.columbia.edu/academics/non-degree-special-programs/professional-non-degree-programs/skills-health-research-professionals-sharp-training/nih-grant-writing)
 
 ### Science communication
 
@@ -839,15 +814,11 @@ meetings*](#team-meetings).
     Dr. Benjamin uses [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
     Beamer for presentation slides and posters.
 
-    -   [Tutorial
-        Slides](https://home.uncg.edu/cmp/reu/presentations/Charles%20Batts%20-%20Beamer%20Tutorial.pdf)
-    -   [User
-        guide](https://us.mirrors.cicku.me/ctan/macros/latex/contrib/beamer/doc/beameruserguide.pdf)
-    -   [Overleaf
-        documentation](https://www.overleaf.com/learn/latex/Beamer%23Creating_a_table_of_contents) -
+    -   [Tutorial Slides](https://home.uncg.edu/cmp/reu/presentations/Charles%20Batts%20-%20Beamer%20Tutorial.pdf)
+    -   [User guide](https://us.mirrors.cicku.me/ctan/macros/latex/contrib/beamer/doc/beameruserguide.pdf)
+    -   [Overleaf documentation](https://www.overleaf.com/learn/latex/Beamer%23Creating_a_table_of_contents) -
         Beamer
-    -   [Overleaf
-        documentation](https://www.overleaf.com/learn/latex/Posters) -
+    -   [Overleaf documentation](https://www.overleaf.com/learn/latex/Posters) -
         Posters
 
 ### Conferences
@@ -864,9 +835,10 @@ scientific communication training.
 
 1.  Local
 
-    *This section is specific to a university. It will list conferences
-    that* *any trainee or staff can attend that is within the city or
-    university.*
+    1. Chicago’s Premier Undergraduate Research Symposium (April)
+    2. Undergraudate Research & Arts Expo (May)
+    3. Annual Lewis Landsberg Research Day (September)
+    4. Simpson Querrey Institute for Epigenetics Symposium (October)
 
 2.  National and Regional
 
@@ -875,8 +847,7 @@ scientific communication training.
     often attends. This is not a comprehensive list of conferences, but
     a starting place for selecting **national conferences** to attend.
 
-    1.  [American Society of Human Genetics
-        (ASHG)](https://www.ashg.org/)
+    1.  [American Society of Human Genetics (ASHG)](https://www.ashg.org/)
     2.  [CSHL Biology of Genomes or Biological Data
         Science](https://meetings.cshl.edu/meetingshome.aspx)
     3.  [Society for Neuroscience (SfN)](https://www.sfn.org/)
@@ -925,9 +896,9 @@ school team members should work no more than 10 hours a week during the
 school year.
 
 **Remote Work Options:** We embrace remote work as a primarily
-computational lab. Fully remote team members will be expected to attend
-the annual lab retreat. Travel and accommodations for this retreat will
-be provided by the lab.
+computational lab. Monday is our official work-from-home day.
+
+[Fully remote team members will be expected to attend the annual lab retreat. Travel and accommodations for this retreat will be provided by the lab.]:
 
 **Breaks and Rest Periods:** It is important to take regular breaks and
 rest periods throughout the workday to prevent fatigue and maintain
@@ -1340,7 +1311,7 @@ outlines expectations for both planned and unforeseen departures.
 
     **Data and Records:** While the goal at the HEART-GeN lab is to keep
     well organized data, one month before planned departure research
-    data and protocols should be up-to-date on OSF. Additionally, Dr.
+    data and protocols should be up-to-date on LabArchives. Additionally, Dr.
     Benjamin will schedule extra meetings to ensure proper archiving and
     handover of project materials.
 
@@ -1494,11 +1465,12 @@ difficult to extract the information needed to troubleshoot the problem.
 
 ## Resources {#resources-1}
 
--   Ombudsperson
--   Graduate student association
--   Postdoctoral association
--   Title IX
--   Counseling services
+-   [Ombudsperson](https://www.northwestern.edu/ombuds/)
+-   [Graduate student union](https://www.northwestern.edu/graduate-union-resources/)
+-   [Northwestern University Postdoctoral
+    association (NUPA)](https://postdocs.northwestern.edu/resources-support/nupa.html)
+-   [Title IX](https://www.northwestern.edu/sexual-misconduct/title-ix/)
+-   [Counseling services](https://www.northwestern.edu/counseling/)
 
 # Responsible Conduct of Research
 
@@ -1696,7 +1668,7 @@ minimize harm to animals.
 
 -   [NIH
     Policies](https://grants.nih.gov/policy/humansubjects/policies-and-regulations.htm)
--   University Policies
+-   [RCR at NU](https://researchintegrity.northwestern.edu/training/responsible-conduct-of-research-training/)
 
 ### Transparency and Openness
 
