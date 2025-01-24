@@ -44,36 +44,51 @@ brain. In addition to this, we have established collaborations to use
 computational tools to address hypothesize driven question with
 publically available single-cell and bulk tissues.
 
-## Members
+## Our Team
 
-<ul>
 {% for member in site.data.pi %}
-<li>
-<a href="https://github.com/{{ member.github }}">
-{{ member.name }}
-</a> ({{ member.role }})
-</li>
+<div class="team-member">
+  <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" alt="{{ member.name }}" class="headshot">
+  <h3>{{ member.name }} ({{ member.pronouns }})</h3>
+  <p class="role">{{ member.role }}</p>
+  <p class="social-links">
+    <a href="https://github.com/{{ member.github }}"><i class="fab fa-github"></i> {{ member.github }}</a>
+    <br>
+    <a href="https://bsky.app/profile/{{ member.bluesky }}"><i class="fas fa-cloud"></i> {{ member.bluesky }}</a>
+  </p>
+</div>
 {% endfor %}
-</ul>
 
 ### Trainees
-<ul>
+
+<div class="team-grid">
 {% for member in site.data.members %}
-<li>
-<a href="https://github.com/{{ member.github }}">
-{{ member.name }}
-</a> ({{ member.role }})
-</li>
+  <div class="team-member">
+    <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" alt="{{ member.name }}" class="headshot">
+    <h4>{{ member.name }} ({{ member.pronouns }})</h4>
+    <p class="role">{{ member.role }}</p>
+    <p class="social-links">
+      <a href="https://github.com/{{ member.github }}"><i class="fab fa-github"></i> {{ member.github }}</a>
+      <br>
+      <a href="https://bsky.app/profile/{{ member.bluesky }}"><i class="fas fa-cloud"></i> {{ member.bluesky }}</a>
+    </p>
+  </div>
 {% endfor %}
-</ul>
+</div>
 
 ### Research Staff
-<ul>
+
+<div class="team-grid">
 {% for member in site.data.staff %}
-<li>
-<a href="https://github.com/{{ member.github }}">
-{{ member.name }}
-</a> ({{ member.role }})
-</li>
+  <div class="team-member">
+    <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" alt="{{ member.name }}" class="headshot">
+    <h4>{{ member.name }} ({{ member.pronouns }})</h4>
+    <p class="role">{{ member.role }}</p>
+    <p class="social-links">
+      <a href="https://github.com/{{ member.github }}"><i class="fab fa-github"></i> {{ member.github }}</a>
+      <br>
+      <a href="https://bsky.app/profile/{{ member.bluesky }}"><i class="fas fa-cloud"></i> {{ member.bluesky }}</a>
+    </p>
+  </div>
 {% endfor %}
-</ul>
+</div>
