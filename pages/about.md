@@ -44,14 +44,36 @@ brain. In addition to this, we have established collaborations to use
 computational tools to address hypothesize driven question with
 publically available single-cell and bulk tissues.
 
-<!-- ## Members -->
+## Members
 
-<!-- <ul> -->
-<!-- {% for member in site.data.members %} -->
-<!-- <li> -->
-<!-- <a href="https://github.com/{{ member.github }}"> -->
-<!-- {{ member.name }} -->
-<!-- </a> ({{ member.role }}) -->
-<!-- </li> -->
-<!-- {% endfor %} -->
-<!-- </ul> -->
+<ul>
+{% for member in site.data.pi %}
+<li>
+<a href="https://github.com/{{ member.github }}">
+{{ member.name }}
+</a> ({{ member.role }})
+</li>
+{% endfor %}
+</ul>
+
+### Trainees
+<ul>
+{% for member in site.data.members %}
+<li>
+<a href="https://github.com/{{ member.github }}">
+{{ member.name }}
+</a> ({{ member.role }})
+</li>
+{% endfor %}
+</ul>
+
+### Research Staff
+<ul>
+{% for member in site.data.staff %}
+<li>
+<a href="https://github.com/{{ member.github }}">
+{{ member.name }}
+</a> ({{ member.role }})
+</li>
+{% endfor %}
+</ul>
