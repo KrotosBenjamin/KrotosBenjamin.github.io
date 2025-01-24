@@ -64,13 +64,19 @@ publically available single-cell and bulk tissues.
 <div class="team-grid">
 {% for member in site.data.members %}
   <div class="team-member">
-    <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" alt="{{ member.name }}" class="headshot">
+	{% if member.image %}
+      <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" alt="{{ member.name }}" class="headshot">
+    {% endif %}
     <h4>{{ member.name }} ({{ member.pronouns }})</h4>
     <p class="role">{{ member.role }}</p>
     <p class="social-links">
-      <a href="https://github.com/{{ member.github }}"><i class="fab fa-github"></i> {{ member.github }}</a>
-      <br>
-      <a href="https://bsky.app/profile/{{ member.bluesky }}"><i class="fas fa-cloud"></i> {{ member.bluesky }}</a>
+	  {% if member.github %}
+        <a href="https://github.com/{{ member.github }}"><i class="fab fa-github"></i> {{ member.github }}</a>
+      {% if member.bluesky %}<br>{% endif %}
+	  {% endif %}
+	  {% if member.bluesky %}
+        <a href="https://bsky.app/profile/{{ member.bluesky }}"><i class="fas fa-cloud"></i> {{ member.bluesky }}</a>
+		{% endif %}
     </p>
   </div>
 {% endfor %}
@@ -81,13 +87,19 @@ publically available single-cell and bulk tissues.
 <div class="team-grid">
 {% for member in site.data.staff %}
   <div class="team-member">
-    <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" alt="{{ member.name }}" class="headshot">
+	{% if member.image %}
+      <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" alt="{{ member.name }}" class="headshot">
+    {% endif %}
     <h4>{{ member.name }} ({{ member.pronouns }})</h4>
     <p class="role">{{ member.role }}</p>
     <p class="social-links">
-      <a href="https://github.com/{{ member.github }}"><i class="fab fa-github"></i> {{ member.github }}</a>
-      <br>
-      <a href="https://bsky.app/profile/{{ member.bluesky }}"><i class="fas fa-cloud"></i> {{ member.bluesky }}</a>
+	  {% if member.github %}
+        <a href="https://github.com/{{ member.github }}"><i class="fab fa-github"></i> {{ member.github }}</a>
+      {% if member.bluesky %}<br>{% endif %}
+	  {% endif %}
+	  {% if member.bluesky %}
+        <a href="https://bsky.app/profile/{{ member.bluesky }}"><i class="fas fa-cloud"></i> {{ member.bluesky }}</a>
+		{% endif %}
     </p>
   </div>
 {% endfor %}
