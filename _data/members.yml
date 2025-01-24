@@ -1,10 +1,17 @@
 - name: Sierra Mannion
+  pronouns: she/her
   github: SierraM24
   role: Undergraduate
+  image: sierra-mannion.jpeg
+
 - name: Jocelyn Wang
+  pronouns: she/they
   github: jwang1889
   bluesky: jwang1889
   role: Undergraduate
+  image: jocelyn-wang.jpg
+
 - name: Javier Hernandez
+  pronouns: he/him
   github: Javih10
   role: Undergraduate
