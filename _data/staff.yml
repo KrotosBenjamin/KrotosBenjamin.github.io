@@ -1,8 +1,20 @@
 - name: Christina Spaulding
   pronouns: she/her
+  github: CS-compbio-ds
   role: Lab Research Manager
   image: christina-spaulding.png
-  github: CS-compbio-ds
+
+- name: Alexis Bennett
+  pronouns: she/her
+  github: abennett15
+  role: Research Data Analyst
+  image: alexis-bennett.jpg
+
+- name: Manuel Hurtado, Jr.
+  github: mhi573
+  pronouns: he/him
+  role: Research Data Analyst
+  image: manuel-hurtado.jpg
 
 - name: Valentine Gilson
   pronouns: she/her
