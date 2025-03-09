@@ -14,10 +14,10 @@ excerpt_separator: <!--more-->
 # HEART-GeN Receives Prestigious Grant for Alzheimer's Research
 
 We are thrilled to announce that the **HEART-GeN Lab has been awarded a
-prestigious grant from the Alzheimer's Association!** This funding represents
-a major step forward in our mission to uncover the genetic and biological
-mechanisms driving **health disparities in **Alzheimer's disease and related
-dementias (ADRD).**
+prestigious grant from the [Alzheimer's Association](https://www.alz.org/)!**
+This funding represents a major step forward in our mission to uncover the
+genetic and biological mechanisms driving **health disparities in **Alzheimer's
+disease and related dementias (ADRD).**
 
 <!--more-->
 
@@ -61,3 +61,5 @@ research in this critical area.
 We look forward to sharing updates as we embark on this next phase of research.
 
 ---
+
+[alzfunded](assets/images/alz-stacked-rgb.png)
