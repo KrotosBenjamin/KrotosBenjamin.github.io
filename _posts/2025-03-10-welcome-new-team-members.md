@@ -41,5 +41,3 @@ and contributions -- stay tuned.
 **Welcome to the HEART-GeN family!**
 
 ![Team Photo](/assets/images/research-staff.png)
-
----

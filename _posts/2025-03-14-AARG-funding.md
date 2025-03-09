@@ -62,4 +62,4 @@ We look forward to sharing updates as we embark on this next phase of research.
 
 ---
 
-[alzfunded](assets/images/alz-stacked-rgb.png)
+![alzfunded](/assets/images/alz-stacked-rgb.png)
