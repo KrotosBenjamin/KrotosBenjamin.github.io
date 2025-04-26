@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 ## Current funding
-Grant: [K99/R00 MD0169640](https://reporter.nih.gov/search/fZ-vbKVe5UCpRs4Cy1JD8Q/project-details/10351433)\
+Grant: [K99/R00 MD0169640](https://reporter.nih.gov/search/fZ-vbKVe5UCpRs4Cy1JD8Q/project-details/10896056)\
 Funding Source: NIH/NIMHD\
 Date(s): 12/01/2021-03/31/2027\
 Role: PI\
