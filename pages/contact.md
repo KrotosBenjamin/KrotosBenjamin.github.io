@@ -34,7 +34,7 @@ including:
 **Why Join the HEART-GeN Lab?**
 
  * **Cutting-Edge Research:** Work alongside world-class researchers on innovative projects that are advancing our understanding of the human genome and its impact on health.
- * **Collaborative Environment:** Be part of a supportive and collaborative team that values diversity, inclusivity, and intellectual curiosity.
+ * **Collaborative Environment:** Be part of a supportive and collaborative team that values mutual respect and intellectual curiosity.
  * **Mentorship and Professional Development:** Receive personalized mentorship and guidance from experienced scientists to develop your skills and career goals.
  * **Opportunities for Growth:** Explore various research areas and gain hands-on experience in cutting-edge techniques and technologies.
 
@@ -44,8 +44,8 @@ research?
 
 Feel free to use the contact form—we would love to hear from you!
 
-**Attention!** We have recently updated our Google Form due to previous issues with 
-receiving inquiries. If you did not receive a response, please try submitting your 
+**Attention!** We have recently updated our Google Form due to previous issues with
+receiving inquiries. If you did not receive a response, please try submitting your
 inquiry again. Thank you for your understanding!
 
 <!-- <button name="button" onclick="mailto:kynon.benjamin@northwestern.edu">Email</button> -->

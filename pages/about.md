@@ -25,11 +25,10 @@ computational pipelines for large-scale transcriptional (bulk and
 single-cell), genetic, and functional associations analyses in
 postmortem brain and brain (i.e., cerebral and striatal) organoids.
 
-Throughout his research career, Dr. Benjamin's experiences have
-reinforced the **critical need for diversity and creating inclusive**
-**spaces**. As such, he has worked to provide mentorship and
-representation as well as advocate for opportunities for other
-underrepresented minorities.
+Throughout his research career, Dr. Benjamin's experiences have reinforced
+the **importance of supporting others and fostering collaborative
+environments**. As such, he has worked to provide mentorship, serve as a
+role model, and advocate for opportunities for others.
 
 [Dr. Benjamin's CV]({{site.url}}/assets/papers/resume_cv.pdf)
 
