@@ -23,6 +23,12 @@
   role: Undergraduate
   image: elisa-johnson.jpeg
 
+- name: Yiju Choi
+  pronouns: she/her
+  github: yijuchoi
+  role: Undergraduate
+  image: yiju-choi.jpg
+
 - name: Amirah Collins
   pronouns: she/her
   role: Undergraduate
@@ -40,9 +46,3 @@
   role: Undergraduate (SROP 2025)
   loc: Spelman College
   image: nia-terry.jpg
-
-- name: Yiju Choi
-  pronouns: she/her
-  github: yijuchoi
-  role: Undergraduate
-  image: yiju-choi.jpg
