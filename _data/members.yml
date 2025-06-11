@@ -22,3 +22,27 @@
   github: elisa-johnson-7061b4282
   role: Undergraduate
   image: elisa-johnson.jpeg
+
+- name: Amirah Collins
+  pronouns: she/her
+  role: Undergraduate
+
+- name: Emma Tsai
+  pronouns: she/her
+  github: EmmaPTsai
+  role: Undergraduate
+  loc: Louisiana State University
+  image: emma-tsai.jpg
+
+- name: Nia Terry
+  pronouns: she/her
+  github: niaterry
+  role: Undergraduate
+  loc: Spelman College
+  image: nia-terry.jpg
+
+- name: Yiju Choi
+  pronouns: she/her
+  github: yijuchoi
+  role: Undergraduate
+  image: yiju-choi.jpg

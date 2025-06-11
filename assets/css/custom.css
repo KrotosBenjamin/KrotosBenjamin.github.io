@@ -25,6 +25,12 @@
   margin-bottom: 0.5rem;
 }
 
+.team-member .loc {
+  font-style: italic;
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+}
+
 .team-member .social-links {
   font-size: 0.9rem;
 }
