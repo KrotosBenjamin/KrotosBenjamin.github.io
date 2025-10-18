@@ -7,14 +7,13 @@ toc: true
 author_profile: true
 ---
 
-## GENBoostGPU: GPU-accelerated genomic prediction
+## GENBoostGPU: Genomic Elastic Net Boosting on GPU
 
-[GENBoostGPU](https://github.com/heart-gen/GENBoostGPU) is our latest open-source
-software package for rapidly training gradient boosted models tailored to
-large-scale genomic datasets. Built to take advantage of modern GPU hardware,
-it dramatically reduces training time for predictive models that integrate
-multi-omic features, enabling researchers to iterate quickly on phenotype
-prediction tasks and explore complex trait architectures.
+[GENBoostGPU](https://github.com/heart-gen/GENBoostGPU) provides a scalable framework for running elastic net regression with boosting across thousands of CpG sites or regions, leveraging GPU acceleration.
+
+It supports SNP preprocessing, cis-window filtering, LD clumping, missing data imputation, and phenotype integration — all optimized for large-scale epigenomics.
+
+PyPI: <https://pypi.org/project/genboostgpu/>
 
 ## RFMix-reader: Accelerated reading and processing for local ancestry studies
 
