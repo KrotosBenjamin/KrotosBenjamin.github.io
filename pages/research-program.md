@@ -56,38 +56,18 @@ large-scale transcriptome analyses for sex differences in schizophrenia.
 
 ![sex diff overview]({{site.url}}/assets/images/sex_diff_overview.png)
 
-### Software development
+### Neurodegeneration
 
-#### RFMix-reader: Accelerated reading and processing for local ancestry studies
-
-Local ancestry inference is crucial for understanding population history and
-disease genetics, especially for eQTL studies in admixed populations. While
-RFMix is widely used, handling its output for large datasets is challenging due
-to high memory and processing demands. To address this, `RFMix-reader`
-efficiently processes large local ancestry datasets, leveraging GPUs for speed
-and minimizing memory usage, enabling deeper insights into human health and
-health disparities.
-
-PyPI: <https://pypi.org/project/rfmix-reader/>
-
-Documentation: <http://rfmix-reader.readthedocs.io/>
-
-![rfmix-reader]({{site.url}}/assets/images/read_rfmix.flowchart.png)
-
-#### dRFEtools: dynamic recursive feature elimination for omics
-
-Technology advances have generated larger ‘OMICs datasets with applications
-for machine learning. Even so, sample availability results in smaller sample
-sizes compared to features. Dynamic recursive feature elimination (RFE)
-provides a flexible feature elimination framework to tackle this problem.
-`dRFEtools` provides an interpretable and flexible tool to gain biological
-insights from ‘OMICs data using machine learning.
-
-PyPI: <https://pypi.org/project/drfetools/>
-
-Documentation: <http://drfetools.readthedocs.io/>
-
-![dRFEtools overview]({{site.url}}/assets/images/Fig1.dRFEtool_overview.v2.png)
+Neurodegenerative disorders disproportionately impact underserved
+communities, yet the molecular mechanisms that drive this imbalance remain
+poorly understood. Our lab is expanding into neurodegeneration research to
+investigate how genetic ancestry shapes vulnerability to age-related cognitive
+decline and neuroinflammation. By integrating transcriptomic and epigenomic
+datasets from postmortem brain tissues and patient-derived models, we aim to
+identify ancestry-aware biomarkers and therapeutic targets that can inform
+precision medicine approaches for Alzheimer’s disease and related dementias.
+We welcome collaborations that help accelerate this work and amplify its
+impact for diverse communities.
 
 ### Collaborations
 

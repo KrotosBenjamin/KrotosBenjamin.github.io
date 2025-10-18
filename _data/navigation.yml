@@ -3,6 +3,8 @@ main:
     url: /
   - title: "Research"
     url: /heart-gen-research/
+  - title: "Software"
+    url: /heart-gen-software/
   - title: "Publications"
     url: /heart-gen-publications/
   # - title: "Teaching"
