@@ -1,7 +1,7 @@
 ---
 layout: single
 is_post: true
-date: 2025-05-10
+date: 2025-05-18
 title: "Reflections from the NURTURE Faculty Retreat"
 description: "Celebrating connection and inspiration at the NURTURE Faculty Retreat."
 categories: [events]

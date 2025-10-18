@@ -1,7 +1,7 @@
 ---
 layout: single
 is_post: true
-date: 2025-05-18
+date: 2025-05-10
 title: "Sharing Science at BoG 2025"
 description: "Highlights from presenting our poster at BoG 2025."
 categories: [events]
