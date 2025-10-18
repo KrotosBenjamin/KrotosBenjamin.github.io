@@ -21,10 +21,20 @@ Scientific Society:
 
 Grant: 25AARG-1413315\
 Funding Source: Alzheimer's Association\
-Date(s): Pending activation\
+Date(s): 09/01/2025-08/31/2028\
 Role: PI\
 Purpose: This is a research grant to examine the impact of genetic ancestry on
 age-related expression changes and ADRD risk.
+
+## Pending funding
+
+Grant: Young Investigator Award\
+Funding Source: Brain & Behavior Research Foundation (BBRF)\
+Date(s): Pending (02/01/2026-01/31/2028)\
+Role: PI\
+Purpose: This award will fund computational analysis to identify how
+schizophrenia alters specific cell types across key brain regions, pinpointing
+novel genetic targets to guide the development of more effective treatments.
 
 ## Past funding
 Grant: [U54 CA272163](https://reporter.nih.gov/search/wECBMVK1DkqPVq4C5JCqQg/project-details/11002928)\
