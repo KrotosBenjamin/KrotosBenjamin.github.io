@@ -10,10 +10,14 @@ author: Dr. Benjamin
 toc: false
 ---
 
-HEART-GeN Lab is excited to welcome Sula to our team! 🧠 Sula's area of focus is in searching for the genetic risk factor for Alzheimer's and other dementias to discover the mechanisms in neurodegenerative disease.
+🎉 **Please join us in giving a warm welcome to Sula**, the very first **graduate student** to join the **HEART-GeN Lab**!  
 
-🔬 Sula has worked at a brain bank where they learned about different dementias and saw their effect on post mortem brains.
+Sula is launching her graduate journey with a bold mission: to uncover the **genetic risk factors underlying Alzheimer’s disease and other dementias**, and help illuminate the biological pathways that drive **neurodegeneration**. 🧠🧬  
 
-🎨 When not in the lab, Sula is an artist and explorer at heart. Sula's hobbies include playing piano, gardening, painting, hiking, and traveling.
+Before joining HEART-GeN, Sula gained valuable experience working at a **brain bank**, where she studied the visible effects of dementia in postmortem tissue. That experience deeply shaped her passion for understanding the science behind memory loss, aging, and neurobiology.
 
-We are thrilled to have you on board, Sula, and cannot wait to see the impact of your work!
+Outside the lab, Sula brings creativity, curiosity, and adventure to everything they do. From **playing the piano** and **gardening** to **painting**, **hiking**, and **traveling**, Sula embodies the kind of multidimensional thinking we value so deeply in science.
+
+We are beyond excited to support your growth, ideas, and impact as a scholar. Welcome to the team, Sula — the future of neuroscience is in good hands.
+
+#Welcome #HEARTGeN #GraduateStudent #AlzheimersResearch #Neurogenetics #Neurodegeneration #STEMcommunity #BrainsAndCreativity
