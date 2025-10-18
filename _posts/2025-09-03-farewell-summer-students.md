@@ -10,6 +10,15 @@ author: Dr. Benjamin
 toc: false
 ---
 
-As we start the school year, I want to make sure I take time to thank and appreciate all of our summer members. **Thank you for sharing your time and science with us and we wish you the best of luck on your next journey!**
+💫 **With the school year beginning, we pause to celebrate the incredible group of summer students who brought their energy, insight, and passion to the HEART-GeN Lab.**
 
-Your curiosity, dedication, and energy made this summer unforgettable. We cannot wait to see where your next steps lead you, and we hope you carry the HEART-GeN spirit with you everywhere you go.
+To each of you: **thank you** for sharing your time, your science, and your unique perspectives with us. Whether you were coding models, exploring neurogenetic pathways, visualizing data, or diving into big questions about the brain — you helped shape an unforgettable season of growth, curiosity, and collaboration.
+
+Your work made an impact, but more importantly — **you did**.
+
+We’re so proud of everything you accomplished, and we can’t wait to see where your next steps lead. Wherever you go next, we hope you carry a piece of the HEART-GeN spirit with you: bold questions, collaborative science, and community at the core.
+
+Here’s to the journeys ahead. 🚀  
+Stay curious. Stay fearless. Stay connected.
+
+#HEARTGeN #SummerResearch #Gratitude #STEMCommunity #FutureScientists #ScienceWithHeart
