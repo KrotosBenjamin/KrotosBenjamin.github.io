@@ -58,16 +58,46 @@ publically available single-cell and bulk tissues.
 </div>
 {% endfor %}
 
-### Trainees
+### Current Trainees
 
 <div class="team-grid">
-{% for member in site.data.members %}
+{% for member in site.data.members.current %}
   <div class="team-member">
   {% if member.image %}
       <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" alt="{{ member.name }}" class="headshot">
     {% endif %}
     <h4>{{ member.name }} ({{ member.pronouns }})</h4>
     <p class="role">{{ member.role }}</p>
+    {% if member.project %}
+    <p class="project">{{ member.project }}</p>
+    {% endif %}
+    <p class="loc">{{ member.loc }}</p>
+    <p class="social-links">
+      {% if member.github %}
+        <a href="https://github.com/{{ member.github }}"><i class="fab fa-github"></i> {{ member.github }}</a>
+      {% if member.bluesky %}<br>{% endif %}
+      {% endif %}
+      {% if member.bluesky %}
+        <a href="https://bsky.app/profile/{{ member.bluesky }}"><i class="fas fa-cloud"></i> {{ member.bluesky }}</a>
+        {% endif %}
+    </p>
+  </div>
+{% endfor %}
+</div>
+
+### Alumni
+
+<div class="team-grid">
+{% for member in site.data.members.alumni %}
+  <div class="team-member">
+  {% if member.image %}
+      <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" alt="{{ member.name }}" class="headshot">
+    {% endif %}
+    <h4>{{ member.name }} ({{ member.pronouns }})</h4>
+    <p class="role">{{ member.role }}</p>
+    {% if member.project %}
+    <p class="project">{{ member.project }}</p>
+    {% endif %}
     <p class="loc">{{ member.loc }}</p>
     <p class="social-links">
       {% if member.github %}
