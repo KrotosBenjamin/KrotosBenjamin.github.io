@@ -1,48 +1,58 @@
-- name: Sierra Mannion
-  pronouns: she/her
-  github: SierraM24
-  role: Undergraduate
-  image: sierra-mannion.jpeg
+current:
+  - name: Javier Hernandez
+    pronouns: he/him
+    github: Javih10
+    role: Undergraduate
+    project: Gene-Gene Networks with VAEs
+    image: javier-hernandez.jpg
 
-- name: Jocelyn Wang
-  pronouns: she/they
-  github: jwang1889
-  bluesky: jwang1889
-  role: Undergraduate
-  image: jocelyn-wang.jpg
+  - name: Elisa Johnson
+    pronouns: she/her
+    github: elisa-johnson-7061b4282
+    role: Undergraduate
+    project: DNAm and heritability
+    image: elisa-johnson.jpeg
 
-- name: Javier Hernandez
-  pronouns: he/him
-  github: Javih10
-  role: Undergraduate
-  image: javier-hernandez.jpg
+  - name: Yiju Choi
+    pronouns: she/her
+    github: yijuchoi
+    role: Undergraduate
+    project: Functional Annotation (Genetic Ancestry)
+    image: yiju-choi.jpg
 
-- name: Elisa Johnson
-  pronouns: she/her
-  github: elisa-johnson-7061b4282
-  role: Undergraduate
-  image: elisa-johnson.jpeg
+alumni:
+  - name: Sierra Mannion
+    pronouns: she/her
+    github: SierraM24
+    role: Undergraduate (URAP 2024-2025)
+    project: Local-Ancestry Aware xQTL
+    image: sierra-mannion.jpeg
 
-- name: Yiju Choi
-  pronouns: she/her
-  github: yijuchoi
-  role: Undergraduate
-  image: yiju-choi.jpg
+  - name: Jocelyn Wang
+    pronouns: she/they
+    github: jwang1889
+    bluesky: jwang1889
+    role: Undergraduate (URAP 2024-2025)
+    project: Local-Ancestry Aware xQTL
+    image: jocelyn-wang.jpg
 
-- name: Amirah Collins
-  pronouns: she/her
-  role: Undergraduate
+  - name: Emma Tsai
+    pronouns: she/her
+    github: EmmaPTsai
+    role: Undergraduate (SROP 2025)
+    loc: Louisiana State University
+    project: Suicide and Schizophrenia
+    image: emma-tsai.jpg
 
-- name: Emma Tsai
-  pronouns: she/her
-  github: EmmaPTsai
-  role: Undergraduate (SROP 2025)
-  loc: Louisiana State University
-  image: emma-tsai.jpg
+  - name: Nia Terry
+    pronouns: she/her
+    github: niaterry
+    role: Undergraduate (SROP 2025)
+    loc: Spelman College
+    project: DNAm Epigenetic Clocks (Schizophrenia)
+    image: nia-terry.jpg
 
-- name: Nia Terry
-  pronouns: she/her
-  github: niaterry
-  role: Undergraduate (SROP 2025)
-  loc: Spelman College
-  image: nia-terry.jpg
+  - name: Amirah Collins
+    pronouns: she/her
+    role: Undergraduate (BU 2025)
+    project: Shiny App for Transcriptomics
