@@ -1,48 +1,85 @@
-- name: Sierra Mannion
-  pronouns: she/her
-  github: SierraM24
-  role: Undergraduate
-  image: sierra-mannion.jpeg
+current:
+  - name: Sierra Mannion
+    pronouns: she/her
+    github: SierraM24
+    role: Undergraduate
+    project:
+    image: sierra-mannion.jpeg
 
-- name: Jocelyn Wang
-  pronouns: she/they
-  github: jwang1889
-  bluesky: jwang1889
-  role: Undergraduate
-  image: jocelyn-wang.jpg
+  - name: Jocelyn Wang
+    pronouns: she/they
+    github: jwang1889
+    bluesky: jwang1889
+    role: Undergraduate
+    project:
+    image: jocelyn-wang.jpg
 
-- name: Javier Hernandez
-  pronouns: he/him
-  github: Javih10
-  role: Undergraduate
-  image: javier-hernandez.jpg
+  - name: Javier Hernandez
+    pronouns: he/him
+    github: Javih10
+    role: Undergraduate
+    project:
+    image: javier-hernandez.jpg
 
-- name: Elisa Johnson
-  pronouns: she/her
-  github: elisa-johnson-7061b4282
-  role: Undergraduate
-  image: elisa-johnson.jpeg
+  - name: Elisa Johnson
+    pronouns: she/her
+    github: elisa-johnson-7061b4282
+    role: Undergraduate
+    project:
+    image: elisa-johnson.jpeg
 
-- name: Yiju Choi
-  pronouns: she/her
-  github: yijuchoi
-  role: Undergraduate
-  image: yiju-choi.jpg
+  - name: Yiju Choi
+    pronouns: she/her
+    github: yijuchoi
+    role: Undergraduate
+    project:
+    image: yiju-choi.jpg
 
-- name: Amirah Collins
-  pronouns: she/her
-  role: Undergraduate
+  - name: Amirah Collins
+    pronouns: she/her
+    role: Undergraduate
+    project:
 
-- name: Emma Tsai
-  pronouns: she/her
-  github: EmmaPTsai
-  role: Undergraduate (SROP 2025)
-  loc: Louisiana State University
-  image: emma-tsai.jpg
+  - name: Emma Tsai
+    pronouns: she/her
+    github: EmmaPTsai
+    role: Undergraduate (SROP 2025)
+    loc: Louisiana State University
+    project:
+    image: emma-tsai.jpg
 
-- name: Nia Terry
-  pronouns: she/her
-  github: niaterry
-  role: Undergraduate (SROP 2025)
-  loc: Spelman College
-  image: nia-terry.jpg
+  - name: Nia Terry
+    pronouns: she/her
+    github: niaterry
+    role: Undergraduate (SROP 2025)
+    loc: Spelman College
+    project:
+    image: nia-terry.jpg
+
+alumni:
+  - name: Jordan Carter
+    pronouns: she/her
+    role: Undergraduate (SURP 2024)
+    loc: University of Illinois Urbana-Champaign
+    github: jordancarter
+    bluesky: jordancarter.bsky.social
+    project:
+    image:
+
+  - name: Malik Thompson
+    pronouns: he/him
+    role: Undergraduate (SROP 2024)
+    loc: Hampton University
+    github: malikthompson
+    bluesky: malikthompson.bsky.social
+    project:
+    image:
+
+  - name: Priya Desai
+    pronouns: she/her
+    role: Undergraduate (SURP 2023)
+    loc: University of Maryland, Baltimore County
+    github: priyadesai
+    bluesky: priyadesai.bsky.social
+    project:
+    image:
