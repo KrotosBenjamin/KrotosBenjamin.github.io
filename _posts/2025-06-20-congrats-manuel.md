@@ -4,6 +4,7 @@ is_post: true
 date: 2025-06-20
 title: "Congratulations to Manuel"
 description: "Celebrating Manuel's master's graduation and continued journey with HEART-GeN."
+image: assets/images/myphoto.jpg
 categories: [celebrations]
 tags: [Manuel, graduation, HEART-GeN, data science]
 author: Dr. Benjamin

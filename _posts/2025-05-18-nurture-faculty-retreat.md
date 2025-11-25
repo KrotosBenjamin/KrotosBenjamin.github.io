@@ -4,6 +4,7 @@ is_post: true
 date: 2025-05-18
 title: "Reflections from the NURTURE Faculty Retreat"
 description: "Celebrating connection and inspiration at the NURTURE Faculty Retreat."
+image: assets/images/nurture-group.jpeg
 categories: [events]
 tags: [NURTURE, faculty retreat, NIH FIRST, community]
 author: Dr. Benjamin
