@@ -18,3 +18,27 @@ the very small fraction unique to a specific ancestral population
 can affect how genes turn on or off. We use this human variation
 to find these genes that may play a role in explaining health
 disparities for brain disorders.
+
+<div class="camera-roll">
+  <h2 class="camera-roll__heading">Camera Roll</h2>
+  <div class="camera-roll__strip">
+    {% assign posts_with_images = site.posts | sort: 'date' | reverse %}
+    {% for post in posts_with_images %}
+      {% assign image_src = nil %}
+      {% assign content_html = post.content %}
+      {% assign segments = content_html | split: '<img' %}
+      {% for segment in segments %}
+        {% if image_src == nil and segment contains 'src="' %}
+          {% assign src_part = segment | split: 'src="' | last %}
+          {% assign image_src = src_part | split: '"' | first %}
+        {% endif %}
+      {% endfor %}
+      {% if image_src %}
+        {% assign clean_src = image_src | replace: site.url, '' %}
+        <a class="camera-roll__item" href="{{ post.url | relative_url }}" aria-label="{{ post.title }}">
+          <img src="{{ clean_src | relative_url }}" alt="{{ post.title | escape }}" loading="lazy">
+        </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
