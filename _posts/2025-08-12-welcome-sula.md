@@ -4,16 +4,15 @@ is_post: true
 date: 2025-08-12
 title: "Welcome Sula, Our First Graduate Student"
 description: "Introducing Sula and celebrating their journey into graduate research at HEART-GeN Lab."
-image: assets/images/myphoto.jpg
 categories: [community]
 tags: [welcome, graduate student, Alzheimer's, HEART-GeN]
 author: Dr. Benjamin
 toc: false
 ---
 
-🎉 **Please join us in giving a warm welcome to Sula**, the very first **graduate student** to join the **HEART-GeN Lab**!  
+🎉 **Please join us in giving a warm welcome to Sula**, the very first **graduate student** to join the **HEART-GeN Lab**!
 
-Sula is launching her graduate journey with a bold mission: to uncover the **genetic risk factors underlying Alzheimer’s disease and other dementias**, and help illuminate the biological pathways that drive **neurodegeneration**. 🧠🧬  
+Sula is launching her graduate journey with a bold mission: to uncover the **genetic risk factors underlying Alzheimer’s disease and other dementias**, and help illuminate the biological pathways that drive **neurodegeneration**. 🧠🧬
 
 Before joining HEART-GeN, Sula gained valuable experience working at a **brain bank**, where she studied the visible effects of dementia in postmortem tissue. That experience deeply shaped her passion for understanding the science behind memory loss, aging, and neurobiology.
 

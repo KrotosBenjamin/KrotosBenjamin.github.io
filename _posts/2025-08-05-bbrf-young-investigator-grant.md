@@ -2,9 +2,8 @@
 layout: single
 is_post: true
 date: 2025-08-05
-title: "Dr. Kynon J Benjamin Awarded Prestigious 2025 BBRF Young Investigator Grant"
+title: "Dr. Benjamin Awarded Prestigious 2025 BBRF Young Investigator Grant"
 description: "Celebrating Dr. Benjamin's 2025 Brain & Behavior Research Foundation Young Investigator Grant for advancing schizophrenia genomics."
-image: assets/images/myphoto.jpg
 categories: [awards]
 tags: [BBRF, schizophrenia, neuroscience, psychiatry, genetics, grant]
 author: HEART-GeN Lab

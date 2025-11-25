@@ -2,9 +2,8 @@
 layout: single
 is_post: true
 date: 2025-07-09
-title: "Dr. Kynon J Benjamin Receives 2025 ACNP Travel Award for Emerging Leaders in Neuropsychopharmacology"
+title: "Dr. Benjamin Receives 2025 ACNP Travel Award for Emerging Leaders in Neuropsychopharmacology"
 description: "Recognizing Dr. Benjamin's ACNP Travel Award and leadership in computational psychiatry."
-image: assets/images/myphoto.jpg
 categories: [awards]
 tags: [ACNP, neuroscience, career development, early-career, recognition]
 author: Dr. Benjamin
@@ -12,7 +11,7 @@ toc: false
 excerpt_separator: <!--more-->
 ---
 
-## ✈️  Supporting Scientific Leadership: Dr. Kynon J Benjamin Receives 2025 ACNP Travel Award
+## ✈️  Supporting Scientific Leadership: Dr. Benjamin Receives 2025 ACNP Travel Award
 
 We are proud to share that **Dr. Kynon J Benjamin** has been awarded the
 **2025 Travel Award** by the **American College of Neuropsychopharmacology (ACNP)**

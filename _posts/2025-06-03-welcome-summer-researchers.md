@@ -4,7 +4,6 @@ is_post: true
 date: 2025-06-03
 title: "Welcome to Our Summer Researchers"
 description: "Introducing the HEART-GeN Lab summer research team for 2025."
-image: assets/images/myphoto.jpg
 categories: [community]
 tags: [summer, researchers, SROP, SURP, neuroscience, HEART-GeN]
 author: Dr. Benjamin
@@ -18,7 +17,7 @@ We’re thrilled to welcome a powerhouse group of students diving into cutting-e
 Here’s what our talented summer researchers will be working on:
 
 - 🧬 **Nia** (SROP) investigating **DNA methylation clocks** to uncover associations across two postmortem brain regions, focusing on **schizophrenia** and **genetic ancestry**.
-  
+
 - 🧠 **Emma** (SROP) exploring the relationship between **schizophrenia and suicide** by analyzing three distinct postmortem brain regions — helping us better understand overlapping neurobiological pathways.
 
 - 💻 **Amirah**, a returning bioscientist student, developing a **Shiny App** to visualize and explore **differential gene expression** — a powerful tool for future collaborators.
