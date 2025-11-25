@@ -40,4 +40,4 @@ and contributions -- stay tuned.
 
 **Welcome to the HEART-GeN family!**
 
-![Team Photo](/assets/images/research-staff.png)
+![Team Photo]({{site.url}}/assets/images/research-staff.png)

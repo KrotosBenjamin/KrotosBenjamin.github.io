@@ -24,7 +24,7 @@ heritability**, offering novel insights into how genetic variation influences
 epigenetic signatures. Her work adds critical context to understanding gene
 regulation and its implications for disease risk.
 
-![Alexis Poster](assets/images/ashg-alexis-2025.jpg)
+![Alexis Poster]({{site.url}}/assets/images/ashg-alexis-2025.jpg)
 
 ### 🎤 Career Development Panel: "Starting a Lab, Then vs Now"
 

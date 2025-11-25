@@ -24,6 +24,6 @@ I left feeling more hopeful than ever about the future we’re building together
 
 #NIHFIRST #NURTURE #FacultyRetreat #InclusiveExcellence #AcademicCommunity #MentorshipMatters
 
-![NURTURE Faculty Retreat group photo](/assets/images/posts/2025-05-10-nurture-retreat-1.jpg)
+![NURTURE Faculty Retreat group photo]({{site.url}}/assets/images/posts/2025-05-10-nurture-retreat-1.jpg)
 
-![Candid moments from the retreat](/assets/images/posts/2025-05-10-nurture-retreat-2.jpg)
+![Candid moments from the retreat]({{site.url}}/assets/images/posts/2025-05-10-nurture-retreat-2.jpg)

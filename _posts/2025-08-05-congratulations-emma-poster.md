@@ -20,4 +20,4 @@ It’s inspiring to watch young scientists like Emma take the stage and push our
 
 #Neuroscience #CompBio #DiversityInNeuroscience #STEMVoices #PosterPresentation #WomenInSTEM #NextGenScientists
 
-![Emma presenting her poster](/assets/images/posts/2025-08-05-emma-poster.jpg)
+![Emma presenting her poster]({{site.url}}/assets/images/posts/2025-08-05-emma-poster.jpg)
