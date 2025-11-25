@@ -4,6 +4,7 @@ is_post: true
 date: 2025-09-03
 title: "Farewell to Our Summer Students"
 description: "Thanking our summer members for their time, science, and shared experiences."
+image: assets/images/myphoto.jpg
 categories: [community]
 tags: [summer, gratitude, HEART-GeN]
 author: Dr. Benjamin

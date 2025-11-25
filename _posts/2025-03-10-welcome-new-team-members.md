@@ -4,6 +4,7 @@ is_post: true
 date:   2025-03-10
 title: "A Warm Welcome to Our New Research Team Members!"
 description: A Warm Welcome to Our New Research Team Members at HEART-GeN!
+image: assets/images/research-staff.png
 categories: [announcements, team]
 tags: [research, new members, HEART-GeN, collaboration]
 author: Dr. Benjamin

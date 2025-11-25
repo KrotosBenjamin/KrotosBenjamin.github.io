@@ -4,6 +4,7 @@ is_post: true
 date: 2025-08-12
 title: "Welcome Sula, Our First Graduate Student"
 description: "Introducing Sula and celebrating their journey into graduate research at HEART-GeN Lab."
+image: assets/images/myphoto.jpg
 categories: [community]
 tags: [welcome, graduate student, Alzheimer's, HEART-GeN]
 author: Dr. Benjamin

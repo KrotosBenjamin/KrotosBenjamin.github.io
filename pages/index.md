@@ -38,22 +38,13 @@ disparities for brain disorders.
     </div>
   </div>
   <div class="camera-roll__strip" data-camera-strip>
-    {% assign posts_with_images = site.posts | sort: 'date' | reverse %}
+    {% assign posts_with_images = site.posts | reverse %}
     {% for post in posts_with_images %}
-      {% assign content_html = post.content %}
-      {% assign segments = content_html | split: '<img' %}
-      {% for segment in segments offset:1 %}
-        {% if segment contains 'src="' %}
-          {% assign src_part = segment | split: 'src="' | last %}
-          {% assign image_src = src_part | split: '"' | first %}
-          {% if image_src %}
-            {% assign clean_src = image_src | replace: site.url, '' %}
-            <a class="camera-roll__item" href="{{ post.url | relative_url }}" aria-label="{{ post.title }}">
-              <img src="{{ clean_src | relative_url }}" alt="{{ post.title | escape }}" loading="lazy">
-            </a>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
+      {% if post.image %}
+        <a class="camera-roll__item" href="{{ post.url | relative_url }}">
+          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+        </a>
+      {% endif %}
     {% endfor %}
   </div>
 </div>

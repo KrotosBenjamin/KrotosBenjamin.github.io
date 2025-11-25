@@ -4,6 +4,7 @@ is_post: true
 date: 2025-06-03
 title: "Welcome to Our Summer Researchers"
 description: "Introducing the HEART-GeN Lab summer research team for 2025."
+image: assets/images/myphoto.jpg
 categories: [community]
 tags: [summer, researchers, SROP, SURP, neuroscience, HEART-GeN]
 author: Dr. Benjamin

@@ -3,6 +3,7 @@ layout: single
 is_post: true
 title:  "HEART-GeN Lab is Hiring!"
 description: The HEART-GeN research group, lead by Dr. Kynon Benjamin, is hiring a postdoctoral fellow at Northwestern University. This is in the field of bioinformatics, neuroscience, and machine learning.
+image: assets/images/myphoto.jpg
 date:   2024-09-12 10:00 -0400
 categories: hiring
 toc: false

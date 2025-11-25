@@ -3,6 +3,7 @@ layout: single
 is_post: true
 title: "Exciting News for the HEART-GeN Lab!"
 description: Dr. Benjamin will be starting at Northwestern University.
+image: assets/images/Kynon_Benjamin-Fac_Announcement.png
 date:   2024-07-17 09:00
 categories: updates
 toc: false
