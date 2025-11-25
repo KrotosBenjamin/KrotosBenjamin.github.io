@@ -47,3 +47,10 @@ Center) at a future event.
 We left the session feeling inspired by the conversations, connections, and
 momentum in human genetics — and proud to represent the values of curiosity,
 inclusion, and impact.
+
+### 🎉 PacBio Celebration with Friends
+
+In between sessions, **Dr. Benjamin** joined friends for the PacBio event — a
+great chance to connect, laugh, and celebrate the week together.
+
+![PacBio Event]({{site.url}}/assets/images/pacbio-2025-group.jpg)
