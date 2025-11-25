@@ -44,8 +44,40 @@
   margin-top: 3rem;
 }
 
-.camera-roll__heading {
+.camera-roll__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
   margin-bottom: 1rem;
+}
+
+.camera-roll__heading {
+  margin: 0;
+}
+
+.camera-roll__controls {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.camera-roll__button {
+  border: 1px solid #d1d9e0;
+  background: #fff;
+  color: inherit;
+  padding: 0.45rem 0.75rem;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+}
+
+.camera-roll__button:hover,
+.camera-roll__button:focus-visible {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  border-color: #b8c4cf;
 }
 
 .camera-roll__strip {
