@@ -16,14 +16,12 @@ The **NURTURE Faculty Retreat** offered a rare and meaningful space to pause, co
 
 Being surrounded by such passionate and dedicated researchers reminded me why initiatives like **NIH FIRST** and NURTURE were so vital — they help shape not just better science, but more inclusive and supportive environments in which that science can thrive.
 
-💬 The conversations sparked new ideas.  
-💡 The stories shared deepened our empathy.  
+💬 The conversations sparked new ideas.
+💡 The stories shared deepened our empathy.
 🤝 The connections formed will ripple forward in future collaborations.
 
 I left feeling more hopeful than ever about the future we’re building together.
 
 #NIHFIRST #NURTURE #FacultyRetreat #InclusiveExcellence #AcademicCommunity #MentorshipMatters
 
-![NURTURE Faculty Retreat group photo]({{site.url}}/assets/images/posts/2025-05-10-nurture-retreat-1.jpg)
-
-![Candid moments from the retreat]({{site.url}}/assets/images/posts/2025-05-10-nurture-retreat-2.jpg)
+![NURTURE Faculty Retreat group photo]({{site.url}}/assets/images/nurture-group.jpeg)

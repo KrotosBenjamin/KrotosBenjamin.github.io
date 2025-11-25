@@ -17,8 +17,6 @@ designed for diverse early-career neuroscientists, is sponsored by the
 [APA Minority Fellowship Program](https://www.apa.org/pi/mfp) and the
 International Brain Research Organization (IBRO).
 
-<!--more-->
-
 **SEE-Diversity Program**
 
 Dr. Benjamin will have the opportunity to participate in the fourth annual
@@ -26,5 +24,7 @@ mentoring and career-enhancement program, SEE-Diversity (Scholarships to Enhance
 and Empower Diversity). The SEE-Diversity program aims to foster a supportive
 and inclusive environment for early-career neuroscientists from underrepresented
 backgrounds.
+
+![Group Photo]({{site.url}}/assets/images/seed-diversity-2024.jpeg)
 
 | ![IBRO Awardee]({{site.url}}/assets/images/IBRO-awardee-individual.png) | ![MFP logo]({{site.url}}/assets/images/MFP-logo.png) | ![AFP logo]({{site.url}}/assets/images/APF-logo.png) |

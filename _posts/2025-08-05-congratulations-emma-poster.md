@@ -10,7 +10,7 @@ author: Dr. Benjamin
 toc: false
 ---
 
-🎉 **Congratulations to Emma** on a successful and impactful **poster presentation** this past week!  
+🎉 **Congratulations to Emma** on a successful and impactful **poster presentation** this past week!
 
 Emma showcased her research with clarity, confidence, and curiosity — highlighting important intersections between **neuroscience**, **computational biology**, and **mental health**. Her work reflects not only scientific rigor, but also a deep commitment to expanding the voices and perspectives that shape our field.
 
@@ -20,4 +20,4 @@ It’s inspiring to watch young scientists like Emma take the stage and push our
 
 #Neuroscience #CompBio #DiversityInNeuroscience #STEMVoices #PosterPresentation #WomenInSTEM #NextGenScientists
 
-![Emma presenting her poster]({{site.url}}/assets/images/posts/2025-08-05-emma-poster.jpg)
+![Emma presenting her poster]({{site.url}}/assets/images/emma-srop-team.jpeg)
