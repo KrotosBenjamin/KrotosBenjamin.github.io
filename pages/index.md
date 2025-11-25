@@ -24,31 +24,36 @@ disparities for brain disorders.
     <h2 class="camera-roll__heading">Lab Activities</h2>
     <div class="camera-roll__controls" aria-label="Camera roll navigation">
       <button type="button" class="camera-roll__button" data-camera-prev aria-label="Previous photo">
-        &#8592;
+        <svg aria-hidden="true" viewBox="0 0 24 24" focusable="false" class="camera-roll__icon">
+          <path d="M15.75 19.5 8.25 12l7.5-7.5" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
+        <span class="camera-roll__label">Prev</span>
       </button>
       <button type="button" class="camera-roll__button" data-camera-next aria-label="Next photo">
-        &#8594;
+        <span class="camera-roll__label">Next</span>
+        <svg aria-hidden="true" viewBox="0 0 24 24" focusable="false" class="camera-roll__icon">
+          <path d="m8.25 4.5 7.5 7.5-7.5 7.5" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
       </button>
     </div>
   </div>
   <div class="camera-roll__strip" data-camera-strip>
     {% assign posts_with_images = site.posts | sort: 'date' | reverse %}
     {% for post in posts_with_images %}
-      {% assign image_src = nil %}
       {% assign content_html = post.content %}
       {% assign segments = content_html | split: '<img' %}
-      {% for segment in segments %}
-        {% if image_src == nil and segment contains 'src="' %}
+      {% for segment in segments offset:1 %}
+        {% if segment contains 'src="' %}
           {% assign src_part = segment | split: 'src="' | last %}
           {% assign image_src = src_part | split: '"' | first %}
+          {% if image_src %}
+            {% assign clean_src = image_src | replace: site.url, '' %}
+            <a class="camera-roll__item" href="{{ post.url | relative_url }}" aria-label="{{ post.title }}">
+              <img src="{{ clean_src | relative_url }}" alt="{{ post.title | escape }}" loading="lazy">
+            </a>
+          {% endif %}
         {% endif %}
       {% endfor %}
-      {% if image_src %}
-        {% assign clean_src = image_src | replace: site.url, '' %}
-        <a class="camera-roll__item" href="{{ post.url | relative_url }}" aria-label="{{ post.title }}">
-          <img src="{{ clean_src | relative_url }}" alt="{{ post.title | escape }}" loading="lazy">
-        </a>
-      {% endif %}
     {% endfor %}
   </div>
 </div>
