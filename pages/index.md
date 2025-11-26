@@ -60,6 +60,9 @@ disparities for brain disorders.
     if (!strip || !prev || !next || items.length === 0) return;
 
     let activeIndex = 0;
+    const autoAdvanceDelay = 30000;
+    let autoAdvanceTimer = null;
+    let isPaused = false;
 
     const updateIndexFromScroll = () => {
       const { scrollLeft } = strip;
@@ -87,8 +90,58 @@ disparities for brain disorders.
       });
     };
 
-    prev.addEventListener('click', () => scrollToIndex(activeIndex - 1));
-    next.addEventListener('click', () => scrollToIndex(activeIndex + 1));
+    const stopAutoAdvance = () => {
+      if (autoAdvanceTimer) {
+        clearInterval(autoAdvanceTimer);
+        autoAdvanceTimer = null;
+      }
+    };
+
+    const startAutoAdvance = () => {
+      if (isPaused || autoAdvanceTimer) return;
+
+      autoAdvanceTimer = setInterval(() => {
+        scrollToIndex(activeIndex + 1);
+      }, autoAdvanceDelay);
+    };
+
+    const resetAutoAdvance = () => {
+      stopAutoAdvance();
+      startAutoAdvance();
+    };
+
+    const pauseAutoAdvance = () => {
+      isPaused = true;
+      stopAutoAdvance();
+    };
+
+    const resumeAutoAdvance = () => {
+      isPaused = false;
+      startAutoAdvance();
+    };
+
+    prev.addEventListener('click', () => {
+      scrollToIndex(activeIndex - 1);
+      resetAutoAdvance();
+    });
+
+    next.addEventListener('click', () => {
+      scrollToIndex(activeIndex + 1);
+      resetAutoAdvance();
+    });
+
+    const handleUserInteraction = () => {
+      resetAutoAdvance();
+    };
+
+    strip.addEventListener('pointerdown', handleUserInteraction);
+    strip.addEventListener('keydown', handleUserInteraction);
     strip.addEventListener('scroll', updateIndexFromScroll);
+    roll.addEventListener('mouseenter', pauseAutoAdvance);
+    roll.addEventListener('mouseleave', resumeAutoAdvance);
+    roll.addEventListener('focusin', pauseAutoAdvance);
+    roll.addEventListener('focusout', resumeAutoAdvance);
+
+    startAutoAdvance();
   });
 </script>
