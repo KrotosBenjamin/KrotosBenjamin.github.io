@@ -6,11 +6,9 @@ layout: home
 title: ""
 description: The HEART-GeN lab's, lead by Dr. Kynon J Benjamin, primary goal is to improving neurotherapeutics for underrepresented communities. This page gives background for Dr. Benjamin.
 author_profile: true
-show_excerpts: false
+show_excerpts: true
 entries_layout: list
-paginate: false
 permalink: /
-hide_content: true
 ---
 
 At the <ins>H</ins>ealth <ins>E</ins>quity for <ins>A</ins>dvancing
