@@ -38,13 +38,11 @@ disparities for brain disorders.
     </div>
   </div>
   <div class="camera-roll__strip" data-camera-strip>
-    {% assign posts_with_images = site.posts | reverse %}
+    {% assign posts_with_images = site.posts | where: 'image' | shuffle %}
     {% for post in posts_with_images %}
-      {% if post.image %}
-        <a class="camera-roll__item" href="{{ post.url | relative_url }}">
-          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
-        </a>
-      {% endif %}
+      <a class="camera-roll__item" href="{{ post.url | relative_url }}">
+        <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+      </a>
     {% endfor %}
   </div>
 </div>
