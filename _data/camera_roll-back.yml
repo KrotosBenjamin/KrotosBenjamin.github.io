@@ -1,5 +1,7 @@
 images:
-  - /assets/images/sfn_blackinneuro_postdoc.png
+  - src: /assets/images/sfn_blackinneuro_postdoc.png
+    caption: SfN BlackInNeuro 2023
+    link: /conferences/2023/12/03/sfn_2023.html
   - /assets/images/ASHG2023_poster.jpg
   - /assets/images/c-write23.jpg
   - /assets/images/sex_diff_overview.png
@@ -24,4 +26,6 @@ images:
   - /assets/images/sierra-abrcms.jpg
   - /assets/images/judging-abrcms-2025.jpeg
   - /assets/images/wicked-abrcms.jpg
-  - /assets/images/abrcms-2025-team-v2.jpg
+  - src: /assets/images/abrcms-2025-team-v2.jpg
+    caption: NA
+    link: /conferences/2025/11/24/abrcms.html
