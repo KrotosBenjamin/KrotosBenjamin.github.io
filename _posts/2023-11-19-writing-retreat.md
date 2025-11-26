@@ -3,7 +3,7 @@ layout: single
 is_post: true
 title:  "Dr. Benjamin attended the CSHL Scientific Writing Retreat, 2023"
 description: Dr. Benjamin learned a lot about writing at the Cold Spring Harbor Laboratory Scientific Writing Retreat.
-image: assets/images/c-write23.jpg
+image: /assets/images/c-write23.jpg
 date:   2023-12-03 11:30 -0400
 categories: workshops
 toc: false

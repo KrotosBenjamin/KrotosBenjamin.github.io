@@ -4,7 +4,7 @@ is_post: true
 date: 2025-08-05
 title: "Celebrating Emma's Poster Presentation"
 description: "A heartfelt congratulations to Emma for presenting her poster and advancing our science."
-image: assets/images/emma-srop-team.jpeg
+image: /assets/images/emma-srop-team.jpeg
 categories: [celebrations]
 tags: [Emma, poster, neuroscience, compbio, diversity]
 author: Dr. Benjamin

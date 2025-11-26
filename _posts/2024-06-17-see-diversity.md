@@ -3,7 +3,7 @@ layout: single
 is_post: true
 title: "Congratulations to Dr. Benjamin on Receiving IBRO Fellowship"
 description: Dr. Benjamin will be attending the SEE-Diversity Program with an IBRO Fellowship.
-image: assets/images/seed-diversity-2024.jpeg
+image: /assets/images/seed-diversity-2024.jpeg
 date:   2024-06-17 09:00 -0400
 categories: workshops
 toc: false

@@ -3,7 +3,7 @@ layout: single
 is_post: true
 title:  "Latest work! Sex differences in schizophrenia"
 description: Dr. Benjamin latest work examining sex differences in schizophrenia across three brain regions -- Nature Communications.
-image: assets/images/sex_diff_overview.png
+image: /assets/images/sex_diff_overview.png
 date:   2024-05-13 08:30 -0400
 categories: general
 toc: false

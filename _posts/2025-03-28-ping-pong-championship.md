@@ -4,7 +4,7 @@ is_post: true
 date: 2025-03-28
 title: "Ping Pong Showdown & March Madness Fun"
 description: "Celebrating our ping pong event and honoring our March Madness champions."
-image: assets/images/pingpong-2025-team.jpg
+image: /assets/images/pingpong-2025-team.jpg
 categories: [events, team]
 tags: [pingpong, MarchMadness, lablife]
 author: HEART-GeN Lab

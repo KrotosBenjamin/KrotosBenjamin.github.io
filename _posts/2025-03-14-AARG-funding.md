@@ -4,7 +4,7 @@ is_post: true
 date: 2025-03-14
 title: "Major Funding Boost for Alzheimer's Research at HEART-GeN!"
 description: "HEART-GeN receives a prestigious Alzheimer's Association grant to study health disparities in Alzheimer's disease."
-image: assets/images/alz-stacked-rgb.png
+image: /assets/images/alz-stacked-rgb.png
 categories: [announcements, research]
 tags: [Alzheimer's, research, health disparities, genetics, aging, HEART-GeN]
 author: Dr. Benjamin

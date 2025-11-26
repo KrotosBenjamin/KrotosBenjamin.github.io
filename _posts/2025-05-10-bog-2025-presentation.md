@@ -4,7 +4,7 @@ is_post: true
 date: 2025-05-10
 title: "Sharing Science at BoG 2025"
 description: "Highlights from presenting our poster at BoG 2025."
-image: assets/images/benjamin-bog-2025.jpeg
+image: /assets/images/benjamin-bog-2025.jpeg
 categories: [events, conferences]
 tags: [BoG2025, genetics, neuroscience, compbio]
 author: Dr. Benjamin
