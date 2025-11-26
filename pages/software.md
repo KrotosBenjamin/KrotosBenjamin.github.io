@@ -7,13 +7,30 @@ toc: true
 author_profile: true
 ---
 
+## localQTL
+
+localQTL is a pure-Python library for local-ancestry-aware xQTL mapping that
+lets researchers run end-to-end analyses on large cohorts without any R/rpy2
+dependencies. It preserves the familiar tensorQTL data model with GPU-first
+execution paths, flexible genotype loaders, and streaming outputs for
+large-scale workflows, while adding ancestry-aware use cases.
+
+PyPI: <https://github.com/heart-gen/localQTL>
+
+Documentation: <https://localqtl.readthedocs.io/>
+
 ## GENBoostGPU: Genomic Elastic Net Boosting on GPU
 
-[GENBoostGPU](https://github.com/heart-gen/GENBoostGPU) provides a scalable framework for running elastic net regression with boosting across thousands of CpG sites or regions, leveraging GPU acceleration.
+[GENBoostGPU](https://github.com/heart-gen/GENBoostGPU) provides a scalable
+framework for running elastic net regression with boosting across thousands of
+CpG sites or regions, leveraging GPU acceleration.
 
-It supports SNP preprocessing, cis-window filtering, LD clumping, missing data imputation, and phenotype integration — all optimized for large-scale epigenomics.
+It supports SNP preprocessing, cis-window filtering, LD clumping, missing data
+imputation, and phenotype integration — all optimized for large-scale epigenomics.
 
 PyPI: <https://pypi.org/project/genboostgpu/>
+
+Documentation: <https://genboostgpu.readthedocs.io/>
 
 ## RFMix-reader: Accelerated reading and processing for local ancestry studies
 
