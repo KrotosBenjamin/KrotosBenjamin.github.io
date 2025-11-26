@@ -1,27 +1,104 @@
 images:
-  - /assets/images/sfn_blackinneuro_postdoc.png
-  - /assets/images/ASHG2023_poster.jpg
-  - /assets/images/c-write23.jpg
-  - /assets/images/sex_diff_overview.png
-  - /assets/images/aanri_overview_v3.png
-  - /assets/images/seed-diversity-2024.jpeg
-  - /assets/images/Kynon_Benjamin-Fac_Announcement.png
-  - /assets/images/abrcms-2024.jpg
-  - /assets/images/research-staff.png
-  - /assets/images/pingpong-2025-team.jpg
-  - /assets/images/march-madness-winners-2025.jpg
-  - /assets/images/benjamin-bog-2025.jpeg
-  - /assets/images/nurture-group.jpeg
-  - /assets/images/emma-srop-presentation.jpeg
-  - /assets/images/ashg-alexis-2025.jpg
-  - /assets/images/pacbio-2025-group.jpg
-  - /assets/images/abrcms-2025-team.jpg
-  - /assets/images/emma-abrcms.jpg
-  - /assets/images/yiju-abrcms.jpg
-  - /assets/images/elisa-abrcms.jpg
-  - /assets/images/nia-abrcms.jpg
-  - /assets/images/javier-abcrms.jpg
-  - /assets/images/sierra-abrcms.jpg
-  - /assets/images/judging-abrcms-2025.jpeg
-  - /assets/images/wicked-abrcms.jpg
-  - /assets/images/abrcms-2025-team-v2.jpg
+  - src: /assets/images/sfn_blackinneuro_postdoc.png
+    caption: "SfN BlackInNeuro 2023"
+    link: /conferences/2023/12/03/sfn_2023.html
+
+  - src: /assets/images/ASHG2023_poster.jpg
+    caption: "Poster Session - ASHG 2023"
+    link: /conferences/2023/12/03/ashg_2023.html
+
+  - src: /assets/images/c-write23.jpg
+    caption: "CSHL Scientific Writing Retreat"
+    link: /workshops/2023/12/03/writing-retreat.html
+
+  - src: /assets/images/sex_diff_overview.png
+    caption: "Sex differences in schizophrenia publication"
+    link: /general/2024/05/13/sex-diff-sz.html
+
+  - src: /assets/images/aanri_overview_v3.png
+    caption: "Genetic ancestry in the brain publication"
+    link: /general/2024/05/24/npr-genetic-ancestry.html
+
+  - src: /assets/images/seed-diversity-2024.jpeg
+    caption: "SEE-Diversity program group picture"
+    link: /workshops/2024/06/17/see-diversity.html
+
+  - src: /assets/images/Kynon_Benjamin-Fac_Announcement.png
+    caption: "Dr. Benjamin joins Northwestern Faculty"
+    link: /updates/2024/07/17/new-beginnings.html
+
+  - src: /assets/images/abrcms-2024.jpg
+    caption: "HEART-GeN at ABRCMS 2024"
+    link: /award/2024/09/04/abrcms.html
+
+  - src: /assets/images/research-staff.png
+    caption: "HEART-GeN Lab Research Staff"
+    link: /announcements/team/2025/03/10/welcome-new-team-members.html
+
+  - src: /assets/images/pingpong-2025-team.jpg
+    caption: "HEART-GeN Ping-Pong Event"
+    link: /events/team/2025/03/28/ping-pong-championship.html
+
+  - src: /assets/images/march-madness-winners-2025.jpg
+    caption: "HEART-GeN March Madness Winners"
+    link: /events/team/2025/03/28/ping-pong-championship.html
+
+  - src: /assets/images/benjamin-bog-2025.jpeg
+    caption: "Poster Session - Biology of Genomes 2025"
+    link: /conferences/2025/05/10/bog-2025-presentation.html
+
+  - src: /assets/images/nurture-group.jpeg
+    caption: "NURTURE Faculty"
+    link: /events/2025/05/18/nurture-faculty-retreat.html
+
+  - src: /assets/images/emma-srop-presentation.jpeg
+    caption: "Poster Presentation - Emma (SROP 2025)"
+    link: /celebrations/2025/08/05/congratulations-emma-poster.html
+
+  - src: /assets/images/ashg-alexis-2025.jpg
+    caption: "Poster Session - Alexis at ASHG 2025"
+    link: /conferences/2025/10/18/ashg-2025-highlights.html
+
+  - src: /assets/images/pacbio-2025-group.jpg
+    caption: "Dr. Benjamin and friends at PacBio 2025"
+    link: /conferences/2025/10/18/ashg-2025-highlights.html
+
+  - src: /assets/images/abrcms-2025-team.jpg
+    caption: "HEART-GeN Lab at ABRCMS 2025"
+    link: /conferences/2025/11/24/abrcms.html
+
+  - src: /assets/images/emma-abrcms.jpg
+    caption: "Emma Poster Presentation at ABRCMS 2025"
+    link: /conferences/2025/11/24/abrcms.html
+
+  - src: /assets/images/yiju-abrcms.jpg
+    caption: "Yiju Oral Presentation at ABRCMS 2025"
+    link: /conferences/2025/11/24/abrcms.html
+
+  - src: /assets/images/elisa-abrcms.jpg
+    caption: "Elisa Poster Presenation at ABRCMS 2025"
+    link: /conferences/2025/11/24/abrcms.html
+
+  - src: /assets/images/nia-abrcms.jpg
+    caption: "Nia Poster Presentation at ABRCMS 2025"
+    link: /conferences/2025/11/24/abrcms.html
+
+  - src: /assets/images/javier-abcrms.jpg
+    caption: "Javier Poster Presentation at ABRCMS 2025"
+    link: /conferences/2025/11/24/abrcms.html
+
+  - src: /assets/images/sierra-abrcms.jpg
+    caption: "Sierra Poster Presentation at ABRCMS 2025"
+    link: /conferences/2025/11/24/abrcms.html
+
+  - src: /assets/images/judging-abrcms-2025.jpeg
+    caption: "Dr. Benjamin with CompBio Judges"
+    link: /conferences/2025/11/24/abrcms.html
+
+  - src: /assets/images/wicked-abrcms.jpg
+    caption: "HEART-GeN Lab and Wicked For Good"
+    link: /conferences/2025/11/24/abrcms.html
+
+  - src: /assets/images/abrcms-2025-team-v2.jpg
+    caption: "HEART-GeN Lab Undergrads at ABRCMS 2025"
+    link: /conferences/2025/11/24/abrcms.html
