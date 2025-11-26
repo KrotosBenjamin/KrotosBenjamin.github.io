@@ -4,7 +4,9 @@ is_post: true
 date: 2025-10-18
 title: "Major Presence at ASHG 2025: Poster Presentation & Career Panel"
 description: "Recapping our poster presentation and career development panel contributions at ASHG 2025."
-image: /assets/images/ashg-alexis-2025.jpg
+image:
+  - /assets/images/ashg-alexis-2025.jpg
+  - /assets/images/pacbio-2025-group.jpg
 categories: [conferences]
 tags: [ASHG2025, genetics, epigenetics, career development, research impact]
 author: HEART-GeN Lab

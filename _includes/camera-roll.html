@@ -4,12 +4,22 @@
   </div>
 
   <div class="camera-roll__strip" data-camera-strip>
-    {% assign posts_with_images = site.posts | where_exp: "post", "post.image" %}
-    {% for post in posts_with_images %}
-      <a class="camera-roll__item" href="{{ post.url | relative_url }}">
-        <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}">
-      </a>
-    {% endfor %}
+      {% assign posts_with_images = site.posts | where_exp: "post", "post.image" %}
+
+      {% for post in posts_with_images %}
+        {% if post.image %}
+          {% if post.image | first %}
+              {% assign images = post.image %}
+          {% else %}
+              {% assign images = post.image | split: "," %}
+          {% endif %}
+          {% for img in images %}
+            <a class="camera-roll__item" href="{{ post.url | relative_url }}">
+                <img src="{{ img | strip | relative_url }}" alt="{{ post.title | escape }}">
+            </a>
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
   </div>
 </div>
 
