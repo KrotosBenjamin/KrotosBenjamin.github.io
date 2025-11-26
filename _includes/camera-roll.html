@@ -79,32 +79,34 @@ document.addEventListener("DOMContentLoaded", () => {
   const container = document.querySelector("[data-fade-container]");
   if (!container) return;
 
-  const slides = Array.from(container.querySelectorAll(".camera-roll__fade-item"));
+  let slides = Array.from(container.querySelectorAll(".camera-roll__fade-item"));
   if (slides.length === 0) return;
 
-  let index = 0;
+  /* --- RANDOMIZE ORDER OF IMAGES --- */
+  slides.sort(() => Math.random() - 0.5);   // shuffle array
+  slides.forEach(node => container.appendChild(node)); // update DOM order
+
+  /* --- RANDOM START INDEX --- */
+  let index = Math.floor(Math.random() * slides.length);
+
   let autoTimer = null;
-  let isVisible = true;
   const delay = 5000; // 5 seconds
 
-  /* --- Initialize first slide --- */
-  slides[0].classList.add("active");
+  /* --- Initialize selected random slide --- */
+  slides[index].classList.add("active");
 
   /* --- Touch swipe handlers --- */
   let startX = 0;
-  let endX = 0;
 
   const handleTouchStart = e => {
     startX = e.changedTouches[0].screenX;
   };
 
   const handleTouchEnd = e => {
-    endX = e.changedTouches[0].screenX;
-    const delta = endX - startX;
+    const delta = e.changedTouches[0].screenX - startX;
 
     if (Math.abs(delta) > 40) {
-      // Swipe left = next, swipe right = prev
-      if (delta < 0) nextSlide();
+      if (delta < 0) nextRandomSlide();
       else prevSlide();
     }
   };
@@ -112,20 +114,24 @@ document.addEventListener("DOMContentLoaded", () => {
   container.addEventListener("touchstart", handleTouchStart, { passive: true });
   container.addEventListener("touchend", handleTouchEnd, { passive: true });
 
-  /* --- Slide Change Logic --- */
+  /* --- Show slide by index --- */
   const showSlide = newIndex => {
     slides[index].classList.remove("active");
     index = (newIndex + slides.length) % slides.length;
     slides[index].classList.add("active");
   };
 
-  const nextSlide = () => showSlide(index + 1);
+  /* --- Random forwarding --- */
+  const nextRandomSlide = () =>
+    showSlide(Math.floor(Math.random() * slides.length));
+
+  /* --- Keep ability to swipe backward logically --- */
   const prevSlide = () => showSlide(index - 1);
 
-  /* --- Auto-play --- */
+  /* --- Auto-play (random) --- */
   const startAuto = () => {
     if (autoTimer) return;
-    autoTimer = setInterval(nextSlide, delay);
+    autoTimer = setInterval(nextRandomSlide, delay);
   };
 
   const stopAuto = () => {
@@ -133,11 +139,10 @@ document.addEventListener("DOMContentLoaded", () => {
     autoTimer = null;
   };
 
-  /* --- IntersectionObserver: pause when not visible --- */
+  /* --- Pause when off screen --- */
   const observer = new IntersectionObserver(entries => {
     entries.forEach(entry => {
-      isVisible = entry.isIntersecting;
-      if (isVisible) startAuto();
+      if (entry.isIntersecting) startAuto();
       else stopAuto();
     });
   }, { threshold: 0.2 });
