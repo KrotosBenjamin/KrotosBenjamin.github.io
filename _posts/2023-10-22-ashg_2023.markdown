@@ -3,7 +3,7 @@ layout: single
 is_post: true
 title:  "HEART-GeN Lab at ASHG 2023"
 description: Dr. Benjamin will be at ASHG 2023 in Washington, DC.
-image: assets/images/ASHG2023_poster.jpg
+image: /assets/images/ASHG2023_poster.jpg
 date:   2023-12-03 12:38 -0400
 categories: conferences
 toc: false
