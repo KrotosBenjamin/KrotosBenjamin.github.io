@@ -1,0 +1,109 @@
+<div class="camera-roll" data-camera-roll>
+  <div class="camera-roll__header">
+    <h2 class="camera-roll__heading">Lab Activities</h2>
+  </div>
+
+  <div class="camera-roll__strip" data-camera-strip>
+    {% assign posts_with_images = site.posts | where_exp: "post", "post.image" %}
+    {% for post in posts_with_images %}
+      <a class="camera-roll__item" href="{{ post.url | relative_url }}">
+        <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}">
+      </a>
+    {% endfor %}
+  </div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const roll = document.querySelector("[data-camera-roll]");
+  if (!roll) return;
+
+  const strip = roll.querySelector("[data-camera-strip]");
+  const items = Array.from(strip.querySelectorAll(".camera-roll__item"));
+  if (items.length === 0) return;
+
+  /* -----------------------------------------------------------
+     DUPLICATE ITEMS FOR INFINITE LOOPING
+     ----------------------------------------------------------- */
+  // Duplicate each item once to create a seamless loop
+  items.forEach(item => {
+    const clone = item.cloneNode(true);
+    clone.classList.add("clone");
+    strip.appendChild(clone);
+  });
+
+  const allItems = Array.from(strip.querySelectorAll(".camera-roll__item"));
+  let activeIndex = 0;
+
+  /* -----------------------------------------------------------
+     WAIT UNTIL ALL IMAGES HAVE LOADED
+     ----------------------------------------------------------- */
+  const loadImages = allItems.map(item => {
+    const img = item.querySelector("img");
+    return img.complete
+      ? Promise.resolve()
+      : new Promise(res => img.onload = res);
+  });
+
+  Promise.all(loadImages).then(() => {
+    // Precompute left offsets after images load
+    const getOffset = (index) => allItems[index].offsetLeft;
+
+    /* -----------------------------------------------------------
+       AUTO-ADVANCE LOGIC (5 SECONDS)
+       ----------------------------------------------------------- */
+    const delay = 5000;  // 5 seconds
+    let interval = null;
+    let isVisible = true;
+
+    const goNext = () => {
+      activeIndex = (activeIndex + 1) % allItems.length;
+
+      strip.scrollTo({
+        left: getOffset(activeIndex),
+        behavior: "smooth"
+      });
+
+      /*
+        Optional: If using clones for an infinite scroll,
+        after reaching the midpoint, reset instantly.
+      */
+      if (activeIndex === items.length) {
+        // Jump back to start clone-free but visually identical
+        setTimeout(() => {
+          strip.scrollTo({ left: 0, behavior: "instant" });
+          activeIndex = 0;
+        }, 350); // allow smooth scroll to finish
+      }
+    };
+
+    /* -----------------------------------------------------------
+       VISIBILITY-AWARE AUTOPLAY USING INTERSECTION OBSERVER
+       ----------------------------------------------------------- */
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach(entry => {
+          isVisible = entry.isIntersecting;
+
+          if (isVisible) {
+            // Resume autoplay
+            if (!interval) {
+              interval = setInterval(goNext, delay);
+            }
+          } else {
+            // Pause autoplay
+            clearInterval(interval);
+            interval = null;
+          }
+        });
+      },
+      { threshold: 0.25 } // carousel must be 25% visible
+    );
+
+    observer.observe(roll);
+
+    // Initial autoplay
+    interval = setInterval(goNext, delay);
+  });
+});
+</script>
