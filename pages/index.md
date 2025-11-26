@@ -20,3 +20,10 @@ to find these genes that may play a role in explaining health
 disparities for brain disorders.
 
 {% include camera-roll.html %}
+
+## Latest Updates
+<div class="archive__latest">
+  {% for post in site.posts limit: 6 %}
+    {% include archive-single.html %}
+  {% endfor %}
+</div>

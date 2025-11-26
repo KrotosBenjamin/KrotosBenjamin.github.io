@@ -3,108 +3,146 @@
     <h2 class="camera-roll__heading">Lab Activities</h2>
   </div>
 
-  <div class="camera-roll__strip" data-camera-strip>
-      {% assign roll_images = site.data.camera_roll.images %}
-
-      {% for img in roll_images %}
-        <a class="camera-roll__item">
-            <img src="{{ img | relative_url }}" alt="">
-        </a>
-      {% endfor %}
+  <div class="camera-roll__fade-container" data-fade-container>
+    {% assign roll_images = site.data.camera_roll.images %}
+    {% for item in roll_images %}
+      <a class="camera-roll__fade-item"
+         href="{{ item.link | relative_url }}"
+         data-index="{{ forloop.index0 }}">
+        <img
+          src="{{ item.src | relative_url }}"
+          alt="{{ item.caption | escape }}"
+          loading="lazy"
+        >
+        <div class="camera-roll__caption">{{ item.caption }}</div>
+      </a>
+    {% endfor %}
   </div>
 </div>
 
+<style>
+/* Fade container */
+.camera-roll__fade-container {
+  position: relative;
+  width: 100%;
+  height: 240px;  /* Adjust as needed */
+  overflow: hidden;
+}
+
+/* Each slide */
+.camera-roll__fade-item {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 1.2s ease-in-out;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.camera-roll__fade-item.active {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.camera-roll__fade-item img {
+  width: auto;
+  max-width: 100%;
+  max-height: 180px;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.camera-roll__caption {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  text-align: center;
+  opacity: 0.9;
+}
+
+/* Touch swipe region */
+.camera-roll__fade-container {
+  touch-action: pan-y;
+}
+
+/* Responsive */
+@media (max-width: 500px) {
+  .camera-roll__fade-container { height: 200px; }
+  .camera-roll__fade-item img { max-height: 150px; }
+}
+</style>
+
 <script>
 document.addEventListener("DOMContentLoaded", () => {
-  const roll = document.querySelector("[data-camera-roll]");
-  if (!roll) return;
+  const container = document.querySelector("[data-fade-container]");
+  if (!container) return;
 
-  const strip = roll.querySelector("[data-camera-strip]");
-  const items = Array.from(strip.querySelectorAll(".camera-roll__item"));
-  if (items.length === 0) return;
+  const slides = Array.from(container.querySelectorAll(".camera-roll__fade-item"));
+  if (slides.length === 0) return;
 
-  /* -----------------------------------------------------------
-     DUPLICATE ITEMS FOR INFINITE LOOPING
-     ----------------------------------------------------------- */
-  // Duplicate each item once to create a seamless loop
-  items.forEach(item => {
-    const clone = item.cloneNode(true);
-    clone.classList.add("clone");
-    strip.appendChild(clone);
-  });
+  let index = 0;
+  let autoTimer = null;
+  let isVisible = true;
+  const delay = 5000; // 5 seconds
 
-  const allItems = Array.from(strip.querySelectorAll(".camera-roll__item"));
-  let activeIndex = 0;
+  /* --- Initialize first slide --- */
+  slides[0].classList.add("active");
 
-  /* -----------------------------------------------------------
-     WAIT UNTIL ALL IMAGES HAVE LOADED
-     ----------------------------------------------------------- */
-  const loadImages = allItems.map(item => {
-    const img = item.querySelector("img");
-    return img.complete
-      ? Promise.resolve()
-      : new Promise(res => img.onload = res);
-  });
+  /* --- Touch swipe handlers --- */
+  let startX = 0;
+  let endX = 0;
 
-  Promise.all(loadImages).then(() => {
-    // Precompute left offsets after images load
-    const getOffset = (index) => allItems[index].offsetLeft;
+  const handleTouchStart = e => {
+    startX = e.changedTouches[0].screenX;
+  };
 
-    /* -----------------------------------------------------------
-       AUTO-ADVANCE LOGIC (5 SECONDS)
-       ----------------------------------------------------------- */
-    const delay = 5000;  // 5 seconds
-    let interval = null;
-    let isVisible = true;
+  const handleTouchEnd = e => {
+    endX = e.changedTouches[0].screenX;
+    const delta = endX - startX;
 
-    const goNext = () => {
-      activeIndex = (activeIndex + 1) % allItems.length;
+    if (Math.abs(delta) > 40) {
+      // Swipe left = next, swipe right = prev
+      if (delta < 0) nextSlide();
+      else prevSlide();
+    }
+  };
 
-      strip.scrollTo({
-        left: getOffset(activeIndex),
-        behavior: "smooth"
-      });
+  container.addEventListener("touchstart", handleTouchStart, { passive: true });
+  container.addEventListener("touchend", handleTouchEnd, { passive: true });
 
-      /*
-        Optional: If using clones for an infinite scroll,
-        after reaching the midpoint, reset instantly.
-      */
-      if (activeIndex === items.length) {
-        // Jump back to start clone-free but visually identical
-        setTimeout(() => {
-          strip.scrollTo({ left: 0, behavior: "instant" });
-          activeIndex = 0;
-        }, 350); // allow smooth scroll to finish
-      }
-    };
+  /* --- Slide Change Logic --- */
+  const showSlide = newIndex => {
+    slides[index].classList.remove("active");
+    index = (newIndex + slides.length) % slides.length;
+    slides[index].classList.add("active");
+  };
 
-    /* -----------------------------------------------------------
-       VISIBILITY-AWARE AUTOPLAY USING INTERSECTION OBSERVER
-       ----------------------------------------------------------- */
-    const observer = new IntersectionObserver(
-      (entries) => {
-        entries.forEach(entry => {
-          isVisible = entry.isIntersecting;
+  const nextSlide = () => showSlide(index + 1);
+  const prevSlide = () => showSlide(index - 1);
 
-          if (isVisible) {
-            // Resume autoplay
-            if (!interval) {
-              interval = setInterval(goNext, delay);
-            }
-          } else {
-            // Pause autoplay
-            clearInterval(interval);
-            interval = null;
-          }
-        });
-      },
-      { threshold: 0.25 } // carousel must be 25% visible
-    );
+  /* --- Auto-play --- */
+  const startAuto = () => {
+    if (autoTimer) return;
+    autoTimer = setInterval(nextSlide, delay);
+  };
 
-    observer.observe(roll);
+  const stopAuto = () => {
+    clearInterval(autoTimer);
+    autoTimer = null;
+  };
 
-    // Initial autoplay
-    interval = setInterval(goNext, delay);
-  });
+  /* --- IntersectionObserver: pause when not visible --- */
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      isVisible = entry.isIntersecting;
+      if (isVisible) startAuto();
+      else stopAuto();
+    });
+  }, { threshold: 0.2 });
+
+  observer.observe(container);
+  startAuto();
 });
 </script>
