@@ -81,26 +81,24 @@ Our lab has several types of recurring meetings.
 ### Team Meetings
 
 This is a weekly team meeting to discuss research going on in the lab.
-Every team member is expected to attend. During these meetings, every
-scientific team member will prepare a three-slide outline: (1) previous
-work, (2) current work, (3) next steps. The first slide will give an
-overview of the progress the team member has made in the previous week.
-The second slide will discuss what the team member is planning on doing
-in the current week. The last slide will discuss future plans and any
-problems they have encountered.
+Every team member is expected to attend. We alternate between Journal
+Club and Research Updates. These meetings will be scheduled at the beginning
+of each quarter to maximize in-person attendance of all team members. Food
+will be provided (funding allowing) during this meeting. Expected time is one
+hour, not to exceed 75 minutes. A hybrid option will be available for all
+team meetings automatically, and team lab meetings are hybrid by default.
+
+During Research Updates meetings, every scientific team member should be
+prepared to give an update unless otherwise indicated. For timing, a
+**three-slide outline is recommended**: (1) previous work, (2) current work,
+(3) next steps. The first slide will give an overview of the progress the
+team member has made in the previous week. The second slide will discuss what
+the team member is planning on doing in the current week. The last slide will
+discuss future plans and any problems they have encountered.
 
 Administrative staff may give updates on any administrative tasks or
 goals that the lab should be made aware of, including outreach efforts
 and any budgetary concerns.
-
-These meetings will be scheduled at the beginning of each semester to
-maximize in-person attendance of all team members. Food will be provided
-during this meeting. Expected time is one hour, not to exceed 75
-minutes. A hybrid option will be available for all team meetings
-automatically, and team lab meetings are hybrid by default.
-
-Journal club and research updates alternate every other week during team
-meetings (Journal club, Research Update, Journal club, Research Update).
 
 ### One-on-One Individual Meetings
 
@@ -171,15 +169,90 @@ meetings as needed.
     need to happen quickly
 
 ### Slack Guidelines
-
--   Keep your Slack status up to date, including when you are heads down
+To support effective communication and healthy work-life integration:
+-   Keep your Slack status updated, including when you are heads down
     or away.
--   Configure Slack notifications for your working hours to support
-    healthy work/life integration while remaining responsive.
+-   Set working-hour notifications. Configure Slack so that messages outside
+    your working hours do not disturb you, unless you choose to check them.
 
 ## Booking Shared Meeting Space
 
-*This section will have how to book meeting spaces.*
+The HEART-GeN Lab relies on shared conference rooms and meeting spaces across
+the Feinberg School of Medicine (FSM) for team meetings, project discussions,
+interviews, and collaborative work. Below are the standard procedures for
+identifying and reserving these spaces.
+
+### Where We Book Space
+
+At Northwestern FSM, meeting spaces can be reserved through:
+
+* **Feinberg Room Scheduler (EMS WebApp)**
+  Most conference rooms—including those in Lurie, Simpson Querrey (SQBRC),
+  Tarry, Searle, and McGaw—are booked through the campus-wide EMS platform.
+  *(Accessible via Northwestern login.)*
+
+* **Departmentally Controlled Rooms**
+  Some rooms require approval from departmental administrators (e.g., rooms
+  owned by the Department of Preventive Medicine, Neuroscience, or C2).
+  If you receive an “approval required” response, forward the request to
+  Dr. Benjamin or the appropriate administrative contact.
+
+* **SQBRC / Center-Specific Spaces**
+  Certain specialized rooms (e.g., classrooms, event spaces) are managed by
+  SQBRC staff and require a separate request form or email approval.
+
+###  General Booking Rules
+
+When booking meeting space:
+
+* **Check availability** through EMS or the appropriate department’s calendar.
+* **Book early**—rooms fill quickly, especially Mon–Thu between 9 AM and 3 PM.
+* **Always include:**
+
+  * Meeting title (e.g., “HEART-GeN Weekly Meeting”)
+  * Expected number of attendees
+  * AV needs (Zoom, hybrid setup, HDMI connection)
+* **Cancel reservations promptly** if plans change so others can use the space.
+
+###  Who Can Book
+
+* All **staff and trainees** may request rooms for:
+
+  * Project meetings
+  * Journal club
+  * Small-group collaboration
+  * Interviews or visitor meetings
+* **Lab-wide meetings** and **high-profile collaborations** should be
+  coordinated by Dr. Benjamin or designated staff.
+
+### Hybrid Meeting Considerations
+
+If hybrid attendance is expected:
+
+* Prioritize rooms equipped with Zoom/Teams-enabled AV systems (common in Lurie & SQBRC).
+* Test the equipment 5–10 minutes before the meeting.
+* Bring a personal laptop as backup for screen sharing or audio.
+
+### If You Need Help Booking
+
+If you cannot locate an appropriate room or something is unclear:
+
+* Ask in the **#general** Slack channel.
+* Contact the **Rachel Rodriguez** for access-restricted rooms.
+* Ask Dr. Benjamin for help if:
+
+  * You need a larger room (>12 people)
+  * You require recurring reservations
+  * The booking system denies access
+
+### Best Practices
+
+To keep things efficient and respectful:
+
+* Book the **smallest room that reasonably fits** your group.
+* Do not hold rooms longer than needed.
+* Leave the space clean (whiteboards erased, trash removed, chairs reset).
+* Log any AV issues via the building’s posted contact or facilities link.
 
 # Getting Started in the HEART-GeN Lab
 
@@ -214,8 +287,7 @@ strong foundation takes time and everyone learns at different rates.
 -   Department/University: You will be with Rachel Rodriguez who will give
     the Department/University onboarding.
 -   Lab specific: You will recieve several emails from either Dr. Benjamin
-    or the lab manager inviting you to Slack and GitHub. We do not
-    maintain a lab calendar.
+    or the lab manager inviting you to Slack and GitHub.
 
 ### Lab culture
 
@@ -252,7 +324,8 @@ respectful for your fellow team members.
     media links for visibility.
 -   Add a profile image that represents you (not the default). If you
     plan to pursue industry roles, use a professional photo and treat
-    your GitHub profile like a resume.
+    your GitHub profile like a resume. Ensure pinned repositories and
+    READMEs reflect your strongest work.
 -   Computer setup
 
 **Note:** If you do not have a GitHub, we will work together to create
@@ -260,9 +333,12 @@ one for you.
 
 ## Lab Activities
 
--   **February:** Optional professional headshots are scheduled for
-    those who want one.
--   **July:** We host a writing retreat.
+-   **Professional Headshots:** Each February, the lab organizes optional
+    professional headshot sessions for anyone wanting updated photos for GitHub,
+    LinkedIn, personal websites, and conference materials.
+-   **Annual Writing Retreat:** Every July, we hold a lab-wide writing
+    retreat, focused on deep work, manuscript progress, and professional
+    writing development.
 
 ## Materials to Review
 
@@ -513,9 +589,13 @@ qualities:
 Computational research relies on clear and accurate documentation to
 ensure reproducibility and scientific progress.
 
-Git and GitHub are our primary electronic lab notebook (ELN) for dry-lab
-work. Version control is not optional; it is required for code and
-analysis history.
+-   **Dry-lab Work:** Git and GitHub are our primary electronic lab
+    notebook (ELN) for dry-lab work. Documentation, code, workflows,
+    and project notes must live in GitHub repositories. Version control
+    is not optional; it is required for code and analysis history.
+-   **Wet-lab Work:** LabArchives is the primary ELN for tracking
+    wet-lab experiments. It is also an optional secondary dry-lab
+    notebook.
 
 ### Standardized Format
 
@@ -540,7 +620,7 @@ Our lab uses [LabArchives](https://www.labarchives.com/) as our ELN
 system. Northwestern has an enterprise licence that so that all lab
 members can have a free account. Getting access and training is part of
 [*On-boarding*](#getting-started-in-the-heart-gen-lab). LabArchives is
-required for wet-lab trainees (and hybrid wet/dry trainees) and serves
+required for hybrid wet/dry trainees and serves
 as a secondary notebook for dry-lab work to capture project notes that
 live outside GitHub.
 
@@ -915,7 +995,7 @@ collaborations, meetings, and communications from 0900 to 1800. This is
 depend on team dynamics and project requirements (i.e., collaborator in
 a different time zone). In general, team members can expect Dr. Benjamin
 to communicate during these core hours. Full-time staff should plan to
-work from the office at least three days per week.
+work from the office **at least three days per week**.
 
 **Flexible Schedule:** We offer flexibility in work hours to accommodate
 individual preferences and personal commitments, such as family
@@ -933,7 +1013,7 @@ school year.
 
 **Remote Work Options:** We embrace remote work as a primarily
 computational lab. Monday is our official work-from-home day. A full
-in-person work day consists of at least four hours in the office.
+in-person work day consists of **at least four hours in the office**.
 
 [Fully remote team members will be expected to attend the annual lab retreat. Travel and accommodations for this retreat will be provided by the lab.]:
 
