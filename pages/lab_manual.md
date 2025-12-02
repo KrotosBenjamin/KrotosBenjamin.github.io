@@ -70,7 +70,9 @@ prioritizes three core elements of *scientific excellence*:
 Open, honest, and respectful communication is essential within our lab.
 As such, I expect all members of the HEART-GeN lab to treat others with
 respect. This means to treat others the way they want to be treated, not
-withholding information, and listening carefully.
+withholding information, and listening carefully. Slack is our primary
+communication channel for day-to-day needs. Email is reserved for major
+administrative items and should be used infrequently.
 
 ## Meetings in the Lab
 
@@ -95,15 +97,18 @@ These meetings will be scheduled at the beginning of each semester to
 maximize in-person attendance of all team members. Food will be provided
 during this meeting. Expected time is one hour, not to exceed 75
 minutes. A hybrid option will be available for all team meetings
-automatically.
+automatically, and team lab meetings are hybrid by default.
+
+Journal club and research updates alternate every other week during team
+meetings (Journal club, Research Update, Journal club, Research Update).
 
 ### One-on-One Individual Meetings
 
 One-on-One meetings with Dr. Benjamin will be scheduled weekly for
-trainees and biweekly for staff (research and administrative). For
-trainees, these meetings will be to discuss research progress and
-professional development. Trainees should expect to spend **at least 15
-minutes** discussing professional development activities and goals.
+trainees and staff (research and administrative). For trainees, these
+meetings will be to discuss research progress and professional
+development. Trainees should expect to spend **at least 15 minutes**
+discussing professional development activities and goals.
 
 ### Project-specific Meetings
 
@@ -112,7 +117,9 @@ issues. This could include, but is not limited to, data preparation,
 data acquisition, data storage, and project design. These hour-long
 meetings will be divided into three parts: (1) project updates, (2)
 project concerns or problems, and (3) expected timeline for project
-deliverables.
+deliverables. Project-specific meetings are expected at least once a
+quarter, with frequency tailored to the size of the team and project
+needs.
 
 A project deliverable may include:
 
@@ -155,12 +162,20 @@ meetings as needed.
 
 ## Communication Tools Used in the Lab
 
--   Email: main form of non-research related communication
--   Slack: informal communication for quick responses
+-   Email: used for rare, large administrative communications
+-   Slack: informal communication for quick responses and the majority
+    of day-to-day lab communication
 -   GitHub (via [issues](https://github.com/features/issues)): research
     related communication
 -   Video chat/Phone call/text: for meetings and/or communications that
     need to happen quickly
+
+### Slack Guidelines
+
+-   Keep your Slack status up to date, including when you are heads down
+    or away.
+-   Configure Slack notifications for your working hours to support
+    healthy work/life integration while remaining responsive.
 
 ## Booking Shared Meeting Space
 
@@ -199,7 +214,8 @@ strong foundation takes time and everyone learns at different rates.
 -   Department/University: You will be with Rachel Rodriguez who will give
     the Department/University onboarding.
 -   Lab specific: You will recieve several emails from either Dr. Benjamin
-    or the lab manager inviting you to Slack and the lab calender.
+    or the lab manager inviting you to Slack and GitHub. We do not
+    maintain a lab calendar.
 
 ### Lab culture
 
@@ -213,7 +229,8 @@ respectful for your fellow team members.
 
 -   Joining Slack
 -   Read lab manual
--   High-Performance Computing (HPC) cluster access
+-   High-Performance Computing (HPC) cluster access (Quest and NSF
+    ACCESS)
 -   Lab-specific software access
 -   Goals meeting with Dr. Benjamin
 
@@ -231,10 +248,21 @@ respectful for your fellow team members.
     -   [Biorender](https://www.biorender.com/)
     -   [Zotero](https://www.zotero.org/)
     -   [LabArchives](https://www.labarchives.com/)
+-   Complete GitHub profile setup with your name, email, and social
+    media links for visibility.
+-   Add a profile image that represents you (not the default). If you
+    plan to pursue industry roles, use a professional photo and treat
+    your GitHub profile like a resume.
 -   Computer setup
 
 **Note:** If you do not have a GitHub, we will work together to create
 one for you.
+
+## Lab Activities
+
+-   **February:** Optional professional headshots are scheduled for
+    those who want one.
+-   **July:** We host a writing retreat.
 
 ## Materials to Review
 
@@ -485,6 +513,10 @@ qualities:
 Computational research relies on clear and accurate documentation to
 ensure reproducibility and scientific progress.
 
+Git and GitHub are our primary electronic lab notebook (ELN) for dry-lab
+work. Version control is not optional; it is required for code and
+analysis history.
+
 ### Standardized Format
 
 In our group, all notebooks include standard sections: background, goal
@@ -507,7 +539,10 @@ control, searchability, and accessibility from multiple devices.
 Our lab uses [LabArchives](https://www.labarchives.com/) as our ELN
 system. Northwestern has an enterprise licence that so that all lab
 members can have a free account. Getting access and training is part of
-[*On-boarding*](#getting-started-in-the-heart-gen-lab).
+[*On-boarding*](#getting-started-in-the-heart-gen-lab). LabArchives is
+required for wet-lab trainees (and hybrid wet/dry trainees) and serves
+as a secondary notebook for dry-lab work to capture project notes that
+live outside GitHub.
 
 ### Document All Procedures and Protocols
 
@@ -879,7 +914,8 @@ hybrid, flexible policy.
 collaborations, meetings, and communications from 0900 to 1800. This is
 depend on team dynamics and project requirements (i.e., collaborator in
 a different time zone). In general, team members can expect Dr. Benjamin
-to communicate during these core hours.
+to communicate during these core hours. Full-time staff should plan to
+work from the office at least three days per week.
 
 **Flexible Schedule:** We offer flexibility in work hours to accommodate
 individual preferences and personal commitments, such as family
@@ -896,7 +932,8 @@ school team members should work no more than 10 hours a week during the
 school year.
 
 **Remote Work Options:** We embrace remote work as a primarily
-computational lab. Monday is our official work-from-home day.
+computational lab. Monday is our official work-from-home day. A full
+in-person work day consists of at least four hours in the office.
 
 [Fully remote team members will be expected to attend the annual lab retreat. Travel and accommodations for this retreat will be provided by the lab.]:
 
@@ -931,9 +968,11 @@ advance to allow for proper planning and coordination.
 
 **Preferred Channels:** Lab members can inform Dr. Benjamin of their
 time-off requests through a variety of communication channels, including
-email or Slack. An in-person communication should be follow by either an
-email or Slack message for Dr. Benjamin\'s record keeping. Regardless of
-the communication method, clarity and professionalism are expected.
+email or Slack. Slack is recommended for both time-off requests and
+additional work-from-home requests. An in-person communication should be
+followed by either an email or Slack message for Dr. Benjamin\'s record
+keeping. Regardless of the communication method, clarity and
+professionalism are expected.
 
 **Expectation of Time Away:** Team members are encouraged to take time
 away from the lab as needed to prioritize their well-being, personal
@@ -1175,6 +1214,17 @@ our research. Our goal is to foster responsible, ethical, and
 transparent use of AI/ML in our research. We have some guiding policies
 to ensure that AI/ML contributes positively to our scientific process.
 
+Practical expectations for AI/ML use in the lab include:
+
+-   When learning to code, limit AI support to debugging unless you have
+    discussed broader use with Dr. Benjamin.
+-   When starting a new project, AI should not be the first
+    troubleshooting option unless otherwise discussed with Dr. Benjamin.
+-   Always denote when code has been generated by a large language model
+    (LLM). This is distinct from AI-assisted debugging or
+    troubleshooting. Researchers remain responsible for all AI-assisted
+    output.
+
 1.  Choosing AI/ML Tools
 
     **Alignment with Research Goals:** AI/ML tools should be selected
@@ -1306,7 +1356,10 @@ outlines expectations for both planned and unforeseen departures.
     or connect you with alternative research positions. However, if no
     suitable options are available, involuntary lab departure due to
     funding limitations may be necessary. Dr. Benjamin will give four
-    months of notice if possible in this situation.
+    months of notice if possible in this situation. Staff positions are
+    renewed annually; at least five weeks notice will be given if a
+    position is not renewed due to funding limitations or after
+    corrective plans.
 
 3.  General considerations
 
