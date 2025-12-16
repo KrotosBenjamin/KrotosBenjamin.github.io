@@ -1467,10 +1467,11 @@ outlines expectations for both planned and unforeseen departures.
     or connect you with alternative research positions. However, if no
     suitable options are available, involuntary lab departure due to
     funding limitations may be necessary. Dr. Benjamin will give four
-    months of notice if possible in this situation. Staff positions are
-    renewed annually; at least five weeks notice will be given if a
-    position is not renewed due to funding limitations or after
-    corrective plans.
+    months of notice if possible in this situation.
+
+    **Annual Renewal:** Staff positions are renewed annually; at least five
+    weeks notice will be given if a position is not renewed due to funding
+    limitations or after corrective plans.
 
 3.  General considerations
 
