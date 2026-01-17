@@ -9,18 +9,33 @@ author_profile: true
 
 ## Research Vision
 
-Our lab aims to improve therapeutics for underrepresented communities by
-investigating the influence of genetic ancestry on molecular signatures
-in the brain. We use computational tools and disease-relevant models
-such as postmortem brain tissues, brain organoids, iPSC-derived glial
-cells to uncover how genetic ancestry impacts complex traits in the brain.
-This integrative approach provides insights into the interplay between
-genetic and environmental factors in complex brain disorders.
+We envision a future where prevention and treatment of neurological disorders
+are grounded in a deep, causal understanding of the immune–vascular–brain axis
+-- and designed inclusively from the start. Our lab brings together
+foundation-scale machine learning and experimental biology to move from
+prediction to intervention.
 
-We collaborate with the community to direct our efforts in the development
-of impactful research. Therefore, one of the main focuses of our lab is
-to train a diverse group of next-generation computational scientists
-with the ability to communicate our findings with the community.
+Our active-learning loop starts with interpretable, uncertainty-aware models
+that nominate candidate regulatory circuits. We test these directly in human
+organoids and isogenic iPSC-derived glial and vascular cells. The experimental
+results then feed back into the models, helping distinguish causal biology from
+correlation and surfacing clinically actionable mechanisms.
+
+Over the next decade, this platform will deliver three field-defining resources:
+
+1. A publicly validated atlas of causal regulatory programs across disease stages and ancestries;
+2. Portable biomarkers of immune–vascular dysregulation to enable patient stratification;
+3. A translational pipeline that turns noncoding variation and RNA processing events into first-in-class therapeutic targets.
+
+We are equally committed to transforming how this science is done. Our
+infrastructure embeds inclusion and rigor, from prospectively defined ancestry
+and sex representation thresholds to GPU-accelerated, FAIR-compliant analysis
+pipelines that others can adopt.
+
+Through open resources and the training of a diverse, cross-disciplinary
+workforce fluent in both computation and experiment, we aim to convert
+immune–vascular biology into precision, population-informed interventions
+-- reducing disparities while accelerating therapies that benefit everyone.
 
 ## Research Interests
 

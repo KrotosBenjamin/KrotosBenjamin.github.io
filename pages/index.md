@@ -11,15 +11,14 @@ entries_layout: list
 permalink: /
 ---
 
-At the <ins>H</ins>ealth <ins>E</ins>quity for <ins>A</ins>dvancing
+At the **<ins>H</ins>ealth <ins>E</ins>quity for <ins>A</ins>dvancing
 <ins>R</ins>esearch and <ins>T</ins>echnology using
-<ins>Ge</ins>nomic <ins>N</ins>euroscience (HEART-GeN) research group, our
-goal is to improve treatments for brain disorders with health disparities.
-While 99.99% of our genome is shared across global ancestral populations,
-the very small fraction unique to a specific ancestral population
-can affect how genes turn on or off. We use this human variation
-to find these genes that may play a role in explaining health
-disparities for brain disorders.
+<ins>Ge</ins>nomic <ins>N</ins>euroscience (HEART-GeN)** lab, we aim to improve
+treatments for brain disorders by uncovering how the immune system, blood
+vessels, and brain cells work together -- and how this biology varies across
+different populations. By combining human stem cell models, genetics, and
+machine learning, we study how small differences in our DNA can help explain
+health disparities and point the way to more precise, equitable therapies.
 
 {% include camera-roll.html %}
 
