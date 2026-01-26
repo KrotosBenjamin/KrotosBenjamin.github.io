@@ -30,7 +30,7 @@ age-related expression changes and ADRD risk.
 
 Grant: Young Investigator Award\
 Funding Source: Brain & Behavior Research Foundation (BBRF)\
-Date(s): Pending (02/01/2026-01/31/2028)\
+Date(s): Pending (07/15/2026-06/15/2028)\
 Role: PI\
 Purpose: This award will fund computational analysis to identify how
 schizophrenia alters specific cell types across key brain regions, pinpointing
