@@ -27,6 +27,12 @@ current:
     project: Functional Annotation (Genetic Ancestry)
     image: yiju-choi.jpg
 
+  - name: Jalil Hemphill
+    pronouns: he/him
+    github: jalilhemphill1
+    role: Undergraduate
+    project: DNAm Epigenetic Clocks (Schizophrenia)
+
 alumni:
   - name: Sierra Mannion
     pronouns: she/her
