@@ -30,22 +30,30 @@ current:
   - name: Jalil Hemphill
     pronouns: he/him
     github: jalilhemphill1
-    role: Undergraduate
+    role: Undergraduate (URAP 2026)
     project: DNAm Epigenetic Clocks (Schizophrenia)
 
-alumni:
+  - name: Nia Terry
+    pronouns: she/her
+    github: niaterry
+    role: Undergraduate (SROP 2025; Student Researcher)
+    loc: Spelman College
+    project: DNAm Epigenetic Clocks (Schizophrenia)
+    image: nia-terry.jpg
+
   - name: Sierra Mannion
     pronouns: she/her
     github: SierraM24
-    role: Undergraduate (URAP 2024-2025)
+    role: Undergraduate (URAP 2025)
     project: Local-Ancestry Aware xQTL
     image: sierra-mannion.jpeg
 
+alumni:
   - name: Jocelyn Wang
     pronouns: she/they
     github: jwang1889
     bluesky: jwang1889
-    role: Undergraduate (URAP 2024-2025)
+    role: Undergraduate (URAP 2025)
     project: Local-Ancestry Aware xQTL
     image: jocelyn-wang.jpg
 
@@ -56,14 +64,6 @@ alumni:
     loc: Louisiana State University
     project: Suicide and Schizophrenia
     image: emma-tsai.jpg
-
-  - name: Nia Terry
-    pronouns: she/her
-    github: niaterry
-    role: Undergraduate (SROP 2025)
-    loc: Spelman College
-    project: DNAm Epigenetic Clocks (Schizophrenia)
-    image: nia-terry.jpg
 
   - name: Amirah Collins
     pronouns: she/her
