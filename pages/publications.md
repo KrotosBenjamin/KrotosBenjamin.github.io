@@ -9,14 +9,14 @@ author_profile: true
 
 ## Preprints
 
+**Benjamin, KJM**, Gonye, E, Sauler, M, Gidner, S, Malinina, A, and Enid R
+Neptune. "Convergence of Angiotensin Signaling on Lung Pericyte and Stromal
+Behaviors." *bioRxiv*. 2026.
+PMID: [38948835](https://www.biorxiv.org/content/10.1101/2024.06.17.599425v2.full).
+
 **Kynon JM Benjamin**. "RFMix-reader: Accelerated reading and processing for
 local ancestry studies." *bioRxiv*. 2024.
 PMID: [39071265](https://www.biorxiv.org/content/10.1101/2024.07.13.603370v2).
-
-**Benjamin, KJM**, Sauler, M, Poonyagariyagorn, H, and Enid R Neptune.
-"Cell type-specific expression of angiotensin receptors in the human lung
-with implications for health, aging, and chronic disease." *bioRxiv*. 2024.
-PMID: [38948835](https://biorxiv.org/cgi/content/short/2024.06.17.599425v1).
 
 Evans, TA, Feltrin, AS, **Benjamin, KJ**, Katipalli, T, Hyde, TM,
 Kleinman, JE, Weinberger, DR, Paquola, ACM, and Jennifer A Erwin.
