@@ -115,7 +115,7 @@ publically available single-cell and bulk tissues.
 ### Research Staff
 
 <div class="team-grid">
-{% for member in site.data.staff %}
+{% for member in site.data.staff.current %}
   <div class="team-member">
 	{% if member.image %}
       <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" alt="{{ member.name }}" class="headshot">
@@ -130,6 +130,29 @@ publically available single-cell and bulk tissues.
 	  {% if member.bluesky %}
         <a href="https://bsky.app/profile/{{ member.bluesky }}"><i class="fas fa-cloud"></i> {{ member.bluesky }}</a>
 		{% endif %}
+    </p>
+  </div>
+{% endfor %}
+</div>
+
+### Staff Alumni
+
+<div class="team-grid">
+{% for member in site.data.staff.alumni %}
+  <div class="team-member">
+    {% if member.image %}
+      <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" alt="{{ member.name }}" class="headshot">
+    {% endif %}
+    <h4>{{ member.name }} ({{ member.pronouns }})</h4>
+    <p class="role">{{ member.role }}</p>
+    <p class="social-links">
+      {% if member.github %}
+        <a href="https://github.com/{{ member.github }}"><i class="fab fa-github"></i> {{ member.github }}</a>
+      {% if member.bluesky %}<br>{% endif %}
+      {% endif %}
+      {% if member.bluesky %}
+        <a href="https://bsky.app/profile/{{ member.bluesky }}"><i class="fas fa-cloud"></i> {{ member.bluesky }}</a>
+      {% endif %}
     </p>
   </div>
 {% endfor %}

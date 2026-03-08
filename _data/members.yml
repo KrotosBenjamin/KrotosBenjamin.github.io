@@ -41,7 +41,14 @@ current:
     project: DNAm Epigenetic Clocks (Schizophrenia)
     image: nia-terry.jpg
 
-  - name: Sierra Mannion
+  - name: Alexis Parrott
+    pronouns: she/her
+    github: alexis-parrott
+    role: Undergraduate
+    project: Sex, Genetic Ancestry, Alzheimer's
+    image: alexis-parrott.jpeg
+
+- name: Sierra Mannion
     pronouns: she/her
     github: SierraM24
     role: Undergraduate (URAP 2025)
