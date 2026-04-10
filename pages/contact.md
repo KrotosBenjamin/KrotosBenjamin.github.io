@@ -90,7 +90,10 @@ written report, final presentation, and mentorship network.
 Students from groups historically underrepresented in genomics, neuroscience,
 and computational biology are especially encouraged to apply.
 
-## Contact Us
+## Contact Us {#consulting-contact}
+
+Consulting inquiries related to omics analysis are welcome through the form
+below.
 
 Feel free to use the contact form -- we would love to hear from you!
 
