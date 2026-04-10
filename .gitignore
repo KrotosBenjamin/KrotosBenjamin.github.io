@@ -9,3 +9,4 @@ _site
 .jekyll-metadata
 vendor
 _drafts
+.codex
