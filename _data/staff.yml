@@ -1,15 +1,14 @@
 current:
+  - name: Allister Suarez, PhD
+    pronouns: he/him
+    role: Staff Scientist
+    image: allister-suarez.jpg
+
   - name: Alexis Bennett
     pronouns: she/her
     github: abennett15
     role: Research Data Analyst
     image: alexis-bennett.jpg
-
-  - name: Manuel Hurtado, Jr.
-    github: mhi573
-    pronouns: he/him
-    role: Research Data Analyst
-    image: manuel-hurtado.jpg
 
   - name: Valentine Gilson
     pronouns: she/her
@@ -17,6 +16,12 @@ current:
     image: valentine-gilson.jpeg
 
 alumni:
+  - name: Manuel Hurtado, Jr.
+    github: mhi573
+    pronouns: he/him
+    role: Research Data Analyst
+    image: manuel-hurtado.jpg
+
   - name: Christina Spaulding
     pronouns: she/her
     github: CS-compbio-ds

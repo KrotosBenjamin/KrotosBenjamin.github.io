@@ -13,6 +13,8 @@ main:
     url: /heart-gen-funding/
   - title: "About"
     url: /about-heart-gen/
+  - title: "Summer Scholars"
+    url: /summer-scholars/
   - title: "Join Us"
     url: /join-heart-gen/
   # - title: "Quick-Start Guide"
