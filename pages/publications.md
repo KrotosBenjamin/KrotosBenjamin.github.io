@@ -9,6 +9,12 @@ author_profile: true
 
 ## Preprints
 
+Bennett, A, Johnson, EK, Terry, NN, Hemphill, J, and **Kynon JM Benjamin**.
+"Local SNP-explained methylation variation reveals genetically anchored and
+exposure-associated methylation architecture in the human brain." *bioRxiv*.
+2026.
+DOI: [10.64898/2026.06.05.730443](https://doi.org/10.64898/2026.06.05.730443).
+
 **Benjamin, KJM**, Gonye, E, Sauler, M, Gidner, S, Malinina, A, and Enid R
 Neptune. "Convergence of Angiotensin Signaling on Lung Pericyte and Stromal
 Behaviors." *bioRxiv*. 2026.
