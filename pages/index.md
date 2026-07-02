@@ -20,6 +20,12 @@ different populations. By combining human stem cell models, genetics, and
 machine learning, we study how small differences in our DNA can help explain
 health disparities and point the way to more precise, equitable therapies.
 
+## Consulting
+
+Dr. Benjamin offers consulting in omics analysis, with 5 years of experience
+supporting research projects and analytical workflows. Fees available upon
+request. [Get in touch about consulting](/join-heart-gen/#consulting-contact).
+
 {% include camera-roll.html %}
 
 ## Latest Updates

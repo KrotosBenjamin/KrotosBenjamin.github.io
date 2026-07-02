@@ -49,7 +49,10 @@ communication, and professional development.
 Program details, application information, and cohort archives are available on
 the [HEART-GeN Summer Scholars page]({{ "/summer-scholars/" | relative_url }}).
 
-## Contact Us
+## Contact Us {#consulting-contact}
+
+Consulting inquiries related to omics analysis are welcome through the form
+below.
 
 Feel free to use the contact form -- we would love to hear from you!
 
