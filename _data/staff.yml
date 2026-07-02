@@ -15,11 +15,6 @@ current:
     role: Administrative
     image: valentine-gilson.jpeg
 
-  - name: Allister Suarez
-    pronouns: he/him
-    role: Staff Scientist
-    image: allister-suarez.jpg
-
 alumni:
   - name: Manuel Hurtado, Jr.
     github: mhi573
