@@ -42,53 +42,12 @@ research?
 
 ## HEART-GeN Summer Scholar Program
 
-The HEART-GeN Summer Scholar Program is a **paid, full-time (10-week)** summer
-research experience hosted by the [HEART-GeN Lab](https://krotosbenjamin.github.io/)
-on Northwestern's medical campus in Chicago.
+The HEART-GeN Summer Scholar Program is a paid, full-time summer research
+experience in computational biology, genomic neuroscience, scientific
+communication, and professional development.
 
-This is a defined enrichment program, not a general assistantship. Scholars
-complete a structured curriculum in computational biology, genomic neuroscience,
-and scientific communication; contribute to active research; and leave with a
-written report, final presentation, and mentorship network.
-
-### Scholar Tracks
-
-* **Underclassmen Scholar** (incoming first-year students and rising sophomores)
-  * Stipend: **$4,000** (fixed, 10 weeks)
-  * For incoming first-year students (fall enrollment confirmed) or rising sophomores
-  * Not currently eligible for or enrolled in any Northwestern-sponsored undergraduate summer research program
-  * No prior research experience required
-
-* **Upperclassmen Scholar** (rising juniors and rising seniors)
-  * Stipend: **$7,000** (fixed, 10 weeks)
-  * Open to students at any accredited college or university
-  * Requires at least one academic year of prior research experience (any field)
-  * Not eligible for Northwestern SROP
-
-### Program Snapshot
-
-* **Duration:** 10 weeks, full-time (40 hours/week)
-* **Location:** Northwestern University Feinberg School of Medicine, Chicago, IL
-* **Format:** In-person
-
-### Application Timeline
-
-* **Application deadline:** **March 27, 2026**
-* **Applications are now open:** [Apply here](https://forms.gle/bCnVX5P1ttwGoGP57)
-
-### Application Materials
-
-* **All tracks:**
-  * Brief statement on why HEART-GeN and your interests (250 words max)
-  * 1-page resume
-* **Underclassmen Scholar only:**
-  * Unofficial transcript or coursework list
-  * Describe a time you worked through a difficult problem (does not need to be academic)
-* **Upperclassmen Scholar only:**
-  * Brief description of prior research (2-3 sentences): what lab, what you did, and what you learned
-
-Students from groups historically underrepresented in genomics, neuroscience,
-and computational biology are especially encouraged to apply.
+Program details, application information, and cohort archives are available on
+the [HEART-GeN Summer Scholars page]({{ "/summer-scholars/" | relative_url }}).
 
 ## Contact Us
 

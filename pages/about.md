@@ -66,7 +66,7 @@ publically available single-cell and bulk tissues.
   {% if member.image %}
       <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" alt="{{ member.name }}" class="headshot">
     {% endif %}
-    <h4>{{ member.name }} ({{ member.pronouns }})</h4>
+    <h4>{{ member.name }}{% if member.pronouns %} ({{ member.pronouns }}){% endif %}</h4>
     <p class="role">{{ member.role }}</p>
     {% if member.project %}
     <p class="project">{{ member.project }}</p>
@@ -93,7 +93,7 @@ publically available single-cell and bulk tissues.
   {% if member.image %}
       <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" alt="{{ member.name }}" class="headshot">
     {% endif %}
-    <h4>{{ member.name }} ({{ member.pronouns }})</h4>
+    <h4>{{ member.name }}{% if member.pronouns %} ({{ member.pronouns }}){% endif %}</h4>
     <p class="role">{{ member.role }}</p>
     {% if member.project %}
     <p class="project">{{ member.project }}</p>
@@ -120,7 +120,7 @@ publically available single-cell and bulk tissues.
 	{% if member.image %}
       <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" alt="{{ member.name }}" class="headshot">
     {% endif %}
-    <h4>{{ member.name }} ({{ member.pronouns }})</h4>
+    <h4>{{ member.name }}{% if member.pronouns %} ({{ member.pronouns }}){% endif %}</h4>
     <p class="role">{{ member.role }}</p>
     <p class="social-links">
 	  {% if member.github %}
@@ -143,7 +143,7 @@ publically available single-cell and bulk tissues.
     {% if member.image %}
       <img src="{{ site.baseurl }}/assets/images/team/{{ member.image }}" alt="{{ member.name }}" class="headshot">
     {% endif %}
-    <h4>{{ member.name }} ({{ member.pronouns }})</h4>
+    <h4>{{ member.name }}{% if member.pronouns %} ({{ member.pronouns }}){% endif %}</h4>
     <p class="role">{{ member.role }}</p>
     <p class="social-links">
       {% if member.github %}
