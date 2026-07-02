@@ -1,7 +1,7 @@
 ---
 layout: single
 is_post: true
-date: 2026-06-30
+date: 2026-05-29
 title: "Jalil Hemphill Receives the Fletcher Prize for Rising Undergraduate Research Star"
 description: "HEART-GeN Lab undergraduate researcher Jalil Hemphill was selected for the Fletcher Prize for Rising Undergraduate Research Star in recognition of his growth, contributions, and promise as a researcher."
 image: /assets/images/jalil-prize.heic
