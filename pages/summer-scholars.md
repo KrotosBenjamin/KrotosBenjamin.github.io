@@ -50,9 +50,57 @@ accredited college or university\
 - **Location:** Northwestern University Feinberg School of Medicine, Chicago, IL
 - **Format:** In-person
 
+## What Scholars Do
+
+All HEART-GeN Summer Scholars engage in hands-on computational research,
+scientific communication, mentorship, and a structured professional development
+curriculum.
+
+### Research Training
+
+- Learn R and Python programming for biological data analysis
+- Learn computational biology, genetics, and neuroscience
+- Work in Linux/Unix environments and use high-performance computing (HPC)
+  resources
+- Use Git and GitHub for version control and collaborative research
+- Apply statistics to genomics and neuroscience data
+- Develop reproducible research workflows
+
+### Scientific Communication
+
+- Attend the HEART-GeN Summer Writing Workshop
+- Lead a journal club discussion on a paper relevant to their project
+- Write a report summarizing their summer research
+- Deliver a final oral presentation to the lab and invited guests
+- Write an abstract for conference attendance
+
+### Mentorship
+
+- Meet weekly one-on-one with Dr. Benjamin
+- Receive near-peer mentorship from senior undergraduates, graduate students,
+  and lab research staff
+
+### Professional Development
+
+Scholars participate in sessions on:
+
+- Building Resilience in STEM
+- Clean Coding
+- Improv for Science Communication
+- School After Undergrad
+- Resume/CV development
+- Responsible Conduct of Research (RCR)
+- Social Media in STEM
+
+### Program Outcomes
+
+By the end of the program, scholars will have contributed to an active research
+project, prepared a written report, delivered a research presentation, and
+developed a network of mentors and peers.
+
 ## Application Information
 
-**Application deadline:** March 27, 2026\
+**Application deadline:** March 27, 2026
 **Applications:** [Apply here](https://forms.gle/bCnVX5P1ttwGoGP57)
 
 ### Application Materials
