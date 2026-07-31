@@ -127,7 +127,8 @@ and computational biology are especially encouraged to apply.
 ### {{ cohort.year }} Cohort
 
 **{{ cohort.title }}**\
-**Program start:** {{ cohort.start_date }}\
+**Program start:** {{ cohort.start_date }}
+
 {% if cohort.announcement_url %}
 [Read the cohort announcement]({{ cohort.announcement_url | relative_url }})
 {% endif %}
