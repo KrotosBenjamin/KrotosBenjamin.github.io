@@ -1,0 +1,35 @@
+cohorts:
+  - year: 2026
+    title: "First HEART-GeN Summer Scholar Cohort"
+    start_date: "May 26, 2026"
+    announcement_url: "/community/2026/05/26/heart-gen-summer-scholar-first-cohort.html"
+    scholars:
+      - name: Nia Terry
+        track: Upperclassmen Scholar
+        institution: Spelman College
+        standing: Rising Senior
+        program: Psychology (BS)
+
+      - name: Ayesha Saleem Sheikh
+        track: Upperclassmen Scholar
+        institution: Smith College
+        standing: Rising Junior
+        program: Computer Science, and Statistics and Data Science
+
+      - name: Juliana Walker
+        track: Underclassmen Scholar
+        institution: Brown University
+        standing: Rising Sophomore
+        program: Neuroscience
+
+      - name: "Joan D'Aguilar-Balfour"
+        track: Underclassmen Scholar
+        institution: Spelman College
+        standing: Rising Sophomore
+        program: Engineering (Biomedical Track)
+
+      - name: Sierra Mannion
+        track: Affiliate Scholar
+        institution: Northwestern University
+        standing: Rising Junior
+        program: Biological Anthropology, Global Health
