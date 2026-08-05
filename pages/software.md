@@ -7,6 +7,31 @@ toc: true
 author_profile: true
 ---
 
+## IsoGraph: multiplex network inference for isoform-switch modules
+
+[IsoGraph](https://github.com/heart-gen/IsoGraph) discovers co-regulated
+transcript programs from bulk RNA-seq by treating gene abundance and isoform
+switching as separate channels in a multiplex network. Starting from
+transcript-level counts, it builds gene-local switch coordinates from
+compositional transcript usage alongside a standardized abundance signal per
+gene, infers sparse gene-module structure through interchangeable backends
+(VAE, latent, graph, baseline, or WGCNA), classifies each module gene by the
+channel driving its membership (`coupled`, `switch_only`, `abundance_only`, or
+`discordant`), and links modules to phenotypic traits.
+
+Modules can be explained with gene driver and transcript polarity tables,
+publication-ready plots, and encoder/decoder attribution, while switch pairs are
+annotated with GTF-derived exon, CDS/UTR, biotype, and coding-status changes.
+All steps are benchmark-validated, seed-controlled, and reproducible.
+
+PyPI: <https://pypi.org/project/isograph/>
+
+Documentation: <https://isograph.readthedocs.io/>
+
+Tutorials: <https://github.com/heart-gen/IsoGraph/wiki>
+
+![IsoGraph overview]({{site.url}}/assets/images/isograph-overview.png)
+
 ## localQTL
 
 localQTL is a pure-Python library for local-ancestry-aware xQTL mapping that
