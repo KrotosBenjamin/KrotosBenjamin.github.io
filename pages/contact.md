@@ -1,13 +1,13 @@
 ---
 layout: single
 title: "Join the HEART-GeN research group"
-description: The contact/join Dr. Kynon J Benjamin and the HEART-GeN lab for opportunities.
+description: Contact Dr. Kynon J Benjamin and the HEART-GeN lab about research opportunities and omics consulting.
 permalink: /join-heart-gen/
 toc: true
 author_profile: true
 ---
 
-## Join Us!
+## Join Us
 
 ### **Join the HEART-GeN Lab: A Career in Cutting-Edge Neuroscience**
 
@@ -17,18 +17,19 @@ part of groundbreaking discoveries that are shaping the future of neuroscience.
 
 We are seeking highly motivated individuals to join our team at various levels,
 including:
- * Postdoctoral Fellows:
-   * Open position: Bioinformatics (snRNA-sequencing experience)
+
+ * Postdoctoral fellows:
+   * Open position: bioinformatics (snRNA-sequencing experience)
    * [F99/K00](https://grants.nih.gov/funding/nih-guide-for-grants-and-contracts#/?query=F99/K00&type=active,notices,activenosis&foa=all&parent_orgs=all&orgs=all&ac=F99/K00&ct=all&pfoa=all&fields=all&spons=true)
- * Graduate Students:
+ * Graduate students:
    * [NUIN](https://nuin.northwestern.edu/index.html) PhD program
    * [DGP](https://www.feinberg.northwestern.edu/sites/dgp/index.html) PhD program
    * [MSTP](https://www.feinberg.northwestern.edu/sites/mstp/index.html) MD/PhD program
- * Post-Baccalaureate Students:
+ * Postbaccalaureate students:
    * [NUIN](https://www.nuin.northwestern.edu/postbaccalaureate/index.html)
    * [General](https://sps.northwestern.edu/post-baccalaureate/)
- * Undergraduate Students
- * High School Students
+ * Undergraduate students
+ * High school students
 
 **Why Join the HEART-GeN Lab?**
 
@@ -37,8 +38,8 @@ including:
  * **Mentorship and Professional Development:** Receive personalized mentorship and guidance from experienced scientists to develop your skills and career goals.
  * **Opportunities for Growth:** Explore various research areas and gain hands-on experience in cutting-edge techniques and technologies.
 
-**Interested in working with us?** Want to volunteer or learn more about our
-research?
+**Interested in working with us, volunteering, or learning more about our
+research?**
 
 ## HEART-GeN Summer Scholar Program
 
@@ -54,7 +55,7 @@ the [HEART-GeN Summer Scholars page]({{ "/summer-scholars/" | relative_url }}).
 Consulting inquiries related to omics analysis are welcome through the form
 below.
 
-Feel free to use the contact form -- we would love to hear from you!
+Feel free to use the contact form—we would love to hear from you!
 
 <!-- <button name="button" onclick="mailto:kynon.benjamin@northwestern.edu">Email</button> -->
 

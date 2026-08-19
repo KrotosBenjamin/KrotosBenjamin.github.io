@@ -11,13 +11,13 @@ The **HEART-GeN Summer Scholar Program** is a structured summer research
 experience in computational biology, genomic neuroscience, scientific
 communication, and professional development.
 
-The program is a **paid, full-time (10-week)** research experience hosted by the
+The program is a **paid, full-time, 10-week** research experience hosted by the
 [HEART-GeN Lab](https://krotosbenjamin.github.io/) on Northwestern's medical
 campus in Chicago.
 
 This is a defined enrichment program, not a general assistantship. Scholars
 complete a structured curriculum, contribute to active research, and leave with
-a written report, final presentation, and mentorship network.
+a written report, a final presentation, and a mentorship network.
 
 ## Scholar Tracks
 
@@ -100,14 +100,14 @@ developed a network of mentors and peers.
 
 ## Application Information
 
-**Application deadline:** March 27, 2026
+**Application deadline:** March 27, 2026\
 **Applications:** [Apply here](https://forms.gle/bCnVX5P1ttwGoGP57)
 
 ### Application Materials
 
 **All tracks**
 - Brief statement on why HEART-GeN and your interests (250 words max)
-- 1-page resume
+- One-page resume
 
 **Underclassmen Scholar only**
 - Unofficial transcript or coursework list

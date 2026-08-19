@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "About the HEART-GeN group"
-description: The HEART-GeN lab's, lead by Dr. Kynon J Benjamin, primary goal is to improving neurotherapeutics for underrepresented communities. This page gives background for Dr. Benjamin.
+description: Learn about Dr. Kynon J Benjamin, the HEART-GeN lab's research program, and the lab's current and former members.
 permalink: /about-heart-gen/
 toc: true
 author_profile: true
@@ -13,17 +13,17 @@ Born and raised in a large extended family from Indianapolis, Indiana,
 Dr. Kynon Jade Benjamin is proud to be the first doctor in his family.
 Dr. Benjamin earned his GED with the support of his mother before
 moving on to Indiana University–Purdue University Indianapolis (IUPUI).
-At IUPUI, Dr. Benjamin completed his work study at a neuroscience
+At IUPUI, Dr. Benjamin completed his work-study placement in a neuroscience
 research laboratory, which started his scientific research journey.
 In his predoctoral studies, Dr. Benjamin designed and implemented
-drug delivery and drug development assays as well as developed
-bioinformatic pipelines for differential expression analysis for
-Angelman syndrome - a neurodevelopmental disorder. In his subsequent
+drug-delivery and drug-development assays and developed
+bioinformatics pipelines for differential expression analysis in
+Angelman syndrome, a neurodevelopmental disorder. During his subsequent
 postdoctoral fellowship at the Lieber Institute for Brain Development
 and Johns Hopkins University School of Medicine, he developed
 computational pipelines for large-scale transcriptional (bulk and
-single-cell), genetic, and functional associations analyses in
-postmortem brain and brain (i.e., cerebral and striatal) organoids.
+single-cell), genetic, and functional association analyses in
+postmortem brain tissue and cerebral and striatal brain organoids.
 
 Throughout his research career, Dr. Benjamin's experiences have reinforced
 the **importance of supporting others and fostering collaborative
@@ -35,13 +35,13 @@ role model, and advocate for opportunities for others.
 ## Research program
 
 The **primary goal** of our research is to improve therapeutics for
-under-research communities (i.e., personalized medicine) by
+underrepresented communities (i.e., personalized medicine) by
 investigating the influence of genetic ancestry on neurological
 disorders in relevant tissues. To this end, we *use and develop*
 *computational tools* to examine the role of genetic ancestry in the
 brain. In addition to this, we have established collaborations to use
-computational tools to address hypothesize driven question with
-publically available single-cell and bulk tissues.
+computational tools to address hypothesis-driven questions using
+publicly available single-cell and bulk-tissue data.
 
 ## Our Team
 

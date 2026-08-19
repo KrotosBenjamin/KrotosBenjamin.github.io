@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Current and past funding for the HEART-GeN group"
-description: The HEART-GeN lab primary funding source is the NIH. Dr. Kynon J Benjamin has been funded from the NIMH and the NIMHD.
+description: The HEART-GeN lab's primary funding comes from the NIH. Dr. Kynon J Benjamin has received funding from NIMH and NIMHD.
 permalink: /heart-gen-funding/
 toc: true
 author_profile: true
@@ -26,11 +26,9 @@ Role: PI\
 Purpose: This is a research grant to examine the impact of genetic ancestry on
 age-related expression changes and ADRD risk.
 
-## Pending funding
-
 Grant: Young Investigator Award\
 Funding Source: Brain & Behavior Research Foundation (BBRF)\
-Date(s): Pending (07/15/2026-06/15/2028)\
+Date(s): 07/15/2026-06/15/2028\
 Role: PI\
 Purpose: This award will fund computational analysis to identify how
 schizophrenia alters specific cell types across key brain regions, pinpointing
@@ -39,11 +37,11 @@ novel genetic targets to guide the development of more effective treatments.
 ## Past funding
 Grant: [U54 CA272163](https://reporter.nih.gov/search/wECBMVK1DkqPVq4C5JCqQg/project-details/11002928)\
 Funding Source: NIH/NCI\
-Date(s): 01/01/2024 - 04/07/2025\
+Date(s): 01/01/2024-04/07/2025\
 Role: Faculty\
-Purpose: This is a professional development award to support faculty to promote
+Purpose: This professional development award supports efforts to promote the
 career progression and retention of newly recruited early-career faculty,
-ensuring strong institutional investment for the success and well-being of the
+ensuring strong institutional investment in the success and well-being of the
 NURTURE faculty cohort through tenure and beyond.
 
 Grant: [T32 MH015330](https://reporter.nih.gov/search/7oLJMGsKEkmH2c8vxgmKRw/project-details/9748591)\

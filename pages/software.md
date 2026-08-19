@@ -40,7 +40,7 @@ dependencies. It preserves the familiar tensorQTL data model with GPU-first
 execution paths, flexible genotype loaders, and streaming outputs for
 large-scale workflows, while adding ancestry-aware use cases.
 
-PyPI: <https://github.com/heart-gen/localQTL>
+Repository: <https://github.com/heart-gen/localQTL>
 
 Documentation: <https://localqtl.readthedocs.io/>
 
@@ -75,12 +75,12 @@ Documentation: <http://rfmix-reader.readthedocs.io/>
 
 ## dRFEtools: dynamic recursive feature elimination for omics
 
-Technology advances have generated larger ‘OMICs datasets with applications
-for machine learning. Even so, sample availability results in smaller sample
-sizes compared to features. Dynamic recursive feature elimination (RFE)
+Technological advances have generated larger omics datasets with applications
+in machine learning. Even so, limited sample availability often results in far
+fewer samples than features. Dynamic recursive feature elimination (RFE)
 provides a flexible feature elimination framework to tackle this problem.
-`dRFEtools` provides an interpretable and flexible tool to gain biological
-insights from ‘OMICs data using machine learning.
+`dRFEtools` is an interpretable and flexible tool for gaining biological
+insights from omics data using machine learning.
 
 PyPI: <https://pypi.org/project/drfetools/>
 

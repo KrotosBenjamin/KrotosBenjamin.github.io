@@ -11,7 +11,7 @@ author_profile: true
 
 We envision a future where prevention and treatment of neurological disorders
 are grounded in a deep, causal understanding of the immune–vascular–brain axis
--- and designed inclusively from the start. Our lab brings together
+and designed inclusively from the start. Our lab brings together
 foundation-scale machine learning and experimental biology to move from
 prediction to intervention.
 
@@ -23,8 +23,8 @@ correlation and surfacing clinically actionable mechanisms.
 
 Over the next decade, this platform will deliver three field-defining resources:
 
-1. A publicly validated atlas of causal regulatory programs across disease stages and ancestries;
-2. Portable biomarkers of immune–vascular dysregulation to enable patient stratification;
+1. A publicly validated atlas of causal regulatory programs across disease stages and ancestries.
+2. Portable biomarkers of immune–vascular dysregulation to enable patient stratification.
 3. A translational pipeline that turns noncoding variation and RNA processing events into first-in-class therapeutic targets.
 
 We are equally committed to transforming how this science is done. Our
@@ -34,8 +34,8 @@ pipelines that others can adopt.
 
 Through open resources and the training of a diverse, cross-disciplinary
 workforce fluent in both computation and experiment, we aim to convert
-immune–vascular biology into precision, population-informed interventions
--- reducing disparities while accelerating therapies that benefit everyone.
+immune–vascular biology into precision, population-informed interventions,
+reducing disparities while accelerating therapies that benefit everyone.
 
 ## Research Interests
 
@@ -46,9 +46,9 @@ account for less than 5% of large-scale research cohorts for brain disorders
 but are 20% more likely to experience a major mental health crisis.
 Furthermore, divergent responses to antipsychotics between AA and European
 ancestry (EA) have been linked to genetic differences. Understanding these
-genetic and/or regulatory differences between AA and EA in the human brain,
-is essential to the development of effective neurotherapeutics and
-potentially could decrease health disparities for neurological disorders.
+genetic and regulatory differences between AA and EA in the human brain
+is essential to developing effective neurotherapeutics and could potentially
+decrease health disparities associated with neurological disorders.
 
 ![annri overview]({{site.url}}/assets/images/aanri_overview_v3.png)
 
@@ -65,8 +65,8 @@ drugs target the striatum’s dense dopaminergic innervation.
 
 #### Sex differences and schizophrenia
 Schizophrenia is a complex neuropsychiatric disorder with sexually dimorphic
-features, including differential symptomatology, drug responsiveness, and male
-incidence rate. To date, only the prefrontal cortex has been studied in
+features, including differences in symptoms and drug responsiveness, as well as
+higher incidence rates among males. To date, only the prefrontal cortex has been studied in
 large-scale transcriptome analyses for sex differences in schizophrenia.
 
 ![sex diff overview]({{site.url}}/assets/images/sex_diff_overview.png)

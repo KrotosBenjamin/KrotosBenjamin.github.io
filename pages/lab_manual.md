@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "HEART-GeN lab manual"
-description: The HEART-GeN lab culture as described by the lab manual. Dr. Kynon J Benjamin developed this lab manual.
+description: The HEART-GeN lab manual describes the lab's culture, values, expectations, policies, and research practices.
 permalink: /heart-gen-manual/
 toc: true
 author_profile: true
@@ -11,12 +11,12 @@ author_profile: true
 
 Welcome to the Health Equity for Advancing Research and Technology using
 Genomic Neuroscience (HEART-GeN) lab! As a member of the HEART-GeN lab,
-you\'re choosing to join a group of diverse scientists. Our lab focuses
+you are joining a group of diverse scientists. Our lab focuses
 on **developing more equitable treatments** for brain disorders that
-disproportionately affect Black communities. In this lab manual, you\'ll
-learn more about the lab\'s mission and values, as well as key
+disproportionately affect Black communities. In this lab manual, you'll
+learn more about the lab's mission and values, as well as key
 information about getting started, working, and getting help in the lab.
-Just remember, you\'re a valued member of the team and you belong here
+Remember, you are a valued member of the team, and you belong here
 just as much as anyone else!
 
 # What the HEART-GeN Lab is About
@@ -26,17 +26,16 @@ just as much as anyone else!
 Our lab aims to improve therapeutics for underrepresented communities by
 investigating the influence of genetic ancestry on molecular signatures
 in the brain. We use computational tools and disease-relevant models,
-such as postmortem brain tissues, brain organoids, and iPSC-derived
-glial cells to uncover how genetic ancestry impacts complex traits in
+such as postmortem brain tissue, brain organoids, and iPSC-derived
+glial cells, to uncover how genetic ancestry affects complex traits in
 the brain. This integrative approach provides insights into the
 interplay between genetic and environmental factors in complex brain
 disorders.
 
-We collaborate with the community to direct our efforts in the
-development of impactful research. Therefore, one of the main focuses of
-our lab is to train a diverse group of next-generation computational
-scientists with the ability to communicate our findings with the
-community.
+We collaborate with communities to guide the development of impactful
+research. One of our lab's main priorities is to train a diverse group of
+next-generation computational scientists who can communicate our findings to
+the community.
 
 ## Our Values
 
@@ -46,7 +45,7 @@ prioritizes three core elements of *scientific excellence*:
 1.  **Rigor, Reproducibility, and Transparency:** We are committed to
     conducting **honest research** that adheres to the highest standards
     of scientific integrity. We acknowledge the challenges inherent in
-    research, but believe that transparency, open communication, and
+    research, but we believe that transparency, open communication, and
     meticulous methodology are essential for generating reliable and
     impactful findings.
 2.  **Diversity, Equity, and Inclusion:** We believe that **diverse
@@ -69,8 +68,8 @@ prioritizes three core elements of *scientific excellence*:
 
 Open, honest, and respectful communication is essential within our lab.
 As such, I expect all members of the HEART-GeN lab to treat others with
-respect. This means to treat others the way they want to be treated, not
-withholding information, and listening carefully. Slack is our primary
+respect. This means treating others the way they want to be treated, sharing
+information openly, and listening carefully. Slack is our primary
 communication channel for day-to-day needs. Email is reserved for major
 administrative items and should be used infrequently.
 
@@ -80,29 +79,28 @@ Our lab has several types of recurring meetings.
 
 ### Team Meetings
 
-This is a weekly team meeting to discuss research going on in the lab.
+This weekly team meeting is an opportunity to discuss research underway in the lab.
 Every team member is expected to attend. We alternate between Journal
 Club and Research Updates. These meetings will be scheduled at the beginning
 of each quarter to maximize in-person attendance of all team members. Food
-will be provided (funding allowing) during this meeting. Expected time is one
-hour, not to exceed 75 minutes. A hybrid option will be available for all
-team meetings automatically, and team lab meetings are hybrid by default.
+will be provided, funding permitting. Meetings are expected to last one hour
+and will not exceed 75 minutes. All team meetings are hybrid by default.
 
 During Research Updates meetings, every scientific team member should be
 prepared to give an update unless otherwise indicated. For timing, a
 **three-slide outline is recommended**: (1) previous work, (2) current work,
 (3) next steps. The first slide will give an overview of the progress the
-team member has made in the previous week. The second slide will discuss what
-the team member is planning on doing in the current week. The last slide will
+team member made during the previous week. The second slide will discuss what
+the team member plans to do during the current week. The last slide will
 discuss future plans and any problems they have encountered.
 
 Administrative staff may give updates on any administrative tasks or
-goals that the lab should be made aware of, including outreach efforts
+goals that the lab should know about, including outreach efforts
 and any budgetary concerns.
 
 ### One-on-One Individual Meetings
 
-One-on-One meetings with Dr. Benjamin will be scheduled weekly for
+One-on-one meetings with Dr. Benjamin will be scheduled weekly for
 trainees and staff (research and administrative). For trainees, these
 meetings will be to discuss research progress and professional
 development. Trainees should expect to spend **at least 15 minutes**
@@ -110,8 +108,8 @@ discussing professional development activities and goals.
 
 ### Project-specific Meetings
 
-Every project has a project-specific meeting to discuss project related
-issues. This could include, but is not limited to, data preparation,
+Every project has a project-specific meeting to discuss project-related
+issues. These may include data preparation,
 data acquisition, data storage, and project design. These hour-long
 meetings will be divided into three parts: (1) project updates, (2)
 project concerns or problems, and (3) expected timeline for project
@@ -147,7 +145,7 @@ and collaboration through as-needed meetings. These meetings can be:
     expertise of the lab, or a collaborative brainstorming session, an
     additional team meeting can be scheduled.
 -   Project-specific meetings: When launching a new project, we will
-    schedule a dedicated meeting to discuss roles, procedures, and
+    schedule a dedicated meeting to discuss roles and procedures and
     ensure everyone is on the same page. This helps ensure a smooth and
     coordinated start.
 -   Data-focused meetings: Complex data analysis or manuscript
@@ -163,14 +161,16 @@ meetings as needed.
 -   Email: used for rare, large administrative communications
 -   Slack: informal communication for quick responses and the majority
     of day-to-day lab communication
--   GitHub (via [issues](https://github.com/features/issues)): research
-    related communication
--   Video chat/Phone call/text: for meetings and/or communications that
+-   GitHub (via [issues](https://github.com/features/issues)): research-related
+    communication
+-   Video chat, phone calls, or text messages: meetings or communications that
     need to happen quickly
 
 ### Slack Guidelines
+
 To support effective communication and healthy work-life integration:
--   Keep your Slack status updated, including when you are heads down
+
+-   Keep your Slack status updated, including when you are focused
     or away.
 -   Set working-hour notifications. Configure Slack so that messages outside
     your working hours do not disturb you, unless you choose to check them.
@@ -189,7 +189,7 @@ At Northwestern FSM, meeting spaces can be reserved through:
 * **Feinberg Room Scheduler (EMS WebApp)**
   Most conference rooms—including those in Lurie, Simpson Querrey (SQBRC),
   Tarry, Searle, and McGaw—are booked through the campus-wide EMS platform.
-  *(Accessible via Northwestern login.)*
+  *(Accessible with Northwestern credentials.)*
 
 * **Departmentally Controlled Rooms**
   Some rooms require approval from departmental administrators (e.g., rooms
@@ -201,12 +201,12 @@ At Northwestern FSM, meeting spaces can be reserved through:
   Certain specialized rooms (e.g., classrooms, event spaces) are managed by
   SQBRC staff and require a separate request form or email approval.
 
-###  General Booking Rules
+### General Booking Rules
 
 When booking meeting space:
 
 * **Check availability** through EMS or the appropriate department’s calendar.
-* **Book early**—rooms fill quickly, especially Mon–Thu between 9 AM and 3 PM.
+* **Book early**—rooms fill quickly, especially Monday–Thursday between 9 AM and 3 PM.
 * **Always include:**
 
   * Meeting title (e.g., “HEART-GeN Weekly Meeting”)
@@ -214,7 +214,7 @@ When booking meeting space:
   * AV needs (Zoom, hybrid setup, HDMI connection)
 * **Cancel reservations promptly** if plans change so others can use the space.
 
-###  Who Can Book
+### Who Can Book
 
 * All **staff and trainees** may request rooms for:
 
@@ -229,7 +229,7 @@ When booking meeting space:
 
 If hybrid attendance is expected:
 
-* Prioritize rooms equipped with Zoom/Teams-enabled AV systems (common in Lurie & SQBRC).
+* Prioritize rooms equipped with Zoom/Teams-enabled AV systems (common in Lurie and SQBRC).
 * Test the equipment 5–10 minutes before the meeting.
 * Bring a personal laptop as backup for screen sharing or audio.
 
@@ -238,7 +238,7 @@ If hybrid attendance is expected:
 If you cannot locate an appropriate room or something is unclear:
 
 * Ask in the **#general** Slack channel.
-* Contact the **Rachel Rodriguez** for access-restricted rooms.
+* Contact **Rachel Rodriguez** about access-restricted rooms.
 * Ask Dr. Benjamin for help if:
 
   * You need a larger room (>12 people)
@@ -256,9 +256,9 @@ To keep things efficient and respectful:
 
 # Getting Started in the HEART-GeN Lab
 
-## On-boarding
+## Onboarding
 
-As a new team member, you will go through an on-boarding process to
+As a new team member, you will go through an onboarding process to
 become acquainted with the team, projects, programming environment, and
 expectations. You can expect:
 
@@ -272,39 +272,39 @@ expectations. You can expect:
 
 ## General Guidance for New Team Members
 
-Getting started in a new environment will take time. We don\'t expect
+Getting started in a new environment will take time. We don't expect
 everyone to be up and running within a week! In general, new team
-members can expect it to take about a month to get all on-boarding tasks
-complete. Depending on your starting knowledge, a new team member might
+members can expect it to take about a month to complete all onboarding tasks.
+Depending on your starting knowledge, you might
 spend several months learning basic computational skills and reading
-papers. There is no rush! Here, at the HEART-GeN lab, we believe a
-strong foundation takes time and everyone learns at different rates.
+papers. There is no rush! At the HEART-GeN lab, we believe that building a
+strong foundation takes time and that everyone learns at a different pace.
 
 ## New Team Member Essentials
 
 ### HR information
 
--   Department/University: You will be with Rachel Rodriguez who will give
-    the Department/University onboarding.
--   Lab specific: You will recieve several emails from either Dr. Benjamin
+-   Department/University: Rachel Rodriguez will guide you through departmental
+    and university onboarding.
+-   Lab-specific: You will receive several emails from either Dr. Benjamin
     or the lab manager inviting you to Slack and GitHub.
 
 ### Lab culture
 
 Headphones are required during normal work hours. Normal work hours are
 Monday to Friday from 0800 to 1800. Outside of those hours, please be
-respectful for your fellow team members.
+respectful of your fellow team members.
 
-## New Team Member On-boarding Tasks
+## New Team Member Onboarding Tasks
 
 ### First-day tasks
 
--   Joining Slack
--   Read lab manual
--   High-Performance Computing (HPC) cluster access (Quest and NSF
+-   Join Slack
+-   Read the lab manual
+-   Obtain High-Performance Computing (HPC) cluster access (Quest and NSF
     ACCESS)
--   Lab-specific software access
--   Goals meeting with Dr. Benjamin
+-   Obtain access to lab-specific software
+-   Attend a goals meeting with Dr. Benjamin
 
 ### First two weeks tasks
 
@@ -320,16 +320,198 @@ respectful for your fellow team members.
     -   [Biorender](https://www.biorender.com/)
     -   [Zotero](https://www.zotero.org/)
     -   [LabArchives](https://www.labarchives.com/)
--   Complete GitHub profile setup with your name, email, and social
-    media links for visibility.
--   Add a profile image that represents you (not the default). If you
-    plan to pursue industry roles, use a professional photo and treat
-    your GitHub profile like a resume. Ensure pinned repositories and
-    READMEs reflect your strongest work.
 -   Computer setup
 
-**Note:** If you do not have a GitHub, we will work together to create
-one for you.
+**Note:** If you do not have a GitHub account, we will work together to create
+one.
+
+### GitHub Setup
+
+1.  [Create a personal GitHub account](https://github.com/signup) and verify
+    your email address. Use a strong, unique password.
+2.  [Enable two-factor
+    authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
+    and store your recovery codes in a secure location.
+3.  Complete your profile with your name, a profile image, a brief biography,
+    and relevant professional links. If you plan to pursue industry roles,
+    treat your profile like a resume and ensure that pinned repositories and
+    README files reflect your strongest work.
+4.  Add and verify your institutional email address. If you use a different
+    address for commits, add and verify that address as well so that GitHub can
+    connect your commits to your account.
+5.  Send your GitHub username to Dr. Benjamin or the lab manager and accept the
+    invitation to the HEART-GeN organization and appropriate project teams.
+6.  Configure your name and a verified email address in Git on each computer or
+    cluster where you will make commits:
+
+    ```bash
+    git config --global user.name "Your Name"
+    git config --global user.email "your-email@example.edu"
+    ```
+
+7.  Configure GitHub authentication using an SSH key by following the relevant
+    instructions below. Never share a password, recovery code, personal access
+    token, or private SSH key.
+
+#### SSH Setup on a Local Computer
+
+These commands work in Terminal on macOS or Linux and in Git Bash or the
+Windows Subsystem for Linux (WSL) on Windows.
+
+1.  Check for existing SSH keys:
+
+    ```bash
+    ls -al ~/.ssh
+    ```
+
+2.  Create the SSH directory if needed, secure it, and generate a dedicated
+    GitHub key. Use the email address associated with your GitHub account:
+
+    ```bash
+    mkdir -p ~/.ssh
+    chmod 700 ~/.ssh
+    ssh-keygen -t ed25519 -C "your-email@example.edu" -f ~/.ssh/id_ed25519_github
+    ```
+
+    Enter a secure passphrase when prompted. If the key file already exists,
+    do not overwrite it without first confirming that it is safe to do so.
+
+3.  Start the SSH agent and add the private key:
+
+    ```bash
+    eval "$(ssh-agent -s)"
+    ssh-add ~/.ssh/id_ed25519_github
+    ```
+
+4.  Display the public key and copy the entire output. The public key ends in
+    `.pub`; never display or share the private key without that extension.
+
+    ```bash
+    cat ~/.ssh/id_ed25519_github.pub
+    ```
+
+5.  In GitHub, go to **Settings → SSH and GPG keys → New SSH key**. Give the key
+    a descriptive title, such as `Personal laptop`, select **Authentication
+    Key**, paste the public key, and save it.
+
+6.  Open or create `~/.ssh/config` and add:
+
+    ```text
+    Host github.com
+      HostName github.com
+      User git
+      IdentityFile ~/.ssh/id_ed25519_github
+      IdentitiesOnly yes
+    ```
+
+    Then secure the configuration file:
+
+    ```bash
+    chmod 600 ~/.ssh/config
+    ```
+
+7.  Test the connection. On the first connection, verify and accept GitHub's
+    host key when prompted. A successful response will identify your GitHub
+    username and note that GitHub does not provide shell access.
+
+    ```bash
+    ssh -T git@github.com
+    ```
+
+#### SSH Setup on Bridges-2
+
+Generate a separate SSH key on Bridges-2. Do not copy a private key from your
+local computer to Bridges-2 or from Bridges-2 to your local computer.
+
+1.  Log in to Bridges-2 with your PSC username:
+
+    ```bash
+    ssh PSC-username@bridges2.psc.edu
+    ```
+
+2.  On Bridges-2, check for existing keys, prepare the SSH directory, and
+    generate a dedicated GitHub key:
+
+    ```bash
+    ls -al ~/.ssh
+    mkdir -p ~/.ssh
+    chmod 700 ~/.ssh
+    ssh-keygen -t ed25519 -C "your-email@example.edu" -f ~/.ssh/id_ed25519_github_bridges2
+    ```
+
+3.  Start the SSH agent and add the Bridges-2 private key:
+
+    ```bash
+    eval "$(ssh-agent -s)"
+    ssh-add ~/.ssh/id_ed25519_github_bridges2
+    ```
+
+4.  Display and copy the Bridges-2 public key:
+
+    ```bash
+    cat ~/.ssh/id_ed25519_github_bridges2.pub
+    ```
+
+5.  Add this public key to **GitHub → Settings → SSH and GPG keys** as a new
+    authentication key with a descriptive title, such as `ACCESS Bridges-2`.
+    Do not replace your local computer's key.
+
+6.  Open or create `~/.ssh/config` on Bridges-2 and add:
+
+    ```text
+    Host github.com
+      HostName github.com
+      User git
+      IdentityFile ~/.ssh/id_ed25519_github_bridges2
+      IdentitiesOnly yes
+    ```
+
+    Then secure the configuration file and test the connection:
+
+    ```bash
+    chmod 600 ~/.ssh/config
+    ssh -T git@github.com
+    ```
+
+7.  Use the repository's SSH URL when cloning on Bridges-2:
+
+    ```bash
+    git clone git@github.com:heart-gen/REPOSITORY.git
+    ```
+
+    Replace `REPOSITORY` with the repository name. If a new shell session does
+    not recognize the key, start `ssh-agent` and run `ssh-add` again.
+
+See GitHub's official [account setup
+guide](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account)
+and [SSH connection
+guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+for more information.
+
+### ORCID Sign-Up
+
+An [ORCID iD](https://orcid.org/) is a persistent identifier that connects you
+with your research contributions throughout your career. If you do not already
+have one:
+
+1.  [Register for an ORCID iD](https://orcid.org/register). Before creating a
+    record, check whether ORCID finds an existing record for you; do not create
+    a duplicate.
+2.  Verify your email address using the message sent by ORCID.
+3.  Add and verify both your institutional email address and a long-term
+    personal email address so that you retain access when you change
+    institutions. Email addresses are private by default.
+4.  Review the visibility setting for each item in your record. Your ORCID iD
+    is always public, but you control the visibility of other information.
+5.  Add your current affiliation, education, works, funding, and professional
+    website as applicable. Keep the record current and use your ORCID iD when
+    submitting manuscripts, grant applications, or conference abstracts.
+6.  Share your ORCID iD with the lab for your website profile and other lab
+    records.
+
+See the official [ORCID registration
+guide](https://support.orcid.org/hc/en-us/articles/360006897454-How-do-I-register-for-an-ORCID-ID)
+for additional help.
 
 ## Lab Activities
 
@@ -342,20 +524,20 @@ one for you.
 
 ## Materials to Review
 
-During the first couple of months of joining the lab, review material
+During your first couple of months in the lab, review materials
 will be tailored by project and experience. For example, if a new team
-member has limited programming experience, they will focus their time on
+member has limited programming experience, they will focus on
 learning basic programming. In addition to this, new members can expect
-to get a bundle of papers, protocols, and technical manuals that are
+to receive a collection of papers, protocols, and technical manuals that are
 specific to their project. During our one-on-one meetings, we will build
-a realistic time frame for building programming, statistics, and linear
-algebra, which is necessary for all projects in the lab. It is
+a realistic time frame for developing the programming, statistics, and linear
+algebra skills necessary for all lab projects. It is
 **always** okay to ask for more background materials, even if they do
 not directly relate to your assigned project.
 
 ### RNA-sequencing (bulk)
 
--   [RNA-Seq:a revolutionary tool for
+-   [RNA-Seq: a revolutionary tool for
     transcriptomics](https://www.nature.com/articles/nrg2484)
 -   [Advancing RNA-Seq
     analysis](https://www.nature.com/articles/nbt0510-421)
@@ -442,7 +624,7 @@ Northwestern also has access to
 
 -   [About version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 -   [About `git`](https://docs.github.com/en/get-started/using-git/about-git)
--   [git to know git: an 8 minute introduction LIBD rstats blog post by
+-   [git to know git: an 8-minute introduction from the LIBD Rstats blog by
     Amy Peterson](http://research.libd.org/rstatsclub/post/git-to-know-git/#.XXfvXpNKi50)
 -   [Version Control with Git](https://swcarpentry.github.io/git-novice/index.html)
 -   [Commit together with co-authors](https://github.blog/2018-01-29-commit-together-with-co-authors/)
@@ -459,6 +641,29 @@ Northwestern also has access to
 -   [GNU Emacs](https://www.gnu.org/software/emacs/tour/)
 -   [LaTeX](https://latex-tutorial.com/tutorials/)
 -   [Learning LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+
+#### Configure R in VS Code on NSF ACCESS Bridges-2
+
+To configure VS Code to use R from a Conda environment, open the Command
+Palette (`Cmd+Shift+P` on macOS or `Ctrl+Shift+P` on Linux and Windows), then
+select **Preferences: Open Workspace Settings (JSON)**.
+
+Add the following settings, using the NSF ACCESS Bridges-2 paths for your Conda
+environment. For example, the `rnaseq` environment uses:
+
+```json
+{
+  "r.rpath.linux": "/ocean/projects/bio260021p/shared/opt/envs/rnaseq/bin/R",
+  "r.rterm.linux": "/ocean/projects/bio260021p/shared/opt/envs/rnaseq/bin/R",
+  "r.alwaysUseActiveTerminal": true
+}
+```
+
+Replace `rnaseq` in both paths with the name of your environment, such as
+`network` or `eqtl`.
+
+Open the Command Palette again and select **Developer: Reload Window**. After
+VS Code reloads, open the Command Palette and select **R: Create R terminal**.
 
 ### Quarto
 
@@ -487,13 +692,13 @@ Northwestern also has access to
 
 ### Python programming
 
--   [Google\'s Python Class](https://developers.google.com/edu/python/)
--   [Python on kaggle](https://www.kaggle.com/learn/python)
+-   [Google's Python Class](https://developers.google.com/edu/python/)
+-   [Python on Kaggle](https://www.kaggle.com/learn/python)
 -   [JupyterLab Documentation](https://jupyterlab.readthedocs.io/en/latest/)
     -   [Get started](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
     -   [Example](https://python.land/data-science/jupyter-notebook)
     -   [Video: Lab vs notebook](https://www.youtube.com/watch?v=p01wt-WB84c)
--   [Polars for dataframes](https://pola.rs/)
+-   [Polars for data frames](https://pola.rs/)
 -   [Intro to machine learning](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 -   [CUDA with Rapids](https://rapids.ai/)
 -   [General Guides](https://sites.northwestern.edu/researchcomputing/resource-guides/resource-guide-python/)
@@ -511,10 +716,33 @@ Northwestern also has access to
 -   [QUEST](https://www.it.northwestern.edu/departments/it-services-support/research/computing/quest/)
     -    [General Access](https://www.it.northwestern.edu/departments/it-services-support/research/computing/quest/general-access-allocation-types.html)
     -    [Genomics Compute Cluster](https://www.it.northwestern.edu/departments/it-services-support/research/computing/quest/genomics-compute-cluster.html)
-    -    [Connecting to Jupyter and Rstudio](https://www.it.northwestern.edu/departments/it-services-support/research/computing/quest/quest-analytics-nodes.html)
+    -    [Connecting to Jupyter and RStudio](https://www.it.northwestern.edu/departments/it-services-support/research/computing/quest/quest-analytics-nodes.html)
     -    [User Guide](https://services.northwestern.edu/TDClient/30/Portal/KB/ArticleDet?ID=505)
     -    [QUEST Videos](https://services.northwestern.edu/TDClient/30/Portal/KB/ArticleDet?ID=2004)
 -   [SLURM](https://slurm.schedmd.com/quickstart.html)
+
+#### Sign Up for NSF ACCESS and Bridges-2
+
+NSF ACCESS provides access to Bridges-2 and other advanced computing resources.
+To join the lab's existing ACCESS project:
+
+1.  [Register for an ACCESS ID](https://account.access-ci.org/) using your
+    institutional email address. Your email domain must match the institution
+    listed in your ACCESS profile.
+2.  Complete your ACCESS profile and record your ACCESS ID.
+3.  Send your ACCESS ID to Dr. Benjamin or the lab's allocation manager so that
+    you can be added to the project and its Bridges-2 resources. Do not request
+    a separate allocation unless instructed to do so.
+4.  Check **My Projects** in the [ACCESS Allocations
+    portal](https://allocations.access-ci.org/) to monitor your account status.
+    New resource accounts may take several days to be provisioned.
+5.  Once access is active, find your Bridges-2 resource username under **My
+    Projects**. This username may differ from your ACCESS ID. Follow the
+    [Bridges-2 documentation](https://support.access-ci.org/documentation/resources/bridges-2-gpu)
+    to set up your PSC credentials and log in.
+
+The [ACCESS new-user guide](https://allocations.access-ci.org/get-your-first-project)
+provides more information about accounts, projects, allocations, and resources.
 
 # Working in the HEART-GeN Lab
 
@@ -522,31 +750,31 @@ Northwestern also has access to
 
 ### What You Should Expect from Me as Principal Investigator
 
-As the Principal Investigator (PI) of the HEART-GeN lab, my role is
-leading our group to get research accomplished. What that means is:
+As the principal investigator (PI) of the HEART-GeN lab, my role is to
+lead our group and advance its research. In practice:
 
 -   I write grants to fund our work
 -   I manage, supervise, and provide timely feedback on
     -   research activities
     -   manuscripts
     -   data management
--   I initiate and manage collaboration to further our research impact
+-   I initiate and manage collaborations to increase our research impact
 
 In addition to this role, I am also your mentor. I am committed to
-working with every team member so that they are working toward their
-personal goals. This will be tailored to each individual member.
-However, everyone will learn or refine critical thinking, management,
+helping every team member work toward their personal goals. My mentorship will
+be tailored to each individual. At the same time, everyone will learn or refine
+critical-thinking, management,
 and mentorship skills during their time in the HEART-GeN lab.
 
 **Tips for Working with Me:**
 
--   If I\'m more than 5 minutes late to our scheduled meeting, please
-    send a Slack message. I may have become distracted, but I haven\'t
+-   If I'm more than 5 minutes late to our scheduled meeting, please
+    send a Slack message. I may have become distracted, but I haven't
     forgotten!
 -   As a neurodivergent person, I may not make eye contact. Rest
     assured, I am still actively listening to you!
 -   There are times when I experience sensory overload. During these
-    moments, I\'ll wear noise-canceling headphones and keep my office
+    moments, I'll wear noise-canceling headphones and keep my office
     door shut. If you have an urgent matter or a question during this
     time, please reach out to me via Slack.
 
@@ -562,7 +790,7 @@ I expect you to:
 -   Treat lab members with respect
 -   Share your expertise with the team
 -   Come prepared to meetings
--   Ask for help if feeling overworked or overwhelmed
+-   Ask for help if you feel overworked or overwhelmed
 
 Our lab thrives on a team of individuals who embody the following
 qualities:
@@ -576,7 +804,7 @@ qualities:
 -   **Curiosity and Growth Mindset:** We encourage a continuous learning
     environment. Your willingness to learn new skills, ask questions,
     and challenge the status quo will be a valuable asset.
--   **Collaborative Spirit:** Science thrives on teamwork. You\'ll be
+-   **Collaborative Spirit:** Science thrives on teamwork. You'll be
     someone who enjoys working alongside others, fostering a supportive
     and productive lab environment.
 -   **Reliability and Accountability:** We value team members who
@@ -589,8 +817,8 @@ qualities:
 Computational research relies on clear and accurate documentation to
 ensure reproducibility and scientific progress.
 
--   **Dry-lab Work:** Git and GitHub are our primary electronic lab
-    notebook (ELN) for dry-lab work. Documentation, code, workflows,
+-   **Dry-lab Work:** Git and GitHub serve as our primary electronic lab
+    notebook (ELN) system for dry-lab work. Documentation, code, workflows,
     and project notes must live in GitHub repositories. Version control
     is not optional; it is required for code and analysis history.
 -   **Wet-lab Work:** LabArchives is the primary ELN for tracking
@@ -606,9 +834,9 @@ projects, methods will include the general approach and associated code
 blocks. This also means including relevant figures and tables to
 illustrate your findings.
 
-For record-keeping we will be using text files that are written using a
+For record-keeping, we use text files written with a
 combination of Markdown, LaTeX, and Jupyter notebooks. This primarily
-implemented with [Quarto](https://quarto.org/).
+is implemented with [Quarto](https://quarto.org/).
 
 ### Using Electronic Lab Notebooks (ELNs)
 
@@ -617,9 +845,9 @@ organization, and collaboration. ELNs offer advantages such as version
 control, searchability, and accessibility from multiple devices.
 
 Our lab uses [LabArchives](https://www.labarchives.com/) as our ELN
-system. Northwestern has an enterprise licence that so that all lab
+system. Northwestern has an enterprise license so that all lab
 members can have a free account. Getting access and training is part of
-[*On-boarding*](#getting-started-in-the-heart-gen-lab). LabArchives is
+[*Onboarding*](#getting-started-in-the-heart-gen-lab). LabArchives is
 required for hybrid wet/dry trainees and serves
 as a secondary notebook for dry-lab work to capture project notes that
 live outside GitHub.
@@ -660,8 +888,8 @@ facilitate collaboration and reproducibility.
 
 We have regular backup procedures for computational data, code, and
 analysis results to prevent data loss in case of hardware failures or
-accidents. This is a quarterly backup data, but individual team members
-should regularly backup their work computers to the HPC.
+accidents. Lab data are backed up quarterly, but individual team members
+should regularly back up their work computers to the HPC.
 
 ### Document Computational Workflows
 
@@ -681,10 +909,9 @@ findings.
 ### Regularly Review and Validate Entries
 
 We hold monthly code review sessions that are part of the entry
-validation process. This will ensure that electronic records are
-accuracy, completeness, and consistent. Anyone and everyone can have a
-small bug in their code, so these sessions are apart of our teams peer
-review and collaborative efforts to identify potential errors or
+validation process. This helps ensure that electronic records are accurate,
+complete, and consistent. Anyone can have a small bug in their code, so these
+sessions are part of our team's peer-review and collaborative efforts to identify potential errors or
 discrepancies.
 
 ### Provide Clear Attribution and Acknowledgment
@@ -707,8 +934,8 @@ management*](#data-management). By adhering to
 the following expectations, we ensure responsible data management
 practices that contribute to the advancement of our research and foster
 a collaborative environment within the lab. If you have any questions or
-require further clarification, please don\'t hesitate to discuss them
-with the Dr. Benjamin.
+require further clarification, please don't hesitate to discuss them
+with Dr. Benjamin.
 
 ### Data Collection and Management
 
@@ -733,10 +960,10 @@ development and production environments.
 
 **Data Storage:** Data should be stored securely in designated locations
 to prevent loss or unauthorized access. Team members are required to
-store their data on local platforms. Local storage should include secure
-network drives or servers designated by the lab. Some team members will
-be leading new data processing, raw data are required to be stored on
-both local and cloud storage.
+store their data on approved local platforms, including secure network drives
+or servers designated by the lab. Some team members will lead new
+data-processing efforts; in these cases, raw data must be stored in both local
+and cloud storage.
 
 **Data Backup:** Regular and automated data backups are mandatory to
 safeguard against data loss. Team members must ensure that data backups
@@ -753,15 +980,117 @@ leaving the lab, individuals are expected to transfer ownership of their
 data to Dr. Benjamin or designated successor. Access to lab data will be
 revoked for departing members to maintain data security. However,
 anonymized datasets may be retained for future reference with Dr.
-Benjamin\'s approval. Additionally, an agreement for secure data
+Benjamin's approval. Additionally, an agreement for secure data
 transfer can be arranged with a data use agreement.
+
+### Open-Access and Controlled-Access Data
+
+**Open-access data** are available without individual authorization from a data
+access committee or data provider. Public availability does not eliminate all
+responsibilities. Licenses, terms of use, consent limitations, attribution
+requirements, and ethical obligations may still apply.
+
+When working with open-access data:
+
+-   Confirm that the data are genuinely open access and review their license and
+    terms of use before downloading or redistributing them.
+-   Record the repository, accession number or persistent identifier, version,
+    download date, checksum when available, license, and required citation.
+-   Keep raw data read-only when practical and separate them from processed
+    data, results, and code.
+-   Do not assume that a derived dataset is open access merely because one input
+    was open. Combining open data with controlled, identifiable, or otherwise
+    sensitive data may change the classification of the result.
+-   Continue to protect participant privacy. Public or de-identified human data
+    should not be used to attempt re-identification.
+
+**Controlled-access data** require approval before access and are governed by
+requirements such as a Data Use Certification (DUC), Data Use Agreement (DUA),
+Institutional Review Board (IRB) protocol, informed consent, repository policy,
+or institutional data security plan. Controlled-access data may remain
+sensitive even when direct identifiers have been removed.
+
+The requirements of the applicable DUC, DUA, IRB protocol, data provider, and
+Northwestern policy supersede general guidance in this manual. Ask Dr. Benjamin
+and the appropriate institutional office when requirements are unclear.
+
+#### General Practices for Controlled-Access Data
+
+1.  **Obtain approval before access:** Use data only for the approved research
+    purpose and only after all required agreements, training, and institutional
+    approvals are active. Only individuals named or otherwise authorized under
+    those approvals may access the data. Never attempt to identify or contact
+    participants unless the governing documents explicitly permit it and the
+    required approvals are in place.
+2.  **Classify the data and approve the environment:** Before downloading data,
+    document their classification and confirm the approved storage, compute,
+    backup, and collaboration systems in the project's data security plan. Do
+    not assume that a personal computer, Quest, Bridges-2, GitHub, OneDrive,
+    Dropbox, or any other service is approved. Some NIH controlled-access data
+    have requirements that are not compatible with Quest without prior review.
+    Contact [Northwestern Research Data
+    Services](mailto:researchdata@northwestern.edu) for guidance.
+3.  **Limit access:** Use individual accounts, multifactor authentication, and
+    least-privilege permissions. Never share accounts or credentials. Maintain
+    a current list of authorized users and promptly remove access when a person
+    changes roles, leaves the project, or no longer requires the data.
+4.  **Use approved storage and transfer methods:** Keep controlled-access data
+    only in approved locations and use approved encrypted transfer methods. Do
+    not send data through email or Slack, create public or anonymous sharing
+    links, place data in personal cloud storage, or use unapproved removable
+    media. Avoid unnecessary local copies.
+5.  **Protect the entire workflow:** Treat raw data, temporary files, caches,
+    logs, backups, intermediate files, and potentially identifying derived data
+    as controlled until an authorized review determines otherwise. Do not
+    combine controlled-access data with other datasets unless the approved use
+    and agreements permit it.
+6.  **Keep controlled data out of Git:** Never commit controlled-access data,
+    participant or sample identifiers, sensitive metadata, credentials, or
+    revealing logs to GitHub—even in a private repository. Use synthetic or
+    approved public example data in code and documentation. Review staged files
+    and diffs before every commit; `.gitignore` is helpful but is not a security
+    control by itself.
+7.  **Review outputs before release:** Do not move results out of the approved
+    environment or share them externally until they have passed the required
+    disclosure review. Follow project-specific rules for aggregation,
+    small-cell suppression, figures, tables, model outputs, and other derived
+    products. Obtain approval before using results in manuscripts,
+    presentations, posters, or public repositories.
+8.  **Document use and attribution:** Record approvals, authorized users,
+    dataset versions, accession numbers, analysis locations, transfers,
+    renewals, expiration dates, and required acknowledgments. Cite and
+    acknowledge the data generators, repository, accession numbers, and funding
+    sources as required.
+9.  **Retain or destroy data correctly:** At the end of the approved period,
+    follow the DUC, DUA, repository, and institutional requirements for
+    renewal, return, archival, or verified destruction of all copies, including
+    backups and intermediate files. Document completion.
+10. **Report incidents immediately:** If controlled data are lost, exposed,
+    sent to the wrong person, placed in an unapproved location, or accessed by
+    an unauthorized person, stop further transfer or sharing and notify Dr.
+    Benjamin and Northwestern IT immediately. Do not delete or alter potential
+    evidence unless instructed. Follow all additional reporting requirements in
+    the DUC, DUA, IRB protocol, and repository policy. See Northwestern's
+    [information security incident
+    instructions](https://www.it.northwestern.edu/security/assistance/) or
+    email [security@northwestern.edu](mailto:security@northwestern.edu).
+
+Review the [NIH Genomic Data User Code of
+Conduct](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/accessing-data/user-code-of-conduct),
+[NIH Security Best Practices for Controlled-Access
+Data](https://grants.nih.gov/sites/default/files/flmngr/NIH-Security-BPs-for-Users-of-Controlled-Access-Data.pdf),
+[Northwestern guidance for protecting sensitive research
+data](https://www.it.northwestern.edu/departments/it-services-support/research/data-storage/protecting-the-sensitive-information-in-my-data.html),
+and [Quest data security
+guidance](https://www.it.northwestern.edu/departments/it-services-support/research/computing/quest/data-security-guidance.html)
+before working with controlled-access data.
 
 ### Data Ownership and Sharing
 
 **Transparent Data Sharing:** Transparent data sharing within the lab,
-particularly with the Dr. Benjamin, is essential for fostering
+particularly with Dr. Benjamin, is essential for fostering
 collaboration and ensuring research integrity. All team members are
-expected to share their data with the Dr. Benjamin regularly and
+expected to share their data with Dr. Benjamin regularly and
 proactively, providing updates on progress, challenges, and findings
 (see [*Meetings in the Lab*](#meetings-in-the-lab)).
 
@@ -772,13 +1101,13 @@ external datasets or collaborations. Before accessing or using external
 data sources, team members are responsible for reviewing and adhering to
 the terms and conditions specified in the DUAs. Any questions or
 concerns regarding DUAs should be addressed with Dr. Benjamin or the
-team member\'s designated supervisor. Our lab maintains a list of
+team member's designated supervisor. Our lab maintains a list of
 external data with DUAs attached to help with this.
 
 **Long-Term Archiving:** We deposit anonymized data in public
 repositories following institutional policies, ensuring long-term
 accessibility for future research. Team members should consult with Dr.
-Benjamin or designated data steward to determine the most suitable
+Benjamin or a designated data steward to determine the most suitable
 archiving platform and procedures for their datasets.
 
 ### Data Management Tools and Practices
@@ -795,7 +1124,7 @@ Visualization software such as `matplotlib`
 (`Python`) or `ggplot2` (`R`) can be
 used to create informative graphs, charts, and interactive dashboards
 (`plotly` or `shiny`) for presenting data
-insights. Our use of ELNs and `jupyter` means that
+insights. Our use of ELNs and `Jupyter` means that
 visualization is built within our notebooks.
 
 **Collaboration and Communication Tools:** Collaboration and
@@ -826,9 +1155,8 @@ relevant to your goals.
 
 An Individual Development Plan (IDP) serves as a personal strategic
 roadmap for achieving job-related, career-oriented, and professional
-development goals. They are valuable career resources, assisting team
-members mapping out their career trajectories and taking crucial initial
-steps to achieve their goals.
+development goals. IDPs are valuable career resources that help team members
+map their career trajectories and take crucial initial steps toward their goals.
 
 The IDP has five steps:
 
@@ -837,11 +1165,11 @@ The IDP has five steps:
     doing so, you can get a list of skills needed to achieve that goal.
 2.  **Self-assessment to identify areas of growth:** Evaluate current
     strengths and areas for improvement.
-3.  **Compare and contrast for areas of growth:** What is missing in
+3.  **Identify training gaps:** What is missing from
     your experience and training?
 4.  **Set achievable goals:** Make concrete plans to improve your skills
     with short- and long-term career goals.
-5.  **Monitoring, Assessing, and Adapting IDP:** Regularly review and
+5.  **Monitor, assess, and adapt the IDP:** Regularly review and
     update the IDP to reflect progress, changing circumstances, and
     evolving career aspirations.
 
@@ -849,7 +1177,7 @@ Create your IDP at <http://myidp.sciencecareers.org>.
 
 ### Scientific Writing
 
-Scientific writing is a life long journal of improvement. As such, our
+Scientific writing is a lifelong journey of improvement. As such, our
 lab prioritizes continued education on scientific writing. This includes
 hosting a weekly writing accountability group (WAG) for the lab. All
 trainees will be expected to attend at least one scientific writing
@@ -859,9 +1187,30 @@ organized as part of our annual retreat.
 **Books in the lab:**
 
 -   On Writing Well: The Classic Guide to Writing Nonfiction
--   The Scientist\'s Guide to Writing
+-   The Scientist's Guide to Writing
 -   How to Write and Publish a Scientific Paper
 -   The Elements of Style
+
+#### Abstract Writing
+
+-   [Identifying and Prioritizing Elements of a Research
+    Abstract](https://www.writing.northwestern.edu/resources-identifying-and-prioritizing-elements-of-a-research-abstract)
+    (Northwestern University)
+-   [Abstracts](https://writingcenter.unc.edu/tips-and-tools/abstracts/)
+    (UNC Writing Center)
+-   [Components of a Competitive
+    Abstract](https://abrcms.org/present-at-abrcms/competitive-abstract/)
+    (ABRCMS)
+-   [ASM abstract-writing
+    course](https://www.pathlms.com/asm/courses/43179)
+
+#### Paper Structure
+
+-   [Scientific Writing](https://writingcenter.unc.edu/tips-and-tools/sciences)
+    (UNC Writing Center)
+-   [Ten Simple Rules for Structuring
+    Papers](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1005619)
+    (*PLOS Computational Biology*)
 
 1.  Publications
 
@@ -896,13 +1245,13 @@ organized as part of our annual retreat.
     -   [Grant figures](https://www.biorender.com/learn/better-grant-figures)
     -   [NIH Boot Camp](https://www.publichealth.columbia.edu/academics/non-degree-special-programs/professional-non-degree-programs/skills-health-research-professionals-sharp-training/nih-grant-writing)
 
-### Science communication
+### Science Communication
 
-As part of all team members development, Dr. Benjamin will host an
-annual presentation workshop. This will be tailored to the team member
-make-up. However, it will always include poster presentations (i.e., 60
-sec, 5 min, 15 min) and oral presentations (i.e., 3 min, 10 min, or 45
-min). It may also include job talks and general science communication.
+As part of all team members' development, Dr. Benjamin will host an
+annual presentation workshop tailored to the team's composition. It will always
+include poster presentations (i.e., 60 seconds, 5 minutes, or 15 minutes) and
+oral presentations (i.e., 3 minutes, 10 minutes, or 45 minutes). It may also
+include job talks and general science communication.
 
 Before any major presentations, team members will be expected to
 practice with Dr. Benjamin during a [*one-on-one
@@ -938,20 +1287,20 @@ meetings*](#team-meetings).
 
 ### Conferences
 
-Attending conferences may be an essential component of a team members
+Attending conferences may be an essential component of a team member's
 professional development. Depending on the location, national
 conferences can be expensive to attend. All team members can expect Dr.
-Benjamin to find resources to attend one national conference every two
-years. These may include leveraging university or departmental
+Benjamin to seek funding for them to attend one national conference every two
+years. This may include leveraging university or departmental
 resources. Therefore, it is important that team members identify
 conferences at their annual performance review to plan accordingly. Dr.
-Benjamin encourages attending local conferences annual as part of
+Benjamin encourages attending local conferences annually as part of
 scientific communication training.
 
 1.  Local
 
     1. Chicago’s Premier Undergraduate Research Symposium (April)
-    2. Undergraudate Research & Arts Expo (May)
+    2. Undergraduate Research & Arts Expo (May)
     3. Annual Lewis Landsberg Research Day (September)
     4. Simpson Querrey Institute for Epigenetics Symposium (October)
 
@@ -967,7 +1316,7 @@ scientific communication training.
         Science](https://meetings.cshl.edu/meetingshome.aspx)
     3.  [Society for Neuroscience (SfN)](https://www.sfn.org/)
     4.  [Annual Biomedical Research Conference for Minoritized
-        Scientists (ABRCAMS)](https://abrcms.org/)
+        Scientists (ABRCMS)](https://abrcms.org/)
     5.  [Society for the Advancement of Chicanos/Hispanics and Native
         Americans in Science (SACNAS)](https://www.sacnas.org/)
 
@@ -991,8 +1340,8 @@ essential tasks are completed in a timely manner. As such, we have a
 hybrid, flexible policy.
 
 **Core Hours:** Team members are expected to be available for
-collaborations, meetings, and communications from 0900 to 1800. This is
-depend on team dynamics and project requirements (i.e., collaborator in
+collaborations, meetings, and communications from 0900 to 1800. This may
+depend on team dynamics and project requirements (i.e., a collaborator in
 a different time zone). In general, team members can expect Dr. Benjamin
 to communicate during these core hours. Full-time staff should plan to
 work from the office **at least three days per week**.
@@ -1003,8 +1352,8 @@ obligations or commute constraints. Schedules are adjustable as long as
 team members meet their work responsibilities and communicate
 effectively with other team members.
 
-**Expected Work Hours:** As part of academia the needed working hours to
-complete projects will ebb and flow. To promote a healthy work-life
+**Expected Work Hours:** In academia, the hours needed to complete projects
+will ebb and flow. To promote a healthy work-life
 balance and prevent burnout, full-time team members are encouraged to
 work no more than 160 hours a month. While this is roughly 40 hours a
 week, the allocation of these hours is flexible. Undergraduate and high
@@ -1015,21 +1364,22 @@ school year.
 computational lab. Monday is our official work-from-home day. A full
 in-person work day consists of **at least four hours in the office**.
 
-[Fully remote team members will be expected to attend the annual lab retreat. Travel and accommodations for this retreat will be provided by the lab.]:
+**Fully Remote Team Members:** Fully remote team members are expected to attend
+the annual lab retreat. The lab will provide travel and accommodations.
 
 **Breaks and Rest Periods:** It is important to take regular breaks and
 rest periods throughout the workday to prevent fatigue and maintain
 productivity. Please remember to step away from your screens, stretch,
-and recharge periodically -- every hour if you can manage it.
+and recharge periodically—every hour if you can manage it.
 
 **Monitoring and Support:** We provide support and resources to help our
 team members manage their workloads effectively. This includes regularly
-monitor work hours, workload distribution, and individual well-being to
+monitoring work hours, workload distribution, and individual well-being to
 identify any signs of excessive stress or overwork. Please do not
 hesitate to use a personal/mental health day when you need one.
 
 **Feedback and Evaluation:** This is a working policy. As such, we will
-be continuously evaluating its effectiveness with regard to team members
+continuously evaluate its effectiveness with regard to team members'
 work hours, schedule flexibility, and overall satisfaction with the
 policy. We will use this feedback to refine and improve the work hour
 policy to better meet the needs of the team.
@@ -1037,7 +1387,7 @@ policy to better meet the needs of the team.
 ### Time Off
 
 In our lab, open communication and mutual respect are fundamental
-principles when it comes to requesting time off. Here\'s how team
+principles when requesting time off. Here's how team
 members should inform Dr. Benjamin about their need for time off:
 
 **Notification Process:** Team members should notify Dr. Benjamin of
@@ -1050,8 +1400,8 @@ advance to allow for proper planning and coordination.
 time-off requests through a variety of communication channels, including
 email or Slack. Slack is recommended for both time-off requests and
 additional work-from-home requests. An in-person communication should be
-followed by either an email or Slack message for Dr. Benjamin\'s record
-keeping. Regardless of the communication method, clarity and
+followed by either an email or Slack message for Dr. Benjamin's
+records. Regardless of the communication method, clarity and
 professionalism are expected.
 
 **Expectation of Time Away:** Team members are encouraged to take time
@@ -1060,14 +1410,14 @@ obligations, and professional development. The lab culture supports a
 healthy work-life balance, and members should feel empowered to take
 time off when necessary without fear of judgment or reprisal.
 
-**Flexibility and Understanding:** Dr. Benjamin understand that
+**Flexibility and Understanding:** Dr. Benjamin understands that
 unforeseen circumstances may arise, and team members may need to adjust
 their schedules or take time off on short notice. While advance notice
-is preferred, Dr. Benjamin am committed to being flexible and
+is preferred, Dr. Benjamin is committed to being flexible and
 accommodating when feasible, provided that lab activities can continue
 smoothly and deadlines can be met.
 
-**Dissuading Time Off:** While Dr. Benjamin recognize the importance of
+**Requests to Postpone Time Off:** While Dr. Benjamin recognizes the importance of
 taking time off for self-care and personal responsibilities, there may
 be instances where urgent deadlines, critical experiments, or team
 commitments necessitate the postponement of planned time off. In such
@@ -1076,7 +1426,7 @@ explaining the rationale behind the request to defer time off and
 seeking to find mutually acceptable solutions.
 
 **Planning Ahead:** To ensure that lab activities can continue smoothly
-during a member\'s absence, Dr. Benjamin encourages team members to plan
+during a member's absence, Dr. Benjamin encourages team members to plan
 ahead and delegate tasks or responsibilities as necessary. By
 proactively identifying potential bottlenecks or dependencies in
 projects, team members can minimize disruptions and facilitate a
@@ -1100,7 +1450,7 @@ foster a culture of well-being and productivity in our lab.
 
 In our lab, we uphold a code of conduct to maintain a safe, respectful,
 and productive work environment. While some expectations may seem
-implicit, it\'s essential to make them explicit to ensure clarity and
+implicit, it's essential to make them explicit to ensure clarity and
 consistency across the team.
 
 This Code of Conduct is a living document and may be subject to revision
@@ -1115,7 +1465,7 @@ Here are the expectations regarding various aspects of lab conduct.
     **Respectful Communication:** Treat all members of the group with
     respect, courtesy, and inclusivity. Engage in constructive
     criticism and maintain a professional tone in all communications.
-    This means to avoid discriminatory or offensive language, behavior,
+    This means avoiding discriminatory or offensive language, behavior,
     or jokes that may create a hostile or unwelcoming environment.
 
     **Open Communication and Transparency:** Share ideas, data, and
@@ -1129,7 +1479,7 @@ Here are the expectations regarding various aspects of lab conduct.
     assisting others. Communicate openly and honestly with team members
     and collaborators, providing timely updates on progress,
     challenges, and results. Listen actively and respectfully to
-    others\' viewpoints, seeking to understand diverse perspectives and
+    others' viewpoints, seeking to understand diverse perspectives and
     foster constructive dialogue.
 
 2.  Research Integrity and Reproducibility
@@ -1207,21 +1557,21 @@ all team members. We recognize that research trainees and staff have
 different needs and timelines, so we use different approaches to
 performance reviews.
 
-1.  Research Trainees (degree holders)
+1.  Postbaccalaureate, Graduate, and Postdoctoral Trainees
 
     Research trainees include postbaccalaureate (postbacs), graduate
     students, and postdoctoral fellows.
 
     **Frequency:** We conduct formal reviews at least annually, often
-    coinciding with a trainees thesis committee meetings and/or annual
-    [*Individual Development Plans*](#individual-development-plans). This is adjusted for each
+    coinciding with a trainee's thesis committee meeting or annual
+    [*Individual Development Plan*](#individual-development-plans) review. This is adjusted for each
     trainee based on their Mentoring Agreement.
 
     **Format:** Reviews will involve a discussion based on your IDP
     goals, progress made, and any areas requiring further development.
     We may also include program-specific review forms, depending on
     departmental requirements. Prior to scheduling committee meetings,
-    all trainees will have a one-on-one specific to reviewing progress
+    all trainees will have a one-on-one meeting dedicated to reviewing progress
     and professional development.
 
     **Criteria:** Reviews will focus on research progress, publication
@@ -1233,11 +1583,10 @@ performance reviews.
     alone. Other committee members will conduct a separate review during
     thesis committee meetings.
 
-2.  Research Trainees (non-degree holders)
+2.  Undergraduate and High School Trainees
 
-    In addition to postbacs, graduate students, and postdoctoral
-    fellows, undergraduate and high school level research trainees will
-    also have annual or seasonal performance reviews.
+    Undergraduate and high-school research trainees will have annual or
+    seasonal performance reviews.
 
     **Summer trainees:** For trainees who are with the lab for a summer,
     Dr. Benjamin will conduct a review during the exit interview (see
@@ -1260,7 +1609,7 @@ performance reviews.
 
     **Frequency:** Formal reviews will be conducted annually, following
     institutional policies and procedures. These reviews typically occur
-    around the anniversary of the employee\'s start date.
+    around the anniversary of the employee's start date.
 
     **Format:** Reviews will use the standard university staff
     performance review form. The review process will include a
@@ -1279,10 +1628,10 @@ performance reviews.
     potentially in consultation with other team members who work closely
     with the staff member being reviewed.
 
-4.  Additionally Considerations
+4.  Additional Considerations
 
-    In addition the above performance reviews, team members will get
-    weekly regular input and feedback on their work and progress during
+    In addition to the performance reviews above, team members will receive
+    regular weekly input and feedback on their work and progress during
     [*One-on-One Individual Meetings*](#one-on-one-individual-meetings). Furthermore, reviews are
     additional opportunities to discuss training needs and opportunities
     for skill development.
@@ -1296,7 +1645,7 @@ responsible, ethical, and transparent use that protects research integrity,
 privacy, and reproducibility.
 
 **Scope:** These expectations apply to generative **AI/LLM tools** used for
-writing, code assistance, troubleshooting, or figure/visual content generation.
+writing, code assistance, troubleshooting, or figure and visual-content generation.
 Use of conventional ML methods as part of research (e.g., training models,
 statistical learning) is covered by standard scientific and reproducibility
 practices.
@@ -1310,7 +1659,7 @@ Practical expectations include:
   AI/LLMs. Learning in this lab must be done through documentation, course
   material, mentors/peers, and your own problem-solving. If you are unsure what
   counts as “learning,” assume AI is not permitted and ask Dr. Benjamin.
-* **Projects use:** AI/LLM use is not the default in research projects. If AI is
+* **Project use:** AI/LLM use is not the default in research projects. If AI is
   permitted for a project, it must be pre-scoped to a narrow, specific task
   approved by Dr. Benjamin (e.g., clarifying an error message or pointing to
   documentation). Broad or open-ended use (e.g., “help me write this,” “debug my
@@ -1388,9 +1737,9 @@ Practical expectations include:
     interpret AI models should be appropriately recognized. AI does not
     meet our requirements for authorship, given the need for
     accountability. AI and LLM tools may not be
-    listed as an author on any of our scholarly work. AI and LLM must be
+    listed as an author on any of our scholarly work. AI and LLM tools must be
     acknowledged if used to generate figures or in the writing process.
-    Team members using AI and LLM are accountable for the accuracy,
+    Team members using AI and LLM tools are accountable for the accuracy,
     integrity, and originality of their work.
 
 4.  Communication and Reporting
@@ -1443,9 +1792,8 @@ outlines expectations for both planned and unforeseen departures.
     development.
 
     **Voluntary Separation:** If you decide to leave the lab for another
-    position, please inform Dr. Benjamin within at least 6 weeks of
-    notice. The six weeks of notice is so that projects and publications
-    can be managed.
+    position, please give Dr. Benjamin at least six weeks' notice. This notice
+    allows time to manage projects and publications.
 
 2.  Unforeseen Departures
 
@@ -1467,17 +1815,17 @@ outlines expectations for both planned and unforeseen departures.
     or connect you with alternative research positions. However, if no
     suitable options are available, involuntary lab departure due to
     funding limitations may be necessary. Dr. Benjamin will give four
-    months of notice if possible in this situation.
+    months' notice if possible in this situation.
 
     **Annual Renewal:** Staff positions are renewed annually; at least five
-    weeks notice will be given if a position is not renewed due to funding
-    limitations or after corrective plans.
+    weeks' notice will be given if a position is not renewed because of funding
+    limitations or unresolved concerns following a corrective action plan.
 
-3.  General considerations
+3.  General Considerations
 
     **Data and Records:** While the goal at the HEART-GeN lab is to keep
-    well organized data, one month before planned departure research
-    data and protocols should be up-to-date on LabArchives. Additionally, Dr.
+    well-organized data, research data and protocols should be up to date in
+    LabArchives one month before a planned departure. Additionally, Dr.
     Benjamin will schedule extra meetings to ensure proper archiving and
     handover of project materials.
 
@@ -1485,17 +1833,17 @@ outlines expectations for both planned and unforeseen departures.
     Benjamin and other team members to determine the best course of
     action for completion or continuation.
 
-    **Publications:** Prepare to continued collaborations with Dr.
+    **Publications:** Prepare to continue collaborating with Dr.
     Benjamin and your co-authors to complete submissions of any
-    manuscripts in progress. The goal for all trainees would be to have
-    first author manuscripts submitted before departures.
+    manuscripts in progress. The goal for all trainees is to have
+    first-author manuscripts submitted before departure.
 
     **Communication:** Open and transparent communication is key. Please
     discuss any questions or concerns regarding your departure from the
-    lab with Dr. Benjamin as soon as possible. The more time notice is
-    given the better as Dr. Benjamin can potentially offer career
-    advancement within the HEART-GeN lab or help with outside career
-    advancement. When you succeed, the HEART-GeN lab succeeds.
+    lab with Dr. Benjamin as soon as possible. The more notice you give, the
+    better, as Dr. Benjamin may be able to offer career
+    advancement within the HEART-GeN lab or help identify external career
+    opportunities. When you succeed, the HEART-GeN lab succeeds.
 
 # Troubleshooting and How to Get Help
 
@@ -1510,13 +1858,13 @@ scientific integrity.
 
 Everyone makes mistakes, including Dr. Benjamin! The important thing is
 to learn from them and take steps to prevent them from happening again.
-If you make a mistake, **don\'t panic!**
+If you make a mistake, **don't panic!**
 
 1.  **Take a Breath and Assess:** Take a moment to compose yourself and
     assess the situation. Consider the potential impact of the mistake.
 2.  **Stabilize the Situation:** If possible, take steps to prevent the
     mistake from causing further problems.
-3.  **Get Help:** Don\'t hesitate to seek help from Dr. Benjamin or
+3.  **Get Help:** Don't hesitate to seek help from Dr. Benjamin or
     another team member with experience. We are here to support each
     other.
 4.  **Address Mistake:** Address any immediate consequences of the
@@ -1525,17 +1873,17 @@ If you make a mistake, **don\'t panic!**
 5.  **Disclose the Mistake:** Come forward and honestly explain the
     mistake to Dr. Benjamin as soon as possible. Transparency is key to
     maintaining trust and taking corrective steps.
-6.  **Learn and Teach:** We\'ll analyze the mistake together to
+6.  **Learn and Teach:** We'll analyze the mistake together to
     understand what went wrong and how to prevent it from happening
     again. We will share this learning experience with the team to
     benefit everyone.
 
 ### Problems Happen (Not Necessarily Mistakes)
 
-Sometimes, problems happen that aren\'t anyone\'s fault. For example
-software version changes that break a computational pipeline or a
-software update on the computing cluster has unexpectedly interrupted an
-analysis. The key is to communicate and collaborate to find solutions.
+Sometimes, problems happen that aren't anyone's fault. For example, a software
+version change may break a computational pipeline, or an update on the
+computing cluster may unexpectedly interrupt an analysis. The key is to
+communicate and collaborate to find solutions.
 If a problem happens, you can follow the above steps (2-6) to help
 troubleshoot.
 
@@ -1548,14 +1896,14 @@ spark creativity and lead to better outcomes.
 
 ### Conflict in the lab
 
-**It\'s Inevitable:** We all have different backgrounds, work styles,
-and approaches. Disagreements are bound to happen, and that\'s okay.
+**It's Inevitable:** We all have different backgrounds, work styles,
+and approaches. Disagreements are bound to happen, and that's okay.
 
 **Focus on Solutions:** The key is to focus on finding solutions rather
 than dwelling on the problem itself. Approach conflict as an opportunity
 to learn from each other and improve communication.
 
-**Diversity is a Strength:** Remember the our lab thrives on the unique
+**Diversity is a Strength:** Remember that our lab thrives on the unique
 perspectives and skills each team member brings. Embrace these
 differences and see them as assets to overcome challenges and achieve
 better results.
@@ -1563,7 +1911,7 @@ better results.
 ### My Expectations for Conflict Resolution
 
 **Open Communication:** The most important tool for resolving conflict
-is clear and respectful communication. Actively listen to each other\'s
+is clear and respectful communication. Actively listen to each other's
 viewpoints and express your own concerns constructively.
 
 **Focus on the Issue:** Keep the discussion focused on the specific
@@ -1572,8 +1920,8 @@ issue at hand, avoiding personal attacks or blame games.
 **Willingness to Compromise:** Be prepared to find common ground and
 explore solutions that work for everyone involved.
 
-**Seek Help if Needed:** If you\'re struggling to resolve a conflict
-with a team member, don\'t hesitate to come to Dr. Benjamin for guidance
+**Seek Help if Needed:** If you're struggling to resolve a conflict
+with a team member, don't hesitate to come to Dr. Benjamin for guidance
 or mediation.
 
 ### Conflict Resolution Strategies
@@ -1584,28 +1932,28 @@ Here are some strategies that can be helpful when navigating conflict:
 addressing the issue. Schedule a dedicated time to talk things through
 calmly and rationally.
 
-**Active Listening:** Truly listen to the other person\'s perspective
+**Active Listening:** Truly listen to the other person's perspective
 without interrupting. Try to understand their concerns and motivations.
 
-**\"I\" Statements:** Use \"I\" statements to express your feelings and
-needs without placing blame. For example, \"I feel frustrated when...\"
-instead of \"You always...\"
+**"I" Statements:** Use "I" statements to express your feelings and
+needs without placing blame. For example, "I feel frustrated when..."
+instead of "You always..."
 
 **Brainstorm Solutions:** Work together to brainstorm potential
-solutions that address everyone\'s concerns. Be open to creative
+solutions that address everyone's concerns. Be open to creative
 approaches.
 
 Remember, conflict can be a catalyst for positive change. By following
 these principles and practicing open communication, we can effectively
 navigate disagreements and build a more cohesive and productive team.
 
-## How to ask for coding related help
+## How to Ask for Coding-Related Help
 
 In general, please follow the [Bioconductor composing
 guidelines](http://bioconductor.org/help/support/posting-guide/#composing)
 when asking for help online.
 
-### Avoid screenshots -- use text
+### Avoid Screenshots—Use Text
 
 While a screenshot can contain a lot of information, it can make it
 difficult to extract the information needed to troubleshoot the problem.
@@ -1613,11 +1961,11 @@ difficult to extract the information needed to troubleshoot the problem.
 **Benefits of Text:**
 
 -   **Clarity and Precision:** Text allows for clear and precise
-    descriptions of the error, pinpointing the exact issue you\'re
+    descriptions of the error, pinpointing the exact issue you're
     facing.
 -   **Copy-Pasting Relevant Code:** Code snippets can be copied and
-    pasted directly into error reports, allowing for others to
-    reproduction of the problem.
+    pasted directly into error reports, allowing others to reproduce the
+    problem.
 -   **Searchability:** Text is searchable, making it easier for others
     to find solutions to similar errors in the future.
 
@@ -1652,8 +2000,8 @@ practices that govern our conduct within this laboratory.
 ### Honesty and Objectivity
 
 We strive to report data accurately and objectively, avoiding bias or
-the manipulation of results. We are committed to providing truthful
-representation of our research findings (i.e., avoid
+the manipulation of results. We are committed to providing a truthful
+representation of our research findings (i.e., avoiding
 [*falsification*](#falsification),
 [*fabrication*](#fabrication), or
 [*plagiarism*](#plagiarism)).
@@ -1661,24 +2009,23 @@ representation of our research findings (i.e., avoid
 1.  Falsification
 
     Falsification entails altering or withholding research results
-    (data) to bolster assertions, hypotheses, or other data. This can
+    (data) to support assertions or hypotheses. This can
     involve manipulating research instruments, materials, or procedures.
     Additionally, falsification encompasses distorting data through the
-    manipulation of images or representations, including reading
-    excessive meaning into the data.
+    manipulation of images or representations, including
+    overinterpreting the data.
 
-    To avoid this, our lab writes all code within scripts and shares
-    them using GitHub. Furthermore, all original images must be archived
+    To avoid this, our lab writes all code in scripts and shares it
+    through GitHub. Furthermore, all original images must be archived
     for lab access.
 
 2.  Fabrication
 
     Fabrication involves creating or adding data, observations, or
     descriptions that did not genuinely arise during data collection or
-    experimentation. For instance, it can happen when \"filling out\"
-    additional experiment runs. It is crucial that claims regarding
-    results are supported by complete datasets, as is typically
-    expected. Making claims based on incomplete or assumed results
+    experimentation. For instance, it can happen when inventing
+    additional experimental runs. It is crucial that claims about
+    results are supported by complete datasets. Making claims based on incomplete or assumed results
     constitutes a form of fabrication.
 
     To avoid fabrication, our lab keeps documentation of all raw and
@@ -1689,10 +2036,10 @@ representation of our research findings (i.e., avoid
 
 3.  Plagiarism
 
-    Plagiarism stands as one of the most prevalent forms of research
-    misconduct. It\'s essential for researchers to diligently cite all
+    Plagiarism is one of the most prevalent forms of research
+    misconduct. It's essential for researchers to diligently cite all
     sources and maintain meticulous notes. Using or presenting the work
-    of others as one\'s own, even inadvertently, constitutes plagiarism.
+    of others as one's own, even inadvertently, constitutes plagiarism.
     Moreover, when reviewing privileged information, such as grants or
     journal article manuscripts for peer review, researchers must
     acknowledge that such material cannot be employed for personal use
@@ -1701,7 +2048,7 @@ representation of our research findings (i.e., avoid
 
     To help with this, our lab uses Zotero as a citation manager.
     Getting access to the citation manager is part of
-    [*On-boarding*](#getting-started-in-the-heart-gen-lab).
+    [*Onboarding*](#getting-started-in-the-heart-gen-lab).
 
 ### Data Management
 
@@ -1710,15 +2057,15 @@ research data (raw and processed) will be meticulously documented,
 organized, and stored securely. This includes code for processing the
 data with detailed protocol documentation.
 
-Experimental protocols will be published in the Methods section of our
-publications, shared through GitHub, and detailed protocols via online
-platforms (i.e., protocols.io, scicrunch.org, or nature protocols) to
+Experimental protocols will be described in the Methods sections of our
+publications, shared through GitHub, and published in detail through online
+platforms (i.e., protocols.io, SciCrunch, or *Nature Protocols*) to
 facilitate transparency, reproducibility, and the verification of
 findings by others.
 
 To facilitate the reprocessing of raw data, we will share the developed
 pipelines on GitHub and Zenodo, along with the software versions used
-(as detailed in the manuscript methods). All software will be accessible
+(as detailed in each manuscript's Methods section). All software will be accessible
 on GitHub and Zenodo, with Python tools additionally available on PyPI
 and R tools on R/Bioconductor. These resources will be accessible for
 download upon the initial manuscript submission. Cloud-based tools,
@@ -1728,10 +2075,10 @@ data manipulation.
 ### Authorship
 
 Authorship will be assigned based on contributions to the research
-project. For our lab, we determine project lead(s) -- first author or
-co-first authors -- at the start of every project. Every three months,
-authorship will be adjusted based on contribution. For formal analysis,
-this will be cross-referenced with the project\'s GitHub repository
+project. For our lab, we determine the project lead or leads—first author or
+co-first authors—at the start of every project. Every three months,
+authorship will be adjusted based on contributions. For formal evaluation,
+this will be cross-referenced with the project's GitHub repository
 activity and the anonymous quarterly project progression survey.
 
 Guidelines:
@@ -1746,10 +2093,10 @@ Guidelines:
         intellectual content;
     3.  sufficient participation in the work to take public
         responsibility for appropriate portions of the content;
-    4.  final approval of the version to be published
+    4.  final approval of the version to be published.
 3.  Acquisition of funding, collection of data (for example, from a
     fee-for-service core facility), or general supervision of the
-    research group (e.g. by former or current mentors not directly
+    research group (e.g., by former or current mentors not directly
     involved in the conception or execution of the publication), alone,
     does not justify authorship.
 4.  Financial and material support should be disclosed.
@@ -1758,13 +2105,13 @@ Guidelines:
     as an author, is not permissible. Making minor revisions to an
     article or manuscript that is ghost-written does not justify
     authorship.
-6.  AI generated text or copy-editing must be disclosed in the
-    acknowledgments
-7.  Copy editor(s) must be included in the acknowledgments
+6.  AI-generated text or copyediting must be disclosed in the
+    acknowledgments.
+7.  Copy editors must be included in the acknowledgments.
 
-Our lab uses a authorship rubric to help with determine authorship and
-author order. This rubric is used at the end of the project in
-preparation to paper submission.
+Our lab uses an authorship rubric to help determine authorship and
+author order. This rubric is used at the end of the project when preparing a
+paper for submission.
 
 Our authorship policy follows the [ICMJE](https://www.icmje.org/)
 (International Committee of Medical Journal Editors) recommendations:
@@ -1772,42 +2119,42 @@ Our authorship policy follows the [ICMJE](https://www.icmje.org/)
 
 ### Conflicts of Interest
 
-Public trust in the scientific process hinge, in part, on the
+Public trust in the scientific process hinges, in part, on the
 transparent handling of our relationships and activities throughout the
-research lifecycle -- from planning and implementation to writing, peer
+research lifecycle—from planning and implementation to writing, peer
 review, editing, and publication. The potential for conflicts of
 interest and bias arises when professional judgment concerning a primary
 interest, such as patient welfare or research validity, may be
 influenced by secondary interests, like financial gain. Perceptions of
 conflict of interest are as significant as actual conflicts.
 
-Disagreements may arise regarding whether an author\'s relationships or
+Disagreements may arise regarding whether an author's relationships or
 activities constitute conflicts. While the presence of such
-relationships doesn\'t necessarily indicate problematic influence on a
-paper\'s content, perceptions of conflict can undermine trust in science
+relationships doesn't necessarily indicate problematic influence on a
+paper's content, perceptions of conflict can undermine trust in science
 as much as actual conflicts. Ultimately, readers should be empowered to
-judge whether an author\'s relationships and activities are relevant to
-a paper\'s content, necessitating transparent disclosures. An author\'s
+judge whether an author's relationships and activities are relevant to
+a paper's content, necessitating transparent disclosures. An author's
 full disclosure signals a commitment to transparency and bolsters trust
 in the scientific process.
 
-Financial relationships---such as employment, consultancies, stock
-ownership, honoraria, patents, and paid expert testimony---are easily
+Financial relationships—such as employment, consultancies, stock
+ownership, honoraria, patents, and paid expert testimony—are easily
 identifiable and often perceived as potential conflicts of interest,
 posing risks to the credibility of journals, authors, and science
 itself. Other interests, including personal relationships, academic
 competition, and intellectual beliefs, may also represent or be
 perceived as conflicts.
 
-Authors should refrain from agreements with study sponsors---both
-for-profit and non-profit---that impede access to all study data or
+Authors should refrain from agreements with study sponsors—both
+for-profit and nonprofit—that impede access to all study data or
 hinder their ability to analyze, interpret, and publish manuscripts
 independently. Policies dictating where authors may publish infringe
 upon academic freedom principles. Authors may be required to share such
 agreements with the journal in confidence.
 
 Deliberately omitting relationships or activities specified on the
-journal\'s disclosure form constitutes misconduct. Disclosure of
+journal's disclosure form constitutes misconduct. Disclosure of
 potential conflicts extends beyond direct support for the work. The
 funding statement within a manuscript should only include direct support
 for the described work, while individual contributions should be
@@ -1847,20 +2194,20 @@ blog posts that are accessible to the public.
 
 ## Resources {#resources-2}
 
--   Roles & Responsibilities
+-   Roles and Responsibilities
     -   [Defining the Role of Authors and
         Contributors](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html)
-    -   [Disclosure of Financial and Non-Financial Relationships and
+    -   [Disclosure of Financial and Nonfinancial Relationships and
         Activities, and Conflicts of
         Interest](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/author-responsibilities--conflicts-of-interest.html)
     -   [Responsibilities in the Submission and Peer-Review
-        Process](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/responsibilities-in-the-submission-and-peer-peview-process.html)
+        Process](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/responsibilities-in-the-submission-and-peer-review-process.html)
     -   [Protection of Research
         Participants](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/protection-of-research-participants.html)
 -   University resources
     -   RCR training program: Collaborative Institutional Training
         Initiative (CITI Program)
-    -   Research ethics office:
+    -   [Northwestern Research Integrity](https://researchintegrity.northwestern.edu/)
 -   The Office of Research Integrity (ORI): <https://ori.hhs.gov/>
     (infographics below)
     -   [Write Ethically from Start to
@@ -1873,7 +2220,7 @@ blog posts that are accessible to the public.
         Misconduct](https://ori.hhs.gov/sites/default/files/2018-04/7_Research_Trainees.pdf)
     -   [What Drives People to Commit Research
         Misconduct?](https://ori.hhs.gov/sites/default/files/2018-04/12_Potential_Drivers.pdf)
-    -   [Authorship Practices To Avoid
-        conflicts](https://ori.hhs.gov/sites/default/files/2018-09/Authorship%20Practices%20to%20Avoid%20Conflicts_Rasterized.pdf)
+    -   [Authorship Practices to Avoid
+        Conflicts](https://ori.hhs.gov/sites/default/files/2018-09/Authorship%20Practices%20to%20Avoid%20Conflicts_Rasterized.pdf)
     -   [Slippery Slope to Research
         Misconduct](https://ori.hhs.gov/sites/default/files/2018-12/Slippery%20Slope%20RM%20Rasterized.pdf)

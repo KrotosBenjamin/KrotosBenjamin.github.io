@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "HEART-GeN lab publications and pre-prints"
-description: The HEART-GeN lab's publications are listed. Key publications from Dr. Kynon J Benjamin's HEART-GeN group are available for download. Links to all publications are included.
+title: "HEART-GeN lab publications and preprints"
+description: Browse publications and preprints from Dr. Kynon J Benjamin and the HEART-GeN lab, with links to full text and selected PDF downloads.
 permalink: /heart-gen-publications/
 toc: true
 author_profile: true
@@ -27,7 +27,7 @@ PMID: [39071265](https://www.biorxiv.org/content/10.1101/2024.07.13.603370v2).
 Evans, TA, Feltrin, AS, **Benjamin, KJ**, Katipalli, T, Hyde, TM,
 Kleinman, JE, Weinberger, DR, Paquola, ACM, and Jennifer A Erwin.
 "Lifespan analysis of repeat expression reveals age-dependent upregulation
-of HERV-K in the neurotypcial human brain." *medRxiv*. 2024.
+of HERV-K in the neurotypical human brain." *medRxiv*. 2024.
 PMID: [38797538](https://www.medrxiv.org/content/10.1101/2024.05.17.24307184v1).
 
 ## Publications
@@ -64,7 +64,7 @@ PMID: [38332235](https://pubmed.ncbi.nlm.nih.gov/38332235/).
 
 ### 2023
 
-**Benjamin, KJM**, Katipalli, T and Apuã CM Paquola. "dRFEtools:
+**Benjamin, KJM**, Katipalli, T, and Apuã CM Paquola. "dRFEtools:
 dynamic recursive feature elimination for omics." *Bioinformatics*. 2023.
 PMID: [37632789](https://doi.org/10.1093/bioinformatics/btad513).
 [PDF]({{site.url}}/assets/papers/BenjaminKJM_2023_drfetools.pdf).
@@ -105,7 +105,7 @@ Sawada, T, **Benjamin, KJM**, Brandtjen, AC, Tietze, E, Allen, SJ,
 Paquola, ACM, Kleinman, JE, Hyde, TM, and Jennifer A Erwin.
 "Generation of four postmortem dura-derived iPS cell lines from four
 control individuals with genotypic and brain-region-specific
-transcrptomic data available through the BrainSEQ consortium."
+transcriptomic data available through the BrainSEQ consortium."
 *Stem Cell Research*. 2020.
 PMID: [32446240](https://doi.org/10.1016/j.scr.2020.101806).
 
