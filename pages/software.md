@@ -51,7 +51,7 @@ framework for running elastic net regression with boosting across thousands of
 CpG sites or regions, leveraging GPU acceleration.
 
 It supports SNP preprocessing, cis-window filtering, LD clumping, missing data
-imputation, and phenotype integration — all optimized for large-scale epigenomics.
+imputation, and phenotype integration -- all optimized for large-scale epigenomics.
 
 PyPI: <https://pypi.org/project/genboostgpu/>
 

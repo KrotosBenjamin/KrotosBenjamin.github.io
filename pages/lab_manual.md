@@ -187,8 +187,8 @@ identifying and reserving these spaces.
 At Northwestern FSM, meeting spaces can be reserved through:
 
 * **Feinberg Room Scheduler (EMS WebApp)**
-  Most conference rooms—including those in Lurie, Simpson Querrey (SQBRC),
-  Tarry, Searle, and McGaw—are booked through the campus-wide EMS platform.
+  Most conference rooms -- including those in Lurie, Simpson Querrey (SQBRC),
+  Tarry, Searle, and McGaw -- are booked through the campus-wide EMS platform.
   *(Accessible with Northwestern credentials.)*
 
 * **Departmentally Controlled Rooms**
@@ -206,7 +206,7 @@ At Northwestern FSM, meeting spaces can be reserved through:
 When booking meeting space:
 
 * **Check availability** through EMS or the appropriate department’s calendar.
-* **Book early**—rooms fill quickly, especially Monday–Thursday between 9 AM and 3 PM.
+* **Book early** -- rooms fill quickly, especially Monday–Thursday between 9 AM and 3 PM.
 * **Always include:**
 
   * Meeting title (e.g., “HEART-GeN Weekly Meeting”)
@@ -1046,7 +1046,7 @@ and the appropriate institutional office when requirements are unclear.
     and agreements permit it.
 6.  **Keep controlled data out of Git:** Never commit controlled-access data,
     participant or sample identifiers, sensitive metadata, credentials, or
-    revealing logs to GitHub—even in a private repository. Use synthetic or
+    revealing logs to GitHub -- even in a private repository. Use synthetic or
     approved public example data in code and documentation. Review staged files
     and diffs before every commit; `.gitignore` is helpful but is not a security
     control by itself.
@@ -1370,7 +1370,7 @@ the annual lab retreat. The lab will provide travel and accommodations.
 **Breaks and Rest Periods:** It is important to take regular breaks and
 rest periods throughout the workday to prevent fatigue and maintain
 productivity. Please remember to step away from your screens, stretch,
-and recharge periodically—every hour if you can manage it.
+and recharge periodically -- every hour if you can manage it.
 
 **Monitoring and Support:** We provide support and resources to help our
 team members manage their workloads effectively. This includes regularly
@@ -1953,7 +1953,7 @@ In general, please follow the [Bioconductor composing
 guidelines](http://bioconductor.org/help/support/posting-guide/#composing)
 when asking for help online.
 
-### Avoid Screenshots—Use Text
+### Avoid Screenshots -- Use Text
 
 While a screenshot can contain a lot of information, it can make it
 difficult to extract the information needed to troubleshoot the problem.
@@ -2075,8 +2075,8 @@ data manipulation.
 ### Authorship
 
 Authorship will be assigned based on contributions to the research
-project. For our lab, we determine the project lead or leads—first author or
-co-first authors—at the start of every project. Every three months,
+project. For our lab, we determine the project lead or leads -- first author or
+co-first authors -- at the start of every project. Every three months,
 authorship will be adjusted based on contributions. For formal evaluation,
 this will be cross-referenced with the project's GitHub repository
 activity and the anonymous quarterly project progression survey.
@@ -2121,7 +2121,7 @@ Our authorship policy follows the [ICMJE](https://www.icmje.org/)
 
 Public trust in the scientific process hinges, in part, on the
 transparent handling of our relationships and activities throughout the
-research lifecycle—from planning and implementation to writing, peer
+research lifecycle -- from planning and implementation to writing, peer
 review, editing, and publication. The potential for conflicts of
 interest and bias arises when professional judgment concerning a primary
 interest, such as patient welfare or research validity, may be
@@ -2138,16 +2138,16 @@ a paper's content, necessitating transparent disclosures. An author's
 full disclosure signals a commitment to transparency and bolsters trust
 in the scientific process.
 
-Financial relationships—such as employment, consultancies, stock
-ownership, honoraria, patents, and paid expert testimony—are easily
+Financial relationships -- such as employment, consultancies, stock
+ownership, honoraria, patents, and paid expert testimony -- are easily
 identifiable and often perceived as potential conflicts of interest,
 posing risks to the credibility of journals, authors, and science
 itself. Other interests, including personal relationships, academic
 competition, and intellectual beliefs, may also represent or be
 perceived as conflicts.
 
-Authors should refrain from agreements with study sponsors—both
-for-profit and nonprofit—that impede access to all study data or
+Authors should refrain from agreements with study sponsors -- both
+for-profit and nonprofit -- that impede access to all study data or
 hinder their ability to analyze, interpret, and publish manuscripts
 independently. Policies dictating where authors may publish infringe
 upon academic freedom principles. Authors may be required to share such

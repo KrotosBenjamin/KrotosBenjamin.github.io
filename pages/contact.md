@@ -55,7 +55,7 @@ the [HEART-GeN Summer Scholars page]({{ "/summer-scholars/" | relative_url }}).
 Consulting inquiries related to omics analysis are welcome through the form
 below.
 
-Feel free to use the contact form—we would love to hear from you!
+Feel free to use the contact form -- we would love to hear from you!
 
 <!-- <button name="button" onclick="mailto:kynon.benjamin@northwestern.edu">Email</button> -->
 
