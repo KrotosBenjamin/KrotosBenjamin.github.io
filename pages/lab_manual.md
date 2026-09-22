@@ -301,8 +301,8 @@ respectful of your fellow team members.
 
 -   Join Slack
 -   Read the lab manual
--   Obtain High-Performance Computing (HPC) cluster access (Quest and NSF
-    ACCESS)
+-   Obtain High-Performance Computing (HPC) cluster access (send your NetID
+    to Dr. Benjamin for Quest; NSF ACCESS)
 -   Obtain access to lab-specific software
 -   Attend a goals meeting with Dr. Benjamin
 
@@ -720,6 +720,20 @@ VS Code reloads, open the Command Palette and select **R: Create R terminal**.
     -    [User Guide](https://services.northwestern.edu/TDClient/30/Portal/KB/ArticleDet?ID=505)
     -    [QUEST Videos](https://services.northwestern.edu/TDClient/30/Portal/KB/ArticleDet?ID=2004)
 -   [SLURM](https://slurm.schedmd.com/quickstart.html)
+
+#### Sign Up for Quest
+
+To join the lab's Quest research projects:
+
+1.  Send your Northwestern NetID to Dr. Benjamin so that you can be added to
+    the lab's Quest research projects. Do not request a separate allocation
+    unless instructed to do so.
+2.  Once you have been added, follow the [Quest User
+    Guide](https://services.northwestern.edu/TDClient/30/Portal/KB/ArticleDet?ID=505)
+    to log in.
+3.  *(Optional)* For additional compute, you can also request access to the
+    Genomics Compute Cluster (GCC) by following the [GCC access
+    instructions](https://www.it.northwestern.edu/departments/it-services-support/research/computing/quest/genomics-compute-cluster.html).
 
 #### Sign Up for NSF ACCESS and Bridges-2
 
