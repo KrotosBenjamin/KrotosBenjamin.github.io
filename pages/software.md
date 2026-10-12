@@ -24,6 +24,8 @@ publication-ready plots, and encoder/decoder attribution, while switch pairs are
 annotated with GTF-derived exon, CDS/UTR, biotype, and coding-status changes.
 All steps are benchmark-validated, seed-controlled, and reproducible.
 
+Preprint: <https://doi.org/10.64898/2026.10.04.756439>
+
 PyPI: <https://pypi.org/project/isograph/>
 
 Documentation: <https://isograph.readthedocs.io/>

@@ -9,6 +9,11 @@ author_profile: true
 
 ## Preprints
 
+Bennett, A, Johnson, EK, and **Kynon JM Benjamin**. "IsoGraph resolves
+coordinated transcript choice and gene abundance in the aging human brain."
+*bioRxiv*. 2026.
+DOI: [10.64898/2026.10.04.756439](https://doi.org/10.64898/2026.10.04.756439).
+
 Bennett, A, Johnson, EK, Terry, NN, Hemphill, J, and **Kynon JM Benjamin**.
 "Local SNP-explained methylation variation reveals genetically anchored and
 exposure-associated methylation architecture in the human brain." *bioRxiv*.
