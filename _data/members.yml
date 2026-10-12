@@ -6,33 +6,12 @@ current:
     project: Alzheimer's Research
     image: sula-headshot-v2.jpg
 
-  - name: Javier Hernandez
-    pronouns: he/him
-    github: Javih10
-    role: Undergraduate
-    project: Gene-Gene Networks with VAEs
-    image: javier-hernandez.jpg
-
   - name: Elisa Johnson
     pronouns: she/her
     github: elisa-johnson-7061b4282
-    role: Undergraduate
+    role: Undergraduate (AYURG 2026; Senior Thesis)
     project: DNAm and heritability
     image: elisa-johnson.jpeg
-
-  - name: Yiju Choi
-    pronouns: she/her
-    github: yijuchoi
-    role: Undergraduate
-    project: Functional Annotation (Genetic Ancestry)
-    image: yiju-choi.jpg
-
-  - name: Jalil Hemphill
-    pronouns: he/him
-    github: jalilhemphill1
-    role: Undergraduate (URAP 2026)
-    project: DNAm Epigenetic Clocks (Schizophrenia)
-    image: jalil-hemphill.jpg
 
   - name: Nia Terry
     pronouns: she/her
@@ -49,12 +28,38 @@ current:
     project: Sex, Genetic Ancestry, Alzheimer's
     image: alexis-parrott.jpeg
 
+  - name: Dante Johnson
+    pronouns: he/him
+    role: Undergraduate
+    project: Cellular Composition and Epigenetic Clocks
+    image: dante-johnson.jpg
+
+  - name: Jalil Hemphill
+    pronouns: he/him
+    github: jalilhemphill1
+    role: Undergraduate (URAP 2026)
+    project: DNAm Elastic Net Clocks (Schizophrenia)
+    image: jalil-hemphill.jpg
+
+  - name: Javier Hernandez
+    pronouns: he/him
+    github: Javih10
+    role: Undergraduate (SURG 2025)
+    project: Gene-Gene Networks with VAEs
+    image: javier-hernandez.jpg
+
   - name: Sierra Mannion
     pronouns: she/her
     github: SierraM24
     role: Undergraduate (URAP 2025)
     project: Local-Ancestry Aware xQTL
     image: sierra-mannion.jpeg
+
+  - name: Jude Rischpater
+    pronouns: he/him
+    role: Undergraduate (SROP 2026)
+    loc: Dickinson College
+    project: Sex, Genetic Ancestry, Alzheimer's
 
 alumni:
   - name: Jocelyn Wang

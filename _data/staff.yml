@@ -15,6 +15,13 @@ current:
     role: Administrative
     image: valentine-gilson.jpeg
 
+  - name: Yiju Choi
+    pronouns: she/her
+    github: yijuchoi
+    role: Postbaccalaureate
+    project: Functional Annotation (Genetic Ancestry)
+    image: yiju-choi.jpg
+
 alumni:
   - name: Manuel Hurtado, Jr.
     github: mhi573
