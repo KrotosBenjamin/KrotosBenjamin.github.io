@@ -6,6 +6,12 @@ current:
     project: Alzheimer's Research
     image: sula-headshot-v2.jpg
 
+  - name: Annmarie Dominguez
+    pronouns: she/her
+    github: adominguez013
+    role: PhD Candidate (DGP)
+    project: Neurovascular and OUD/HIV
+
   - name: Elisa Johnson
     pronouns: she/her
     github: elisa-johnson-7061b4282
@@ -30,6 +36,7 @@ current:
 
   - name: Dante Johnson
     pronouns: he/him
+    github: DanteJohnson
     role: Undergraduate
     project: Cellular Composition and Epigenetic Clocks
     image: dante-johnson.jpg
@@ -66,6 +73,7 @@ alumni:
     pronouns: she/they
     github: jwang1889
     bluesky: jwang1889
+    loc: Northwestern University
     role: Undergraduate (URAP 2025)
     project: Local-Ancestry Aware xQTL
     image: jocelyn-wang.jpg
@@ -81,4 +89,5 @@ alumni:
   - name: Amirah Collins
     pronouns: she/her
     role: Undergraduate (BU 2025)
+    loc: Northwestern University
     project: Shiny App for Transcriptomics

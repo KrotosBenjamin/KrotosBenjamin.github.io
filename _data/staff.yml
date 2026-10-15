@@ -1,7 +1,9 @@
 current:
   - name: Allister Suarez, PhD
     pronouns: he/him
+    github: AllisterSuarez
     role: Staff Scientist
+    project: Regulatory Transport
     image: allister-suarez.jpg
 
   - name: Alexis Bennett
