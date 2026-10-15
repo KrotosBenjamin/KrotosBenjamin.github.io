@@ -34,14 +34,23 @@ role model, and advocate for opportunities for others.
 
 ## Research program
 
-The **primary goal** of our research is to improve therapeutics for
-underrepresented communities (i.e., personalized medicine) by
-investigating the influence of genetic ancestry on neurological
-disorders in relevant tissues. To this end, we *use and develop*
-*computational tools* to examine the role of genetic ancestry in the
-brain. In addition to this, we have established collaborations to use
-computational tools to address hypothesis-driven questions using
-publicly available single-cell and bulk-tissue data.
+We study **how human genetic variation shapes RNA regulation and cellular
+states across brain development, aging, and disease, and which of these
+mechanisms can be tested experimentally**. Our work connects three ideas:
+the *regulatory mechanisms* through which DNA variation acts (genetic
+ancestry, RNA splicing and isoform choice, gene expression, and DNA
+methylation); their *biological consequences* for cortical development,
+neuronal maturation, brain aging, schizophrenia, and neurodegeneration; and
+*mechanistic validation and translation* through interpretable genomic AI,
+experimental models, and ancestry-aware precision neuroscience.
+
+To this end, we *use and develop* open-source computational tools and work
+with experimental collaborators who test our predictions in postmortem human
+brain tissue, cerebral organoids, and iPSC-derived models. We treat genetic
+ancestry as one dimension of human genomic variation, not a proxy for race,
+and we aim for discoveries that are biologically informative and
+generalizable across the populations they are meant to serve. Read more on
+our [Research](/heart-gen-research/) page.
 
 ## Our Team
 

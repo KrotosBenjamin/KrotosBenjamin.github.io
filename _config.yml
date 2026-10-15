@@ -25,7 +25,7 @@ timezone   : America/Chicago
 
 name       : "Kynon JM Benjamin"
 description: >- # this means to ignore newlines until "baseurl:"
-  Improving neurotherapeutics for underrepresented communities.
+  How human genetic variation shapes RNA regulation and brain biology across development, aging, and disease.
 baseurl    : ""
 url        : "https://KrotosBenjamin.github.io"
 repository : "KrotosBenjamin/KrotosBenjamin.github.io"
