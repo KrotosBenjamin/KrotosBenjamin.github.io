@@ -11,9 +11,10 @@ author_profile: true
 
 Welcome to the Health Equity for Advancing Research and Technology using
 Genomic Neuroscience (HEART-GeN) lab! As a member of the HEART-GeN lab,
-you are joining a group of diverse scientists. Our lab focuses
-on **developing more equitable treatments** for brain disorders that
-disproportionately affect Black communities. In this lab manual, you'll
+you are joining a group of diverse scientists. Our lab studies **how
+human genetic variation shapes RNA regulation and brain biology** across
+development, aging, and disease, with the goal of making genomic neuroscience
+more equitable and generalizable. In this lab manual, you'll
 learn more about the lab's mission and values, as well as key
 information about getting started, working, and getting help in the lab.
 Remember, you are a valued member of the team, and you belong here
@@ -23,14 +24,22 @@ just as much as anyone else!
 
 ## Our Scientific Mission and Vision
 
-Our lab aims to improve therapeutics for underrepresented communities by
-investigating the influence of genetic ancestry on molecular signatures
-in the brain. We use computational tools and disease-relevant models,
-such as postmortem brain tissue, brain organoids, and iPSC-derived
-glial cells, to uncover how genetic ancestry affects complex traits in
-the brain. This integrative approach provides insights into the
-interplay between genetic and environmental factors in complex brain
-disorders.
+Our lab studies how human genetic variation influences RNA regulation and
+cellular states across brain development, aging, and disease, and which of
+these mechanisms can be tested experimentally. We examine the regulatory
+layers through which DNA variation acts -- genetic ancestry, RNA splicing
+and isoform choice, gene expression, and DNA methylation -- and their
+consequences for neuronal maturation, brain aging, schizophrenia, and
+neurodegeneration. We develop interpretable computational tools and use
+disease-relevant models, including postmortem brain tissue, cerebral
+organoids, and iPSC-derived cells, so that computational predictions become
+testable hypotheses.
+
+Three principles guide our science: mechanism over association,
+generalizability by design, and computation linked to biology. We treat
+genetic ancestry as one dimension of human genomic variation, not a proxy
+for race, and we recognize that social, environmental, and structural
+factors also shape brain health.
 
 We collaborate with communities to guide the development of impactful
 research. One of our lab's main priorities is to train a diverse group of

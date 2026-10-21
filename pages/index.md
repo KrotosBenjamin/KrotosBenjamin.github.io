@@ -4,7 +4,7 @@
 
 layout: home
 title: ""
-description: Led by Dr. Kynon J Benjamin, the HEART-GeN lab aims to improve neurotherapeutics for underrepresented communities.
+description: Led by Dr. Kynon J Benjamin, the HEART-GeN lab studies how human genetic variation shapes RNA regulation and brain biology across development, aging, and disease.
 author_profile: true
 show_excerpts: true
 entries_layout: list
@@ -13,12 +13,14 @@ permalink: /
 
 At the **<ins>H</ins>ealth <ins>E</ins>quity for <ins>A</ins>dvancing
 <ins>R</ins>esearch and <ins>T</ins>echnology using
-<ins>Ge</ins>nomic <ins>N</ins>euroscience (HEART-GeN)** lab, we aim to improve
-treatments for brain disorders by uncovering how the immune system, blood
-vessels, and brain cells work together -- and how this biology varies across
-different populations. By combining human stem cell models, genetics, and
-machine learning, we study how small differences in our DNA can help explain
-health disparities and point the way to more precise, equitable therapies.
+<ins>Ge</ins>nomic <ins>N</ins>euroscience (HEART-GeN)** lab, we study how small
+differences in our DNA change the way genes are read out in the brain -- which
+RNA transcripts a cell makes, how they are regulated, and how this shifts
+across brain development, aging, schizophrenia, and dementia. By combining
+human brain tissue, stem cell models, genetics, and interpretable machine
+learning, we work to pin down the mechanisms behind these changes and to make
+sure the discoveries hold across the diverse populations they are meant to
+serve.
 
 ## Consulting
 

@@ -11,9 +11,10 @@ author_profile: true
 
 ### **Join the HEART-GeN Lab: A Career in Cutting-Edge Neuroscience**
 
-Are you passionate about unraveling the mysteries of genetic ancestry,
-epigenetics, and brain disorders? Join the HEART-GeN research group and be
-part of groundbreaking discoveries that are shaping the future of neuroscience.
+Are you passionate about understanding how genetic variation shapes RNA
+regulation, brain development, aging, and psychiatric and neurodegenerative
+disease? Join the HEART-GeN research group and help build genomic neuroscience
+that is mechanistic, rigorous, and generalizable across populations.
 
 We are seeking highly motivated individuals to join our team at various levels,
 including:
