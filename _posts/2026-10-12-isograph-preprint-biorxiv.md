@@ -5,35 +5,54 @@ date: 2026-10-12
 title: "Beyond Gene Expression: Introducing IsoGraph, a New Framework for Understanding Transcript Choice in the Aging Human Brain"
 description: "Our bioRxiv preprint introduces IsoGraph, an open-source computational framework that separates the contributions of RNA isoform usage and gene abundance to gene networks, offering new insights into the molecular organization of the aging human brain."
 image: /assets/images/isograph-overview.png
-linkedin_caption: |
-  🧬 What if understanding brain aging requires looking beyond how much RNA a gene produces?
+linkedin_caption: >-
+  🧬 What if understanding brain aging requires looking beyond how much RNA a
+  gene produces?
 
-  We're excited to share the HEART-GeN Lab's second preprint, "IsoGraph resolves coordinated transcript choice and gene abundance in the aging human brain," now available on bioRxiv!
+  We're excited to share the HEART-GeN Lab's second preprint, "IsoGraph resolves
+  coordinated transcript choice and gene abundance in the aging human brain,"
+  now available on bioRxiv!
 
-  In this study, we introduce IsoGraph, an open-source computational framework that examines how genes coordinate their choice of RNA transcripts while distinguishing those patterns from changes in overall gene expression.
+  In this study, we introduce IsoGraph, an open-source computational framework
+  that examines how genes coordinate their choice of RNA transcripts while
+  distinguishing those patterns from changes in overall gene expression.
 
-  💡 The ideal way to study isoform networks, single-cell long-read sequencing, is still too costly to run at cohort scale. IsoGraph works with bulk RNA-seq, the data many labs already have, turning existing cohorts into a resource for studying transcript regulation.
+  💡 The ideal way to study isoform networks, single-cell long-read sequencing,
+  is still too costly to run at cohort scale. IsoGraph works with bulk RNA-seq,
+  the data many labs already have, turning existing cohorts into a resource for
+  studying transcript regulation.
 
-  🔬 Using transcriptomic data from 16 adult human brain aging analyses across BrainSEQ and GTEx, we found that:
+  🔬 Using transcriptomic data from 16 adult human brain aging analyses across
+  BrainSEQ and GTEx, we found that:
 
-  🔹 Coordinated transcript-usage patterns capture age-associated information beyond total gene abundance.
+  🔹 Coordinated transcript-usage patterns capture age-associated information
+  beyond total gene abundance.
 
-  🔹 Network-level patterns can retain age associations across independent cohorts, even when the exact genes within modules differ.
+  🔹 Network-level patterns can retain age associations across independent
+  cohorts, even when the exact genes within modules differ.
 
-  🔹 Integrating network context with genetic evidence helps prioritize candidate transcript events for further investigation, including events at neurological disease-associated loci.
+  🔹 Integrating network context with genetic evidence helps prioritize candidate
+  transcript events for further investigation, including events at neurological
+  disease-associated loci.
 
-  These findings highlight the importance of studying not only how much RNA genes produce, but also which transcripts they produce.
+  These findings highlight the importance of studying not only how much RNA
+  genes produce, but also which transcripts they produce.
 
-  👏 Congratulations to first author Alexis Bennett, coauthor Elisa Kain Johnson, and corresponding author Dr. Kynon J. M. Benjamin!
+  👏 Congratulations to Alexis Bennett and undergraduate researcher Elisa Kain
+  Johnson on their contributions to this work.
 
-  We're excited to share this work with the research community and welcome scientific discussion and collaboration.
+  We're excited to share this work with the research community and welcome
+  scientific discussion and collaboration.
 
-  📄 Read the preprint: https://www.biorxiv.org/content/10.64898/2026.10.04.756439v1
+  📄 Read the preprint:
+  https://www.biorxiv.org/content/10.64898/2026.10.04.756439v1
+
   📝 Full details on the lab blog: {url}
 
   This manuscript is a preprint and has not yet undergone peer review.
 
-  #Transcriptomics #BrainAging #ComputationalBiology #RNASeq #AlternativeSplicing
+  #Transcriptomics #BrainAging #ComputationalBiology #RNASeq
+  #AlternativeSplicing
 categories: [publications]
 tags: [bioRxiv, preprint, IsoGraph, isoforms, transcript usage, alternative splicing, aging, human brain, software, undergraduate research]
 author: HEART-GeN Lab
@@ -137,9 +156,9 @@ several important insights.
 ### 1. Coordinated Transcript Choice Reveals Information Beyond Gene Expression
 
 IsoGraph identified age-associated patterns of transcript usage that persisted
-even after accounting for total gene abundance. This suggests that studying which
-RNA isoforms are expressed can reveal additional dimensions of brain aging that
-are not fully captured by measuring how much RNA a gene produces.
+even after accounting for total gene abundance. This suggests that studying
+which RNA isoforms are expressed can reveal additional dimensions of brain aging
+that are not fully captured by measuring how much RNA a gene produces.
 
 These associations also persisted after adjustment for estimated cellular
 composition in some analyses, although the results depended on the brain region
@@ -166,9 +185,9 @@ network context complements gene-by-gene analysis without replacing it.
 
 We also evaluated individual transcript events using several complementary
 sources of evidence, including transcript structural annotations, short-read
-splice-junction usage, independent long-read sequencing, and within-donor allelic
-analyses. Together, these analyses provided additional support for selected
-transcript-level signals identified through the framework.
+splice-junction usage, independent long-read sequencing, and within-donor
+allelic analyses. Together, these analyses provided additional support for
+selected transcript-level signals identified through the framework.
 
 ### 4. Connecting Transcript Choice to Disease-Relevant Genetic Signals
 
@@ -249,7 +268,8 @@ welcome feedback, discussion, and opportunities for collaboration.
 - **Share the preprint:** [Download the bioRxiv QR code](https://connect.biorxiv.org/qr/2026.10.04.756439)
 - **More software from the lab:** [HEART-GeN software page]({{ site.url }}/heart-gen-software/)
 
-*Preprint authors: Alexis Bennett, Elisa Kain Johnson, and Kynon J. M. Benjamin.*
+*Preprint authors: Alexis Bennett, Elisa Kain Johnson, and Kynon J. M.
+Benjamin.*
 
 *This manuscript is currently available as a bioRxiv preprint and has not yet
 undergone peer review.*

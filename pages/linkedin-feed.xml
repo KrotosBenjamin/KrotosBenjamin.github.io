@@ -11,13 +11,15 @@ author_profile: false
 
   Per-post front matter:
     linkedin: false      keep the post out of this feed
-    linkedin_caption: |  the full LinkedIn post, written for LinkedIn; without
-                         it the automation posts title + description + link
+    linkedin_caption: >-  the full LinkedIn post, written for LinkedIn; without
+                          it the automation posts title + description + link
 
-  A caption is plain text (LinkedIn shows Markdown literally) and may span
-  paragraphs. `{url}` in a caption becomes the post's address. Line breaks
-  travel as escaped <br /> tags so that no feed parser can collapse them; the
-  automation turns them back into line breaks.
+  A caption is plain text (LinkedIn shows Markdown literally). Write it as a
+  folded block (`>-`): wrap lines freely and leave a blank line between
+  paragraphs. Each paragraph is posted with a blank line after it. `{url}` in
+  a caption becomes the post's address. Paragraph breaks travel as escaped
+  <br /> tags so that no feed parser can collapse them; the automation turns
+  them back into blank lines.
 {%- endcomment %}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:lab="https://krotosbenjamin.github.io/feeds/ns">
   <channel>
