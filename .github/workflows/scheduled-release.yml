@@ -1,0 +1,31 @@
+# Rebuilds the site every morning so that posts dated in the future go live on
+# their date. GitHub Pages only builds on a push, and a post whose `date:` is
+# still in the future is left out of that build (`future: false` in
+# _config.yml), so without this a scheduled post would wait for the next push.
+#
+# To schedule a post: set its `date:` to the release day and push it early.
+# It appears at the first build on or after that day, and the LinkedIn
+# automation picks it up from /feeds/linkedin.xml shortly afterwards.
+#
+# Times are UTC: 13:55 is 8:55 AM Eastern in winter and 9:55 AM in summer.
+# GitHub can start scheduled runs late, so a second run follows half an hour
+# later in case the first is delayed or dropped.
+name: Scheduled release
+
+on:
+  schedule:
+    - cron: "55 13 * * *"
+    - cron: "25 14 * * *"
+  workflow_dispatch:
+
+permissions:
+  pages: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Request a GitHub Pages build
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds"
