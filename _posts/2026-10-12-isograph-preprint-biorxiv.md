@@ -3,8 +3,37 @@ layout: single
 is_post: true
 date: 2026-10-12
 title: "Beyond Gene Expression: Introducing IsoGraph, a New Framework for Understanding Transcript Choice in the Aging Human Brain"
-description: "Our new bioRxiv preprint introduces IsoGraph, an open-source computational framework that reveals coordinated patterns of RNA isoform usage and gene abundance, offering new insights into the molecular organization of the aging human brain."
+description: "Our bioRxiv preprint introduces IsoGraph, an open-source computational framework that separates the contributions of RNA isoform usage and gene abundance to gene networks, offering new insights into the molecular organization of the aging human brain."
 image: /assets/images/isograph-overview.png
+linkedin_caption: |
+  🧬 What if understanding brain aging requires looking beyond how much RNA a gene produces?
+
+  We're excited to share the HEART-GeN Lab's second preprint, "IsoGraph resolves coordinated transcript choice and gene abundance in the aging human brain," now available on bioRxiv!
+
+  In this study, we introduce IsoGraph, an open-source computational framework that examines how genes coordinate their choice of RNA transcripts while distinguishing those patterns from changes in overall gene expression.
+
+  💡 The ideal way to study isoform networks, single-cell long-read sequencing, is still too costly to run at cohort scale. IsoGraph works with bulk RNA-seq, the data many labs already have, turning existing cohorts into a resource for studying transcript regulation.
+
+  🔬 Using transcriptomic data from 16 adult human brain aging analyses across BrainSEQ and GTEx, we found that:
+
+  🔹 Coordinated transcript-usage patterns capture age-associated information beyond total gene abundance.
+
+  🔹 Network-level patterns can retain age associations across independent cohorts, even when the exact genes within modules differ.
+
+  🔹 Integrating network context with genetic evidence helps prioritize candidate transcript events for further investigation, including events at neurological disease-associated loci.
+
+  These findings highlight the importance of studying not only how much RNA genes produce, but also which transcripts they produce.
+
+  👏 Congratulations to first author Alexis Bennett, coauthor Elisa Kain Johnson, and corresponding author Dr. Kynon J. M. Benjamin!
+
+  We're excited to share this work with the research community and welcome scientific discussion and collaboration.
+
+  📄 Read the preprint: https://www.biorxiv.org/content/10.64898/2026.10.04.756439v1
+  📝 Full details on the lab blog: {url}
+
+  This manuscript is a preprint and has not yet undergone peer review.
+
+  #Transcriptomics #BrainAging #ComputationalBiology #RNASeq #AlternativeSplicing
 categories: [publications]
 tags: [bioRxiv, preprint, IsoGraph, isoforms, transcript usage, alternative splicing, aging, human brain, software, undergraduate research]
 author: HEART-GeN Lab
@@ -18,7 +47,7 @@ on bioRxiv!
 
 In this work, we introduce **IsoGraph**, a computational framework designed to
 investigate an important but often overlooked dimension of transcriptomic
-biology: how genes coordinate their choice of RNA transcripts, independently of
+biology: how genes coordinate their choice of RNA transcripts, as distinct from
 changes in overall gene expression.
 
 <!--more-->
@@ -57,6 +86,24 @@ individual genes, detecting coordinated transcript-choice programs across
 multiple genes, and distinguishing them from changes in total gene abundance,
 remains challenging. This is the problem IsoGraph was developed to address.
 
+## Making Transcript Networks Accessible
+
+The ideal way to study coordinated transcript choice would be single-cell
+long-read sequencing, which captures full-length transcripts within individual
+cell types. That approach remains expensive and difficult to scale to large
+cohorts. The alternatives each give something up: standard single-cell
+short-read assays capture little full-length isoform information, and bulk
+long-read sequencing is limited in depth and throughput.
+
+Bulk short-read RNA-seq, in contrast, already exists for large human cohorts
+such as GTEx and BrainSEQ. These data have real limitations, including ambiguous
+isoform quantification and no direct view of cell identity, but they are the
+data many research groups already have.
+
+We built IsoGraph to work with these data. Any group with a bulk RNA-seq cohort
+can use it to ask network-level questions about transcript choice, and then
+follow up the prioritized events with higher-resolution assays.
+
 ## Introducing IsoGraph: Connecting Transcript Choice and Gene Abundance
 
 IsoGraph is a gene-centered computational framework that integrates two
@@ -82,9 +129,10 @@ transcriptome.
 
 ## What Did We Discover in the Aging Human Brain?
 
-To evaluate IsoGraph, we combined synthetic benchmarking with analyses of adult
-human brain transcriptomic datasets from BrainSEQ and the Genotype-Tissue
-Expression (GTEx) project. Our findings highlight several important insights.
+To evaluate IsoGraph, we combined synthetic benchmarking with 16 aging analyses
+of adult human brain transcriptomic data: three brain regions from BrainSEQ and
+13 from the Genotype-Tissue Expression (GTEx) project. Our findings highlight
+several important insights.
 
 ### 1. Coordinated Transcript Choice Reveals Information Beyond Gene Expression
 
@@ -97,22 +145,24 @@ These associations also persisted after adjustment for estimated cellular
 composition in some analyses, although the results depended on the brain region
 examined.
 
-### 2. Transcript-Usage Modules Show Reproducible Biological Signals
+### 2. Transcript-Usage Network Axes Transfer Across Cohorts
 
 We found that IsoGraph modules were stable across subsets of donors.
-Importantly, module-derived signals retained age associations across cohorts even
-when the exact genes assigned to individual modules differed.
+Importantly, network axes defined in one cohort retained their age associations
+when applied to another cohort, even though the exact genes assigned to
+individual modules differed.
 
-These findings suggest that coordinated transcript-usage patterns can capture
-reproducible aspects of transcriptomic organization, despite variability in the
-precise network structure recovered across datasets.
+These findings suggest that coordinated transcript-usage patterns are more
+reproducible as network axes than as fixed lists of genes, despite variability
+in the precise network structure recovered across datasets.
 
 ### 3. Network Context Helps Identify Transcript-Level Changes
 
-IsoGraph provides information beyond examining each gene independently. In our
-analyses, module-level context contained predictive information about
-differential transcript usage in held-out data beyond gene-wise evidence and
-conventional co-expression approaches.
+IsoGraph can provide information beyond examining each gene independently. In
+three of six cohort-region analyses, module-level context predicted differential
+transcript usage in held-out donors beyond gene-wise evidence and conventional
+gene co-expression. The effect was modest and depended on the brain region, so
+network context complements gene-by-gene analysis without replacing it.
 
 We also evaluated individual transcript events using several complementary
 sources of evidence, including transcript structural annotations, short-read
@@ -126,13 +176,27 @@ Beyond aging, we investigated how IsoGraph findings relate to neurological and
 psychiatric disease-associated genetic loci. Through genetic colocalization
 analyses, we prioritized candidate transcript events, including an alternative
 terminal-exon event involving *PRDM2* at a locus associated with amyotrophic
-lateral sclerosis (ALS).
+lateral sclerosis (ALS) and a splice junction in *SH3GL2* at a locus associated
+with Parkinson's disease.
 
 These findings highlight the potential of integrating coordinated
 transcript-usage networks with genetic evidence to generate more focused
-hypotheses about disease-relevant molecular mechanisms. The prioritized events
-remain candidates for further investigation rather than established causal
-mechanisms.
+hypotheses about disease-relevant molecular mechanisms. The genetic support was
+specific to selected genes and transcript events and did not extend across
+entire modules. The prioritized events remain candidates for further
+investigation rather than established causal mechanisms.
+
+### 5. Age-Associated Switches Often Differ in Untranslated Regions
+
+We also asked what distinguishes the transcripts involved in age-associated
+switches. Across nine aging analyses, these transcript pairs were consistently
+enriched for differences in their untranslated regions (UTRs), about 1.25-fold
+relative to other transcript pairs from the same genes, while differences in
+coding sequence showed much weaker enrichment.
+
+UTRs influence RNA stability, localization, and translation, so this pattern
+points to specific, testable hypotheses about what these switches may do. The
+annotations do not establish the functional effect of any individual event.
 
 ## Benchmarking and Reproducibility
 
@@ -154,8 +218,8 @@ and accompanying analysis resources available to the research community.
 
 Understanding the molecular processes associated with human brain aging requires
 examining more than whether genes are expressed at higher or lower levels. Our
-findings suggest that the coordinated selection of RNA isoforms represents an
-additional, reproducible dimension of transcriptomic organization.
+findings suggest that the coordinated selection of RNA isoforms is a measurable
+dimension of molecular variation that complements total gene expression.
 
 IsoGraph provides a framework for studying this variation in the context of gene
 abundance, identifying coordinated modules, and following network-level signals
@@ -163,6 +227,10 @@ back to individual transcript events that can be investigated further. Although
 our findings establish associations rather than causal relationships, they
 provide a foundation for investigating how transcript regulation contributes to
 biological aging and potentially to neurological disease.
+
+Because IsoGraph runs on bulk RNA-seq, it also makes coordinated transcript
+choice accessible to network biology, turning existing cohorts into a resource
+for identifying and prioritizing disease-relevant transcript regulation.
 
 We hope IsoGraph will be a useful resource for researchers studying alternative
 splicing, transcriptomics, systems biology, brain aging, and disease-associated

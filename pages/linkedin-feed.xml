@@ -10,10 +10,16 @@ author_profile: false
   carries a plain-text description and a valid image URL.
 
   Per-post front matter:
-    linkedin: false          keep the post out of this feed
-    linkedin_caption: "..."  text to use instead of `description`
+    linkedin: false      keep the post out of this feed
+    linkedin_caption: |  the full LinkedIn post, written for LinkedIn; without
+                         it the automation posts title + description + link
+
+  A caption is plain text (LinkedIn shows Markdown literally) and may span
+  paragraphs. `{url}` in a caption becomes the post's address. Line breaks
+  travel as escaped <br /> tags so that no feed parser can collapse them; the
+  automation turns them back into line breaks.
 {%- endcomment %}
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:lab="https://krotosbenjamin.github.io/feeds/ns">
   <channel>
     <title>HEART-GeN Lab blog</title>
     <link>{{ "/" | absolute_url | xml_escape }}</link>
@@ -29,11 +35,16 @@ author_profile: false
 
       {%- assign item_url = post.url | absolute_url | xml_escape -%}
 
-      {%- assign item_text = post.linkedin_caption | default: post.description -%}
-      {%- if item_text -%}
-        {%- assign item_text = item_text | normalize_whitespace | xml_escape -%}
+      {%- if post.description -%}
+        {%- assign item_text = post.description | normalize_whitespace | xml_escape -%}
       {%- else -%}
         {%- assign item_text = post.excerpt | strip_html | normalize_whitespace | xml_escape -%}
+      {%- endif -%}
+
+      {%- assign item_caption = "" -%}
+      {%- if post.linkedin_caption -%}
+        {%- assign plain_url = post.url | absolute_url -%}
+        {%- assign item_caption = post.linkedin_caption | strip | replace: "{url}", plain_url | newline_to_br | xml_escape -%}
       {%- endif -%}
 
       {%- comment -%} Same image choice as _includes/seo.html. {%- endcomment -%}
@@ -49,6 +60,9 @@ author_profile: false
       <guid isPermaLink="true">{{ item_url }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       <description>{{ item_text }}</description>
+      {%- if item_caption != "" %}
+      <lab:linkedinPost>{{ item_caption }}</lab:linkedinPost>
+      {%- endif %}
       <enclosure url="{{ item_image }}" type="{{ image_type }}" length="0" />
       <media:content url="{{ item_image }}" medium="image" type="{{ image_type }}" />
       <media:thumbnail url="{{ item_image }}" />
