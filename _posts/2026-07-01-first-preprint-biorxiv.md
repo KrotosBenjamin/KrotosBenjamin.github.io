@@ -23,11 +23,11 @@ representation in genomic and neuroepigenomic research.
 
 <!--more-->
 
-This project was led by **Alexis Bennett**, with important contributions from
-three outstanding undergraduate researchers: **Elisa Kain Johnson, Nia N. Terry,
-and Jalil Hemphill**. As corresponding author, **Dr. Kynon J. M. Benjamin** is
-incredibly proud of the care, creativity, and persistence this team brought to
-the work.
+This project was led by **[Alexis Bennett][alexis-bennett]**, with important
+contributions from three outstanding undergraduate researchers: **[Elisa Kain
+Johnson][elisa-kain-johnson], Nia N. Terry, and Jalil Hemphill**. As
+corresponding author, **Dr. Kynon J. M. Benjamin** is incredibly proud of the
+care, creativity, and persistence this team brought to the work.
 
 ## Understanding Genetic and Exposure-Associated Patterns in the Brain Methylome
 
@@ -83,3 +83,6 @@ comes next.
 
 **Read the preprint on bioRxiv:**
 [https://www.biorxiv.org/content/10.64898/2026.06.05.730443v1](https://www.biorxiv.org/content/10.64898/2026.06.05.730443v1)
+
+[alexis-bennett]: https://www.linkedin.com/in/alexis-bennett-5001b6162/
+[elisa-kain-johnson]: https://www.linkedin.com/in/elisa-kain-johnson-7061b4282/

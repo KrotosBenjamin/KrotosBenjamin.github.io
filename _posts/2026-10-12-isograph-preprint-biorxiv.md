@@ -78,9 +78,10 @@ relevant to neurological and psychiatric disease.
 
 **[Read our preprint on bioRxiv](https://www.biorxiv.org/content/10.64898/2026.10.04.756439v1)**
 
-This is the HEART-GeN Lab's second preprint. It was first-authored by **Alexis
-Bennett** with **Elisa Kain Johnson**, and **Dr. Kynon J. M. Benjamin** served
-as corresponding author.
+This is the HEART-GeN Lab's second preprint. It was first-authored by
+**[Alexis Bennett][alexis-bennett]** with
+**[Elisa Kain Johnson][elisa-kain-johnson]**, and **Dr. Kynon J. M. Benjamin**
+served as corresponding author.
 
 ## Looking Beyond How Much a Gene Is Expressed
 
@@ -279,3 +280,6 @@ undergone peer review.*
 **Advancing transcriptomics means understanding not only how much RNA genes
 produce, but also which transcripts they choose, and how those choices are
 coordinated across the genome.**
+
+[alexis-bennett]: https://www.linkedin.com/in/alexis-bennett-5001b6162/
+[elisa-kain-johnson]: https://www.linkedin.com/in/elisa-kain-johnson-7061b4282/

@@ -22,10 +22,10 @@ one of the premier international gatherings in genomics.
 
 ### 🧪 Poster Presentation
 
-**Alexis Bennett** presented a compelling research poster on **DNA methylation
-heritability**, offering novel insights into how genetic variation influences
-epigenetic signatures. Her work adds critical context to understanding gene
-regulation and its implications for disease risk.
+**[Alexis Bennett][alexis-bennett]** presented a compelling research poster on
+**DNA methylation heritability**, offering novel insights into how genetic
+variation influences epigenetic signatures. Her work adds critical context to
+understanding gene regulation and its implications for disease risk.
 
 ![Alexis Poster]({{site.url}}/assets/images/ashg-alexis-2025.jpg)
 
@@ -57,3 +57,5 @@ In between sessions, **Dr. Benjamin** joined friends for the PacBio event — a
 great chance to connect, laugh, and celebrate the week together.
 
 ![PacBio Event]({{site.url}}/assets/images/pacbio-2025-group.jpg)
+
+[alexis-bennett]: https://www.linkedin.com/in/alexis-bennett-5001b6162/
