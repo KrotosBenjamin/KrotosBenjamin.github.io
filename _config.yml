@@ -30,6 +30,7 @@ baseurl    : ""
 url        : "https://KrotosBenjamin.github.io"
 repository : "KrotosBenjamin/KrotosBenjamin.github.io"
 logo       : "assets/images/lab-logo.png"
+og_image   : "/assets/images/og-default.png" # social card image for pages without their own
 
 # Handling Reading
 encoding     : "utf-8"

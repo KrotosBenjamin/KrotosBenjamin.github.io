@@ -1,0 +1,58 @@
+---
+layout: none
+permalink: /feeds/linkedin.xml
+sitemap: false
+author_profile: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+{%- comment -%}
+  Feed read by the RSS-to-LinkedIn automation. Unlike /feed.xml, every item
+  carries a plain-text description and a valid image URL.
+
+  Per-post front matter:
+    linkedin: false          keep the post out of this feed
+    linkedin_caption: "..."  text to use instead of `description`
+{%- endcomment %}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>HEART-GeN Lab blog</title>
+    <link>{{ "/" | absolute_url | xml_escape }}</link>
+    <description>{{ site.description | normalize_whitespace | xml_escape }}</description>
+    <language>{{ site.locale | default: "en-US" }}</language>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <atom:link href="{{ page.url | absolute_url | xml_escape }}" rel="self" type="application/rss+xml" />
+    {%- assign shown = 0 -%}
+    {%- for post in site.posts -%}
+      {%- if post.linkedin == false -%}{%- continue -%}{%- endif -%}
+      {%- if shown >= 10 -%}{%- break -%}{%- endif -%}
+      {%- assign shown = shown | plus: 1 -%}
+
+      {%- assign item_url = post.url | absolute_url | xml_escape -%}
+
+      {%- assign item_text = post.linkedin_caption | default: post.description -%}
+      {%- if item_text -%}
+        {%- assign item_text = item_text | normalize_whitespace | xml_escape -%}
+      {%- else -%}
+        {%- assign item_text = post.excerpt | strip_html | normalize_whitespace | xml_escape -%}
+      {%- endif -%}
+
+      {%- comment -%} Same image choice as _includes/seo.html. {%- endcomment -%}
+      {%- assign front_image = post.image | join: "," | split: "," | first -%}
+      {%- assign item_image = post.header.og_image | default: post.header.overlay_image | default: post.header.image | default: front_image | default: post.header.teaser | default: site.og_image | absolute_url | xml_escape -%}
+      {%- assign image_ext = item_image | split: "." | last | downcase -%}
+      {%- assign image_type = "image/jpeg" -%}
+      {%- if image_ext == "png" -%}{%- assign image_type = "image/png" -%}{%- endif -%}
+      {%- if image_ext == "gif" -%}{%- assign image_type = "image/gif" -%}{%- endif %}
+    <item>
+      <title>{{ post.title | strip_html | normalize_whitespace | xml_escape }}</title>
+      <link>{{ item_url }}</link>
+      <guid isPermaLink="true">{{ item_url }}</guid>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <description>{{ item_text }}</description>
+      <enclosure url="{{ item_image }}" type="{{ image_type }}" length="0" />
+      <media:content url="{{ item_image }}" medium="image" type="{{ image_type }}" />
+      <media:thumbnail url="{{ item_image }}" />
+    </item>
+    {%- endfor %}
+  </channel>
+</rss>

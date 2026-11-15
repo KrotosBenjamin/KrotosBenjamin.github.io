@@ -4,6 +4,7 @@ is_post: true
 date: 2026-10-12
 title: "Beyond Gene Expression: Introducing IsoGraph, a New Framework for Understanding Transcript Choice in the Aging Human Brain"
 description: "Our new bioRxiv preprint introduces IsoGraph, an open-source computational framework that reveals coordinated patterns of RNA isoform usage and gene abundance, offering new insights into the molecular organization of the aging human brain."
+image: /assets/images/isograph-overview.png
 categories: [publications]
 tags: [bioRxiv, preprint, IsoGraph, isoforms, transcript usage, alternative splicing, aging, human brain, software, undergraduate research]
 author: HEART-GeN Lab
