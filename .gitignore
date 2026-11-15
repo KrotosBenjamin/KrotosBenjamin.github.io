@@ -10,3 +10,6 @@ _site
 vendor
 _drafts
 .codex
+
+# Original camera files; posts use resized copies with descriptive names
+assets/images/**/IMG_*
