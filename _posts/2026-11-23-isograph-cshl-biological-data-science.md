@@ -1,7 +1,7 @@
 ---
 layout: single
 is_post: true
-date: 2026-11-19
+date: 2026-11-23
 title: "HEART-GeN Lab Presents IsoGraph at CSHL Biological Data Science 2026"
 description: "Dr. Kynon J. M. Benjamin presented IsoGraph, the lab's framework for studying coordinated RNA transcript choice alongside gene abundance, in the Functional Genomics program of the CSHL Biological Data Science 2026 meeting."
 image: /assets/images/isograph-overview.png
