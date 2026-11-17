@@ -13,6 +13,13 @@ author_profile: false
     linkedin: false      keep the post out of this feed
     linkedin_caption: >-  the full LinkedIn post, written for LinkedIn; without
                           it the automation posts title + description + link
+    linkedin_images:      photos attached to the LinkedIn post (a path or a
+                          list of paths, at most 9). Defaults to the post's
+                          `image:`. Set to false to post a link card instead.
+
+  With photos, LinkedIn shows the photos and no link card, so the blog link
+  is only the address in the text. A post with neither `linkedin_images` nor
+  `image` goes out as a link card. Photos must be JPG, PNG or GIF.
 
   A caption is plain text (LinkedIn shows Markdown literally). Write it as a
   folded block (`>-`): wrap lines freely and leave a blank line between
@@ -49,6 +56,21 @@ author_profile: false
         {%- assign item_caption = post.linkedin_caption | strip | replace: "{url}", plain_url | newline_to_br | xml_escape -%}
       {%- endif -%}
 
+      {%- comment -%} Photos for the LinkedIn post, as one space-separated list. {%- endcomment -%}
+      {%- assign photo_paths = "" | split: "," -%}
+      {%- if post.linkedin_images == false -%}
+      {%- elsif post.linkedin_images -%}
+        {%- assign photo_paths = post.linkedin_images | join: "," | split: "," -%}
+      {%- elsif post.image -%}
+        {%- assign photo_paths = post.image | join: "," | split: "," -%}
+      {%- endif -%}
+      {%- assign item_photos = "" -%}
+      {%- for photo_path in photo_paths limit: 9 -%}
+        {%- assign photo_url = photo_path | strip | absolute_url | xml_escape -%}
+        {%- assign item_photos = item_photos | append: " " | append: photo_url -%}
+      {%- endfor -%}
+      {%- assign item_photos = item_photos | strip -%}
+
       {%- comment -%} Same image choice as _includes/seo.html. {%- endcomment -%}
       {%- assign front_image = post.image | join: "," | split: "," | first -%}
       {%- assign item_image = post.header.og_image | default: post.header.overlay_image | default: post.header.image | default: front_image | default: post.header.teaser | default: site.og_image | absolute_url | xml_escape -%}
@@ -64,6 +86,9 @@ author_profile: false
       <description>{{ item_text }}</description>
       {%- if item_caption != "" %}
       <lab:linkedinPost>{{ item_caption }}</lab:linkedinPost>
+      {%- endif %}
+      {%- if item_photos != "" %}
+      <lab:linkedinImages>{{ item_photos }}</lab:linkedinImages>
       {%- endif %}
       <enclosure url="{{ item_image }}" type="{{ image_type }}" length="0" />
       <media:content url="{{ item_image }}" medium="image" type="{{ image_type }}" />
